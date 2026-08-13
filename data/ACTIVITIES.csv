@@ -1,0 +1,748 @@
+ACTIVITY_ID,ACCOUNT_ID,OPPORTUNITY_ID,CONTACT_ID,ACTIVITY_DATE,ACTIVITY_TYPE,SUBJECT,SUMMARY,OWNER_AE
+ACT-000001,ACC-0001,OPP-00001,CON-00002,2026-03-22,Email,Email,Forwarded ROI calculator,mara.lindqvist@nimbus.example
+ACT-000002,ACC-0001,OPP-00002,CON-00004,2026-03-23,Email,Email,Sent reference customer intros,mara.lindqvist@nimbus.example
+ACT-000003,ACC-0001,OPP-00001,CON-00002,2026-03-28,Email,Email,Sent reference customer intros,mara.lindqvist@nimbus.example
+ACT-000004,ACC-0001,OPP-00002,CON-00004,2026-05-20,Email,Email,Sent reference customer intros,mara.lindqvist@nimbus.example
+ACT-000005,ACC-0001,,CON-00003,2026-04-06,Email,Email,Replied on contract redlines,mara.lindqvist@nimbus.example
+ACT-000006,ACC-0001,OPP-00001,CON-00003,2026-01-09,Email,Email,DPA sent for legal review,mara.lindqvist@nimbus.example
+ACT-000007,ACC-0001,,CON-00002,2026-02-21,Meeting,Meeting,Workshop on Ops process pain points,mara.lindqvist@nimbus.example
+ACT-000008,ACC-0001,OPP-00001,CON-00002,2025-12-08,Meeting,Meeting,Workshop on Ops process pain points,mara.lindqvist@nimbus.example
+ACT-000009,ACC-0001,OPP-00002,CON-00001,2026-01-12,Email,Email,Forwarded ROI caluclator,mara.lindqvist@nimbus.example
+ACT-000010,ACC-0001,OPP-00002,CON-00004,2026-01-31,Call,Call,Renewal check-in,mara.lindqvist@nimbus.example
+ACT-000011,ACC-0001,OPP-00002,CON-00003,2026-05-30,Call,Call,Mutual action plan review,mara.lindqvist@nimbus.example
+ACT-000012,ACC-0001,OPP-00001,CON-00001,2026-03-28,Email,Email,Sent follow-up on demo recap,mara.lindqvist@nimbus.example
+ACT-000013,ACC-0001,,CON-00003,2026-03-24,Email,Email,intro to procurement,mara.lindqvist@nimbus.example
+ACT-000014,ACC-0001,,CON-00003,2026-02-19,Call,Call,Mutual action plan review,mara.lindqvist@nimbus.example
+ACT-000015,ACC-0002,OPP-00003,CON-00008,2026-04-12,Email,Email,Quick ping on next steps,mara.lindqvist@nimbus.example
+ACT-000016,ACC-0002,OPP-00003,CON-00008,2026-01-24,Email,Email,Email re: pricing question from Andreas Tanaka,mara.lindqvist@nimbus.example
+ACT-000017,ACC-0002,,CON-00005,2026-03-04,Call,Call,Multithreading call — brought in head of finance,mara.lindqvist@nimbus.example
+ACT-000018,ACC-0002,,CON-00008,2026-03-19,Call,Call,discovery call with mateo henriksen,mara.lindqvist@nimbus.example
+ACT-000019,ACC-0002,OPP-00003,CON-00005,2026-04-07,Note,Internal note,Recommend doubling down on usage review,mara.lindqvist@nimbus.example
+ACT-000020,ACC-0002,OPP-00003,CON-00007,2026-01-15,Email,Email,intro to procurement,mara.lindqvist@nimbus.example
+ACT-000021,ACC-0002,OPP-00003,CON-00006,2026-03-26,Meeting,Meeting,QBR / EBR with leadership,mara.lindqvist@nimbus.example
+ACT-000022,ACC-0002,,CON-00005,2026-01-26,Call,Call,Renewal check-in,mara.lindqvist@nimbus.example
+ACT-000023,ACC-0002,OPP-00003,CON-00007,2026-01-19,Email,Email,intro to procurement,mara.lindqvist@nimbus.example
+ACT-000024,ACC-0003,OPP-00004,CON-00014,2026-05-22,Call,Call,Mutual action plan review,mara.lindqvist@nimbus.example
+ACT-000025,ACC-0003,OPP-00004,CON-00011,2026-05-08,Call,Call,discovery call with hannah dvořák,mara.lindqvist@nimbus.example
+ACT-000026,ACC-0003,,CON-00011,2026-05-06,Email,Email,email re: pricing question from hannah dvořák,mara.lindqvist@nimbus.example
+ACT-000027,ACC-0003,,CON-00013,2026-04-29,Call,Call,Champion enablement call,mara.lindqvist@nimbus.example
+ACT-000028,ACC-0003,OPP-00004,CON-00011,2026-05-20,Call,Call,Discovery call with Ida Esposito,mara.lindqvist@nimbus.example
+ACT-000029,ACC-0003,OPP-00004,CON-00010,2026-05-03,Email,Email,Replied on contract redlines,mara.lindqvist@nimbus.example
+ACT-000030,ACC-0003,OPP-00004,CON-00011,2026-05-23,Email,Email,shared the Vantive comparison battlecard,mara.lindqvist@nimbus.example
+ACT-000031,ACC-0003,OPP-00004,CON-00015,2026-05-23,Email,Email,DPA sent for legal review,mara.lindqvist@nimbus.example
+ACT-000032,ACC-0003,,CON-00010,2026-05-30,Email,Email,shared the Vantive comparison battlecard,mara.lindqvist@nimbus.example
+ACT-000033,ACC-0003,OPP-00004,CON-00012,2026-04-30,Email,Email,Forwarded ROI calculator,mara.lindqvist@nimbus.example
+ACT-000034,ACC-0003,OPP-00004,CON-00012,2026-04-25,Email,Email,Forwarded ROI calculator,mara.lindqvist@nimbus.example
+ACT-000035,ACC-0003,OPP-00004,CON-00010,2026-05-07,Call,Call,discovery call with pieter bauer,mara.lindqvist@nimbus.example
+ACT-000036,ACC-0003,OPP-00004,CON-00011,2026-05-26,Meeting,Meeting,Demo to extendde team,mara.lindqvist@nimbus.example
+ACT-000037,ACC-0003,OPP-00004,CON-00014,2026-04-30,Note,Internal note,Procurement is the bottleneck not the buyer,mara.lindqvist@nimbus.example
+ACT-000038,ACC-0003,OPP-00004,CON-00015,2026-04-29,Email,Email,shared the Vantive compraison battlecard,mara.lindqvist@nimbus.example
+ACT-000039,ACC-0003,OPP-00004,CON-00015,2026-05-25,Email,Email,Replied on contract redlines,mara.lindqvist@nimbus.example
+ACT-000040,ACC-0003,OPP-00004,CON-00013,2026-05-04,Email,Email,Quick ping on next steps,mara.lindqvist@nimbus.example
+ACT-000041,ACC-0003,,CON-00013,2026-05-01,Email,Email,DPA sent for legal review,mara.lindqvist@nimbus.example
+ACT-000042,ACC-0004,OPP-00005,CON-00020,2026-04-09,Email,Email,Sent follow-up on demo recap,mara.lindqvist@nimbus.example
+ACT-000043,ACC-0004,,CON-00017,2026-03-17,Meeting,Meeting,Demo to extended team,mara.lindqvist@nimbus.example
+ACT-000044,ACC-0004,OPP-00005,CON-00018,2026-02-27,Email,Email,shared the Vantive comparison battlecard,mara.lindqvist@nimbus.example
+ACT-000045,ACC-0004,OPP-00005,CON-00016,2026-03-07,Call,Call,Champion enablement call,mara.lindqvist@nimbus.example
+ACT-000046,ACC-0004,,CON-00017,2026-02-21,Email,Email,dpa sent for legal review,mara.lindqvist@nimbus.example
+ACT-000047,ACC-0004,,CON-00016,2026-03-29,Call,Call,follow up call on objections,mara.lindqvist@nimbus.example
+ACT-000048,ACC-0004,OPP-00005,CON-00022,2025-12-31,Call,Call,follow up call on objections,mara.lindqvist@nimbus.example
+ACT-000049,ACC-0004,OPP-00005,CON-00019,2026-03-08,Email,Email,Email re: pricing question from Liesl Lopez,mara.lindqvist@nimbus.example
+ACT-000050,ACC-0004,,CON-00018,2026-05-07,Call,Call,Discovery call with Mia Andersen,mara.lindqvist@nimbus.example
+ACT-000051,ACC-0004,OPP-00005,CON-00021,2026-04-11,Email,Email,shared the Vantive comparison battlecard,mara.lindqvist@nimbus.example
+ACT-000052,ACC-0004,OPP-00005,CON-00017,2026-02-13,Call,Call,Discovery call with Yara Krause,mara.lindqvist@nimbus.example
+ACT-000053,ACC-0004,OPP-00005,CON-00022,2026-03-16,Call,Call,Renewal check-in,mara.lindqvist@nimbus.example
+ACT-000054,ACC-0004,OPP-00005,CON-00018,2026-03-21,Call,Call,follow up call on objections,mara.lindqvist@nimbus.example
+ACT-000055,ACC-0004,,CON-00019,2026-04-21,Email,Email,Replied on contract redlines,mara.lindqvist@nimbus.example
+ACT-000056,ACC-0004,OPP-00005,CON-00019,2026-05-07,Email,Email,Sent reference customer intros,mara.lindqvist@nimbus.example
+ACT-000057,ACC-0004,OPP-00005,CON-00018,2026-01-03,Email,Email,shared the Vantive comparison battlecard,mara.lindqvist@nimbus.example
+ACT-000058,ACC-0004,,CON-00018,2026-03-13,Call,Call,Pricign discussion w/ economic buyer,mara.lindqvist@nimbus.example
+ACT-000059,ACC-0004,,CON-00018,2026-02-04,Call,Call,Multithreading call — brought in head of finance,mara.lindqvist@nimbus.example
+ACT-000060,ACC-0004,OPP-00005,CON-00019,2026-04-18,Meeting,Meeting,Workshop on Ops process pain points,mara.lindqvist@nimbus.example
+ACT-000061,ACC-0004,OPP-00005,CON-00021,2026-01-12,Call,Call,Renewal chekc-in,mara.lindqvist@nimbus.example
+ACT-000062,ACC-0004,OPP-00005,CON-00021,2026-02-21,Call,Call,Multithreading call — brought in head of finance,mara.lindqvist@nimbus.example
+ACT-000063,ACC-0004,OPP-00005,CON-00016,2026-04-04,Email,Email,DPA sent for legal review,mara.lindqvist@nimbus.example
+ACT-000064,ACC-0005,OPP-00006,CON-00024,2026-04-04,Call,Call,follow up call on objections,marcus.byrne@nimbus.example
+ACT-000065,ACC-0005,OPP-00006,CON-00024,2026-03-17,Meeting,Meeting,Renewal kick-off meeting,marcus.byrne@nimbus.example
+ACT-000066,ACC-0005,OPP-00006,CON-00026,2025-12-21,Meeting,Meeting,Discovery deep-dive — workflow automation,marcus.byrne@nimbus.example
+ACT-000067,ACC-0005,OPP-00006,CON-00026,2026-01-03,Email,Email,DPA sent for leagl review,marcus.byrne@nimbus.example
+ACT-000068,ACC-0005,OPP-00006,CON-00025,2026-03-09,Note,Internal note,Recommend doubling down on usage review,marcus.byrne@nimbus.example
+ACT-000069,ACC-0005,,CON-00023,2026-04-13,Email,Email,Forwarded ROI aclculator,marcus.byrne@nimbus.example
+ACT-000070,ACC-0005,OPP-00006,CON-00026,2026-02-16,Email,Email,Sent reference customer intros,marcus.byrne@nimbus.example
+ACT-000071,ACC-0005,OPP-00006,CON-00025,2026-02-14,Email,Email,intro to procurement,marcus.byrne@nimbus.example
+ACT-000072,ACC-0005,OPP-00006,CON-00027,2026-01-15,Email,Email,sent follow-up on demo recap,marcus.byrne@nimbus.example
+ACT-000073,ACC-0005,,CON-00024,2026-02-16,Email,Email,Forwarded ROI calculator,marcus.byrne@nimbus.example
+ACT-000074,ACC-0006,OPP-00007,CON-00029,2026-02-19,Meeting,Meeting,Workshop on Ops process pain points,mara.lindqvist@nimbus.example
+ACT-000075,ACC-0006,OPP-00007,CON-00028,2026-01-11,Call,Call,Multithreading call — brought in head of finance,mara.lindqvist@nimbus.example
+ACT-000076,ACC-0006,OPP-00007,CON-00032,2026-05-18,Note,Internal note,Heard via partner that CFO change is imminent,mara.lindqvist@nimbus.example
+ACT-000077,ACC-0006,OPP-00007,CON-00028,2026-03-27,Call,Call,Mutual action plan review,mara.lindqvist@nimbus.example
+ACT-000078,ACC-0006,OPP-00007,CON-00031,2026-04-04,Email,Email,Email re: pricing question from Hannah Ferreira,mara.lindqvist@nimbus.example
+ACT-000079,ACC-0006,OPP-00007,CON-00032,2026-03-21,Call,Call,Champion enablement call,mara.lindqvist@nimbus.example
+ACT-000080,ACC-0007,,CON-00037,2026-03-26,Email,Email,Email re: pricing question from Sofia Werner,mara.lindqvist@nimbus.example
+ACT-000081,ACC-0007,OPP-00008,CON-00038,2026-05-12,Meeting,Meeting,Onsite at HQ — exec sponsor present,mara.lindqvist@nimbus.example
+ACT-000082,ACC-0007,OPP-00008,CON-00035,2026-02-17,Meeting,Meeting,Renewal kikc-off meeting,mara.lindqvist@nimbus.example
+ACT-000083,ACC-0007,OPP-00009,CON-00035,2026-04-04,Email,Email,Replied on contract redlines,mara.lindqvist@nimbus.example
+ACT-000084,ACC-0007,OPP-00009,CON-00037,2026-01-11,Call,Call,Renewal check-in,mara.lindqvist@nimbus.example
+ACT-000085,ACC-0007,,CON-00037,2026-04-29,Meeting,Meeting,Discovery deep-dive — workflow automation,mara.lindqvist@nimbus.example
+ACT-000086,ACC-0007,OPP-00009,CON-00034,2026-01-21,Email,Email,sent follow-up on demo recap,mara.lindqvist@nimbus.example
+ACT-000087,ACC-0008,,CON-00040,2026-03-23,Call,Call,Discovery call with Elena Janssen,mara.lindqvist@nimbus.example
+ACT-000088,ACC-0008,,CON-00039,2026-01-06,Email,Email,dpa sent for legal review,mara.lindqvist@nimbus.example
+ACT-000089,ACC-0008,OPP-00010,CON-00039,2026-02-14,Email,Email,DPA sent for legal review,mara.lindqvist@nimbus.example
+ACT-000090,ACC-0008,,CON-00040,2026-04-28,Meeting,Meeting,Onsite at HQ — exec sponsor present,mara.lindqvist@nimbus.example
+ACT-000091,ACC-0008,,CON-00039,2026-03-10,Email,Email,Email re: pricing question from Henrik Sorensen,mara.lindqvist@nimbus.example
+ACT-000092,ACC-0008,OPP-00010,CON-00040,2026-03-06,Email,Email,forwarded rio calculator,mara.lindqvist@nimbus.example
+ACT-000093,ACC-0008,OPP-00010,CON-00039,2025-12-15,Call,Call,Champion enablement call,mara.lindqvist@nimbus.example
+ACT-000094,ACC-0008,OPP-00010,CON-00039,2026-03-17,Note,Internal note,Looks stalled — champion ghosted last week,mara.lindqvist@nimbus.example
+ACT-000095,ACC-0008,,CON-00040,2026-04-01,Email,Email,Sent follow-up on demo recap,mara.lindqvist@nimbus.example
+ACT-000096,ACC-0008,,CON-00040,2026-03-25,Email,Email,intro to procurement,mara.lindqvist@nimbus.example
+ACT-000097,ACC-0008,,CON-00039,2026-05-13,Call,Call,Mutual action plan review,mara.lindqvist@nimbus.example
+ACT-000098,ACC-0008,OPP-00010,CON-00039,2025-12-29,Email,Email,shared the Vantive comparison battlecard,mara.lindqvist@nimbus.example
+ACT-000099,ACC-0009,OPP-00011,CON-00042,2026-05-02,Call,Call,follow up call on objections,sofia.alvarez@nimbus.example
+ACT-000100,ACC-0009,OPP-00011,CON-00041,2026-01-21,Email,Email,DPA sent for legal review,sofia.alvarez@nimbus.example
+ACT-000101,ACC-0009,OPP-00011,CON-00043,2026-03-04,Email,Email,Replied on contract redlines,sofia.alvarez@nimbus.example
+ACT-000102,ACC-0009,OPP-00011,CON-00042,2026-02-24,Email,Email,Replied on contract redlines,sofia.alvarez@nimbus.example
+ACT-000103,ACC-0009,,CON-00043,2026-01-18,Call,Call,Renewal check-in,sofia.alvarez@nimbus.example
+ACT-000104,ACC-0009,,CON-00042,2026-01-31,Call,Call,follow up call on objections,sofia.alvarez@nimbus.example
+ACT-000105,ACC-0009,OPP-00011,CON-00041,2026-01-20,Email,Email,dpa sent for legal review,sofia.alvarez@nimbus.example
+ACT-000106,ACC-0009,OPP-00011,CON-00041,2026-03-04,Call,Call,Renewal check-in,sofia.alvarez@nimbus.example
+ACT-000107,ACC-0009,OPP-00011,CON-00043,2025-12-10,Email,Email,Replied on contract redlines,sofia.alvarez@nimbus.example
+ACT-000108,ACC-0009,OPP-00011,CON-00042,2025-12-19,Email,Email,Forwarded ROI calculator,sofia.alvarez@nimbus.example
+ACT-000109,ACC-0010,OPP-00012,CON-00046,2026-05-07,Email,Email,shared the Vantive comparison battlecard,mara.lindqvist@nimbus.example
+ACT-000110,ACC-0010,OPP-00012,CON-00044,2026-03-23,Email,Email,DPA sent for legal review,mara.lindqvist@nimbus.example
+ACT-000111,ACC-0010,OPP-00013,CON-00046,2026-02-13,Email,Email,intro to procurement,mara.lindqvist@nimbus.example
+ACT-000112,ACC-0010,OPP-00014,CON-00045,2026-02-10,Email,Email,intro to procurement,mara.lindqvist@nimbus.example
+ACT-000113,ACC-0010,,CON-00046,2026-05-29,Meeting,Meeting,qbr / ebr with leadership,mara.lindqvist@nimbus.example
+ACT-000114,ACC-0010,OPP-00012,CON-00044,2026-03-27,Meeting,Meeting,Onsite at HQ — exec sponsor present,mara.lindqvist@nimbus.example
+ACT-000115,ACC-0010,OPP-00014,CON-00044,2026-04-01,Email,Email,shared the Vantive comparison battlecard,mara.lindqvist@nimbus.example
+ACT-000116,ACC-0011,OPP-00015,CON-00050,2026-03-23,Meeting,Meeting,Renewal kick-off meeting,ines.dubois@nimbus.example
+ACT-000117,ACC-0011,,CON-00048,2026-05-09,Note,Internal note,competitor (Kestrel) cold-emailed champion,ines.dubois@nimbus.example
+ACT-000118,ACC-0011,OPP-00015,CON-00048,2026-01-18,Meeting,Meeting,Workshop on Ops process pain points,ines.dubois@nimbus.example
+ACT-000119,ACC-0011,OPP-00015,CON-00048,2025-12-17,Meeting,Meeting,Workshop on Ops process pain points,ines.dubois@nimbus.example
+ACT-000120,ACC-0011,OPP-00015,CON-00050,2026-04-30,Email,Email,Sent follow-up on demo recap,ines.dubois@nimbus.example
+ACT-000121,ACC-0011,OPP-00015,CON-00050,2026-04-22,Call,Call,champion enablement call,ines.dubois@nimbus.example
+ACT-000122,ACC-0011,,CON-00047,2026-01-03,Email,Email,Sent follow-up on demo recap,ines.dubois@nimbus.example
+ACT-000123,ACC-0012,,CON-00053,2026-05-19,Email,Email,Sent reference customer intros,mara.lindqvist@nimbus.example
+ACT-000124,ACC-0012,,CON-00052,2026-03-17,Email,Email,Forwarded ROI calculator,mara.lindqvist@nimbus.example
+ACT-000125,ACC-0012,,CON-00051,2026-02-12,Call,Call,Champion enableemnt call,mara.lindqvist@nimbus.example
+ACT-000126,ACC-0012,,CON-00051,2025-12-27,Email,Email,shared the Vantive comparison battlecard,mara.lindqvist@nimbus.example
+ACT-000127,ACC-0012,,CON-00054,2026-02-11,Email,Email,Sent reference customer intros,mara.lindqvist@nimbus.example
+ACT-000128,ACC-0013,,CON-00059,2025-12-31,Email,Email,email re: pricing question from ines dvořák,mara.lindqvist@nimbus.example
+ACT-000129,ACC-0013,OPP-00016,CON-00059,2026-05-03,Email,Email,shared the Vantive comparison battlecard,mara.lindqvist@nimbus.example
+ACT-000130,ACC-0013,OPP-00016,CON-00057,2026-03-07,Meeting,Meeting,Renewal kick-off meeting,mara.lindqvist@nimbus.example
+ACT-000131,ACC-0013,OPP-00016,CON-00057,2026-05-03,Email,Email,Sent follow-up on demo recap,mara.lindqvist@nimbus.example
+ACT-000132,ACC-0013,,CON-00058,2026-01-08,Email,Email,intro to procurement,mara.lindqvist@nimbus.example
+ACT-000133,ACC-0013,OPP-00016,CON-00057,2026-02-08,Call,Call,Mutua laction plan review,mara.lindqvist@nimbus.example
+ACT-000134,ACC-0013,,CON-00057,2026-01-21,Email,Email,Sent follow-up on demo recap,mara.lindqvist@nimbus.example
+ACT-000135,ACC-0014,,CON-00063,2026-05-02,Email,Email,Email re: pricing question from Saskia Mancini,ines.dubois@nimbus.example
+ACT-000136,ACC-0014,,CON-00062,2025-12-24,Meeting,Meeting,QBR / EBR with leadership,ines.dubois@nimbus.example
+ACT-000137,ACC-0014,,CON-00061,2026-01-07,Call,Call,Pricing discussion w/ economic buyer,ines.dubois@nimbus.example
+ACT-000138,ACC-0014,,CON-00061,2026-03-07,Call,Call,Multithreading call — brought in head of finance,ines.dubois@nimbus.example
+ACT-000139,ACC-0014,,CON-00062,2026-03-23,Call,Call,Champion enablement call,ines.dubois@nimbus.example
+ACT-000140,ACC-0014,,CON-00062,2026-05-08,Email,Email,Forwarded ROI calculator,ines.dubois@nimbus.example
+ACT-000141,ACC-0014,,CON-00063,2025-12-07,Email,Email,forwarded roi calculator,ines.dubois@nimbus.example
+ACT-000142,ACC-0014,,CON-00063,2026-02-22,Email,Email,DPA sent for legal review,ines.dubois@nimbus.example
+ACT-000143,ACC-0014,,CON-00062,2026-01-28,Call,Call,Pricing discussion w/ economic buyer,ines.dubois@nimbus.example
+ACT-000144,ACC-0014,,CON-00060,2026-04-16,Email,Email,intro to procurement,ines.dubois@nimbus.example
+ACT-000145,ACC-0014,,CON-00062,2026-04-19,Email,Email,shared the Vantive comparison battlecard,ines.dubois@nimbus.example
+ACT-000146,ACC-0014,,CON-00062,2026-04-22,Email,Email,sent fololw-up on demo recap,ines.dubois@nimbus.example
+ACT-000147,ACC-0015,OPP-00018,CON-00065,2025-12-24,Email,Email,shared the Vantive comparison battlecard,ines.dubois@nimbus.example
+ACT-000148,ACC-0015,OPP-00018,CON-00065,2026-05-16,Email,Email,Sent reference customer intros,ines.dubois@nimbus.example
+ACT-000149,ACC-0015,OPP-00018,CON-00065,2025-12-03,Note,Internal note,Procurement is the bottleneck not the buyer,ines.dubois@nimbus.example
+ACT-000150,ACC-0015,OPP-00018,CON-00065,2026-02-24,Email,Email,Email re: pricing question from Lars Karlsson,ines.dubois@nimbus.example
+ACT-000151,ACC-0015,OPP-00018,CON-00064,2026-03-12,Email,Email,Quick ping on next steps,ines.dubois@nimbus.example
+ACT-000152,ACC-0016,,CON-00066,2026-01-26,Call,Call,Pricing discussion w/ economic buyer,mara.lindqvist@nimbus.example
+ACT-000153,ACC-0016,OPP-00019,CON-00067,2026-01-21,Email,Email,Email re: pricing question from Eva Schmidt,mara.lindqvist@nimbus.example
+ACT-000154,ACC-0016,OPP-00020,CON-00066,2026-04-02,Note,Internal note,competitor (Kestrel) cold-emailed champion,mara.lindqvist@nimbus.example
+ACT-000155,ACC-0016,OPP-00020,CON-00067,2026-03-23,Call,Call,champion enablemen tcall,mara.lindqvist@nimbus.example
+ACT-000156,ACC-0016,OPP-00019,CON-00067,2026-03-04,Email,Email,intro to procurement,mara.lindqvist@nimbus.example
+ACT-000157,ACC-0016,OPP-00020,CON-00067,2026-03-20,Call,Call,Renewal check-in,mara.lindqvist@nimbus.example
+ACT-000158,ACC-0016,,CON-00066,2025-12-14,Call,Call,follow up call on objections,mara.lindqvist@nimbus.example
+ACT-000159,ACC-0016,,CON-00068,2026-03-18,Note,Internal note,procurement is the bottleneck not the buyer,mara.lindqvist@nimbus.example
+ACT-000160,ACC-0016,OPP-00020,CON-00067,2026-05-20,Call,Call,Mutual action plan review,mara.lindqvist@nimbus.example
+ACT-000161,ACC-0017,OPP-00021,CON-00070,2026-02-25,Meeting,Meeting,Demo to extended team,mara.lindqvist@nimbus.example
+ACT-000162,ACC-0017,OPP-00021,CON-00069,2026-02-26,Email,Email,DPA sent for legal review,mara.lindqvist@nimbus.example
+ACT-000163,ACC-0017,OPP-00021,CON-00070,2026-02-24,Meeting,Meeting,Renewal kick-off meeting,mara.lindqvist@nimbus.example
+ACT-000164,ACC-0017,OPP-00021,CON-00070,2025-12-22,Email,Email,Quick ping on next steps,mara.lindqvist@nimbus.example
+ACT-000165,ACC-0017,OPP-00021,CON-00069,2026-03-25,Email,Email,Forwarded ROI calculator,mara.lindqvist@nimbus.example
+ACT-000166,ACC-0017,,CON-00069,2026-05-06,Call,Call,follow up call on objections,mara.lindqvist@nimbus.example
+ACT-000167,ACC-0017,OPP-00021,CON-00070,2026-01-15,Email,Email,Sent referenec customer intros,mara.lindqvist@nimbus.example
+ACT-000168,ACC-0017,OPP-00021,CON-00070,2026-05-20,Email,Email,Forwarded ROI calculator,mara.lindqvist@nimbus.example
+ACT-000169,ACC-0017,OPP-00021,CON-00070,2026-01-30,Email,Email,shared the Vantive comparison battlecard,mara.lindqvist@nimbus.example
+ACT-000170,ACC-0017,OPP-00021,CON-00070,2026-03-23,Call,Call,follow up call on objections,mara.lindqvist@nimbus.example
+ACT-000171,ACC-0017,OPP-00021,CON-00070,2025-12-22,Email,Email,Quick ping on next steps,mara.lindqvist@nimbus.example
+ACT-000172,ACC-0017,OPP-00021,CON-00069,2026-02-19,Email,Email,Replied on contract redlines,mara.lindqvist@nimbus.example
+ACT-000173,ACC-0017,OPP-00021,CON-00069,2025-12-06,Email,Email,Quick ping on next steps,mara.lindqvist@nimbus.example
+ACT-000174,ACC-0018,OPP-00022,CON-00071,2026-01-19,Email,Email,Quick ping on next steps,mara.lindqvist@nimbus.example
+ACT-000175,ACC-0018,OPP-00022,CON-00073,2026-02-27,Email,Email,shared the Vantive comparison battlecard,mara.lindqvist@nimbus.example
+ACT-000176,ACC-0018,OPP-00022,CON-00073,2026-01-05,Email,Email,DPA sent for legal review,mara.lindqvist@nimbus.example
+ACT-000177,ACC-0018,OPP-00022,CON-00073,2026-03-11,Call,Call,Champion enablement call,mara.lindqvist@nimbus.example
+ACT-000178,ACC-0018,,CON-00071,2026-02-01,Call,Call,Renewal check-in,mara.lindqvist@nimbus.example
+ACT-000179,ACC-0018,OPP-00022,CON-00072,2026-03-19,Call,Call,Renewal check-in,mara.lindqvist@nimbus.example
+ACT-000180,ACC-0018,OPP-00022,CON-00071,2026-03-19,Email,Email,Quick ping on next steps,mara.lindqvist@nimbus.example
+ACT-000181,ACC-0018,OPP-00022,CON-00072,2026-02-10,Email,Email,Replied on contract redlines,mara.lindqvist@nimbus.example
+ACT-000182,ACC-0018,,CON-00072,2026-04-20,Meeting,Meeting,Discovery deep-dive — workflow automation,mara.lindqvist@nimbus.example
+ACT-000183,ACC-0018,OPP-00022,CON-00073,2025-12-21,Email,Email,sent follow-up on demo recap,mara.lindqvist@nimbus.example
+ACT-000184,ACC-0018,,CON-00072,2026-03-24,Email,Email,Forwarded ROI calculator,mara.lindqvist@nimbus.example
+ACT-000185,ACC-0018,,CON-00072,2026-04-26,Call,Call,Mutual action plan review,mara.lindqvist@nimbus.example
+ACT-000186,ACC-0018,OPP-00022,CON-00071,2026-02-16,Email,Email,intro to proucrement,mara.lindqvist@nimbus.example
+ACT-000187,ACC-0019,OPP-00023,CON-00077,2026-03-05,Email,Email,shared the Vantive comparisno battlecard,mara.lindqvist@nimbus.example
+ACT-000188,ACC-0019,,CON-00074,2026-05-29,Email,Email,Forwarded ROI calculator,mara.lindqvist@nimbus.example
+ACT-000189,ACC-0019,,CON-00075,2026-02-24,Email,Email,shared the Vantive comparison battlecard,mara.lindqvist@nimbus.example
+ACT-000190,ACC-0019,,CON-00076,2026-04-18,Call,Call,Champion enablement call,mara.lindqvist@nimbus.example
+ACT-000191,ACC-0019,,CON-00077,2026-04-06,Email,Email,Quick ping on next steps,mara.lindqvist@nimbus.example
+ACT-000192,ACC-0019,,CON-00077,2026-04-20,Email,Email,Sent follow-up on demo recap,mara.lindqvist@nimbus.example
+ACT-000193,ACC-0019,,CON-00077,2026-04-23,Email,Email,Sent follow-up on demo recap,mara.lindqvist@nimbus.example
+ACT-000194,ACC-0020,,CON-00081,2026-02-28,Email,Email,Sent follow-up on demo recap,mara.lindqvist@nimbus.example
+ACT-000195,ACC-0020,,CON-00081,2026-01-04,Call,Call,Renewal check-in,mara.lindqvist@nimbus.example
+ACT-000196,ACC-0020,,CON-00078,2026-02-28,Call,Call,Discovery call with Marco Andersen,mara.lindqvist@nimbus.example
+ACT-000197,ACC-0020,,CON-00079,2026-05-11,Email,Email,Sent follow-up on demo recap,mara.lindqvist@nimbus.example
+ACT-000198,ACC-0020,OPP-00026,CON-00078,2026-02-23,Call,Call,Multithreading call — brought in head of ifnance,mara.lindqvist@nimbus.example
+ACT-000199,ACC-0020,OPP-00026,CON-00079,2025-12-28,Email,Email,Sent reference customer intros,mara.lindqvist@nimbus.example
+ACT-000200,ACC-0020,OPP-00026,CON-00078,2025-12-27,Email,Email,Email re: pricing question from Marco Andersen,mara.lindqvist@nimbus.example
+ACT-000201,ACC-0020,,CON-00081,2026-04-16,Email,Email,Replied on contract redlines,mara.lindqvist@nimbus.example
+ACT-000202,ACC-0020,OPP-00026,CON-00081,2025-12-23,Email,Email,Sent reference customer intros,mara.lindqvist@nimbus.example
+ACT-000203,ACC-0021,OPP-00027,CON-00083,2025-12-13,Email,Email,Sent follow-up on demo recap,mara.lindqvist@nimbus.example
+ACT-000204,ACC-0021,OPP-00027,CON-00084,2025-12-10,Email,Email,Email re: pricing question from Lars Dvorak,mara.lindqvist@nimbus.example
+ACT-000205,ACC-0021,OPP-00027,CON-00082,2026-03-08,Meeting,Meeting,Renewal kick-off meeting,mara.lindqvist@nimbus.example
+ACT-000206,ACC-0021,OPP-00027,CON-00083,2026-02-07,Call,Call,Pricing discussion w/ economic buyer,mara.lindqvist@nimbus.example
+ACT-000207,ACC-0021,,CON-00082,2025-12-30,Meeting,Meeting,demo to extended team,mara.lindqvist@nimbus.example
+ACT-000208,ACC-0021,OPP-00027,CON-00084,2026-05-31,Call,Call,Multithreading call — brought in head of finance,mara.lindqvist@nimbus.example
+ACT-000209,ACC-0021,,CON-00085,2026-05-21,Call,Call,Mutual action plan review,mara.lindqvist@nimbus.example
+ACT-000210,ACC-0021,OPP-00027,CON-00083,2026-02-17,Email,Email,Sent reference customer intros,mara.lindqvist@nimbus.example
+ACT-000211,ACC-0021,,CON-00084,2026-02-08,Meeting,Meeting,Onsite at HQ — exec sponsor present,mara.lindqvist@nimbus.example
+ACT-000212,ACC-0021,,CON-00082,2025-12-30,Email,Email,DPA sen tfor legal review,mara.lindqvist@nimbus.example
+ACT-000213,ACC-0021,,CON-00082,2025-12-07,Email,Email,shared the Vantive comparison battlecard,mara.lindqvist@nimbus.example
+ACT-000214,ACC-0021,,CON-00085,2026-04-17,Email,Email,Email re: pricing question from Camille Dvorak,mara.lindqvist@nimbus.example
+ACT-000215,ACC-0022,,CON-00089,2026-05-31,Email,Email,Quick ping on next steps,marcus.byrne@nimbus.example
+ACT-000216,ACC-0022,,CON-00089,2026-04-21,Meeting,Meeting,Demo to extended team,marcus.byrne@nimbus.example
+ACT-000217,ACC-0022,,CON-00086,2026-01-28,Email,Email,replied on contract redlines,marcus.byrne@nimbus.example
+ACT-000218,ACC-0022,,CON-00089,2026-05-10,Email,Email,Forwarded ROI calculator,marcus.byrne@nimbus.example
+ACT-000219,ACC-0022,,CON-00087,2026-02-21,Call,Call,Discovery call with Bastian Dahl,marcus.byrne@nimbus.example
+ACT-000220,ACC-0022,,CON-00088,2026-03-27,Meeting,Meeting,QBR / EBR with leadership,marcus.byrne@nimbus.example
+ACT-000221,ACC-0022,,CON-00086,2026-03-02,Email,Email,replied on contract redlines,marcus.byrne@nimbus.example
+ACT-000222,ACC-0022,,CON-00086,2025-12-16,Meeting,Meeting,Renewal kick-off meeting,marcus.byrne@nimbus.example
+ACT-000223,ACC-0022,,CON-00088,2026-02-27,Email,Email,Forwarded ROI calculator,marcus.byrne@nimbus.example
+ACT-000224,ACC-0022,,CON-00088,2026-01-06,Call,Call,Champion enablement call,marcus.byrne@nimbus.example
+ACT-000225,ACC-0022,,CON-00089,2025-12-12,Email,Email,dpa sent for legal review,marcus.byrne@nimbus.example
+ACT-000226,ACC-0023,OPP-00029,CON-00090,2026-05-09,Email,Email,DPA sent for legal review,mara.lindqvist@nimbus.example
+ACT-000227,ACC-0023,OPP-00029,CON-00090,2026-03-26,Call,Call,Renewal check-in,mara.lindqvist@nimbus.example
+ACT-000228,ACC-0023,OPP-00029,CON-00091,2026-03-06,Call,Call,follow up call on objections,mara.lindqvist@nimbus.example
+ACT-000229,ACC-0023,OPP-00029,CON-00091,2026-03-20,Call,Call,follow up call on objections,mara.lindqvist@nimbus.example
+ACT-000230,ACC-0023,OPP-00029,CON-00091,2026-04-16,Call,Call,renewal check-in,mara.lindqvist@nimbus.example
+ACT-000231,ACC-0023,OPP-00029,CON-00091,2026-04-07,Email,Email,Replied on contract redlines,mara.lindqvist@nimbus.example
+ACT-000232,ACC-0023,OPP-00029,CON-00091,2026-02-01,Email,Email,intro to procurement,mara.lindqvist@nimbus.example
+ACT-000233,ACC-0023,OPP-00029,CON-00091,2026-01-15,Call,Call,Discovery call with Sven Oconnor,mara.lindqvist@nimbus.example
+ACT-000234,ACC-0023,OPP-00029,CON-00091,2026-03-05,Email,Email,Sent reference customer intros,mara.lindqvist@nimbus.example
+ACT-000235,ACC-0023,OPP-00029,CON-00092,2026-04-04,Meeting,Meeting,Renewal kick-off meeting,mara.lindqvist@nimbus.example
+ACT-000236,ACC-0023,OPP-00029,CON-00092,2026-03-30,Email,Email,sent follow-up on demo recap,mara.lindqvist@nimbus.example
+ACT-000237,ACC-0023,,CON-00092,2026-03-19,Call,Call,Discovery call with Nora Esposito,mara.lindqvist@nimbus.example
+ACT-000238,ACC-0023,OPP-00029,CON-00092,2026-03-18,Call,Call,Pricing discussion w/ economic buyer,mara.lindqvist@nimbus.example
+ACT-000239,ACC-0024,,CON-00094,2026-01-09,Email,Email,Email re: pricing qeustion from Oskar Janssen,marcus.byrne@nimbus.example
+ACT-000240,ACC-0024,OPP-00030,CON-00096,2026-02-04,Meeting,Meeting,Discover ydeep-dive — workflow automation,marcus.byrne@nimbus.example
+ACT-000241,ACC-0024,OPP-00030,CON-00096,2026-03-27,Meeting,Meeting,QBR / EBR with leadership,marcus.byrne@nimbus.example
+ACT-000242,ACC-0024,OPP-00030,CON-00097,2026-03-06,Email,Email,DPA sent for legal review,marcus.byrne@nimbus.example
+ACT-000243,ACC-0024,,CON-00096,2026-05-25,Email,Email,dpa sent for legal review,marcus.byrne@nimbus.example
+ACT-000244,ACC-0024,OPP-00030,CON-00097,2026-01-19,Call,Call,Mutual action plan review,marcus.byrne@nimbus.example
+ACT-000245,ACC-0024,OPP-00030,CON-00093,2026-01-25,Meeting,Meeting,workshop on ops process pain points,marcus.byrne@nimbus.example
+ACT-000246,ACC-0024,OPP-00030,CON-00095,2026-04-27,Email,Email,Sent follow-up on demo recap,marcus.byrne@nimbus.example
+ACT-000247,ACC-0024,OPP-00030,CON-00093,2026-05-08,Email,Email,Quick ping on next steps,marcus.byrne@nimbus.example
+ACT-000248,ACC-0024,OPP-00030,CON-00095,2026-01-12,Email,Email,DPA sent for legal review,marcus.byrne@nimbus.example
+ACT-000249,ACC-0024,,CON-00094,2026-03-28,Meeting,Meeting,Workshop on Ops process pain points,marcus.byrne@nimbus.example
+ACT-000250,ACC-0024,OPP-00030,CON-00094,2026-03-13,Call,Call,Discovery call with Oskar Janssen,marcus.byrne@nimbus.example
+ACT-000251,ACC-0024,OPP-00030,CON-00096,2025-12-11,Email,Email,Email re: pricing question from Karim Quintero,marcus.byrne@nimbus.example
+ACT-000252,ACC-0024,,CON-00094,2026-01-18,Call,Call,Mutual action plan review,marcus.byrne@nimbus.example
+ACT-000253,ACC-0025,,CON-00100,2025-12-14,Note,Internal note,Recommend doubling down on usage review,sofia.alvarez@nimbus.example
+ACT-000254,ACC-0025,,CON-00101,2025-12-31,Meeting,Meeting,Discovery deep-dive — workflow automation,sofia.alvarez@nimbus.example
+ACT-000255,ACC-0025,,CON-00099,2026-02-11,Email,Email,DPA sent for legal review,sofia.alvarez@nimbus.example
+ACT-000256,ACC-0025,,CON-00101,2026-04-14,Email,Email,DPA sent for legal review,sofia.alvarez@nimbus.example
+ACT-000257,ACC-0025,,CON-00099,2026-01-27,Note,Internal note,looks stalled — champion ghosted last week,sofia.alvarez@nimbus.example
+ACT-000258,ACC-0025,,CON-00099,2026-01-20,Call,Call,Discovery call with Mateo Lopez,sofia.alvarez@nimbus.example
+ACT-000259,ACC-0025,,CON-00100,2026-01-06,Email,Email,Quick ping on next steps,sofia.alvarez@nimbus.example
+ACT-000260,ACC-0025,,CON-00101,2026-03-05,Email,Email,Replied on contract redlines,sofia.alvarez@nimbus.example
+ACT-000261,ACC-0025,,CON-00100,2026-01-12,Email,Email,sent follow-up on demo recap,sofia.alvarez@nimbus.example
+ACT-000262,ACC-0025,,CON-00099,2026-03-18,Email,Email,Forwarded ROI calculator,sofia.alvarez@nimbus.example
+ACT-000263,ACC-0025,,CON-00101,2026-03-21,Email,Email,Sent follow-up on demo recap,sofia.alvarez@nimbus.example
+ACT-000264,ACC-0025,,CON-00102,2026-03-20,Meeting,Meeting,Demo to extended team,sofia.alvarez@nimbus.example
+ACT-000265,ACC-0026,OPP-00031,CON-00105,2026-03-02,Email,Email,Sent follow-up on demo recap,ines.dubois@nimbus.example
+ACT-000266,ACC-0026,OPP-00031,CON-00106,2026-04-06,Email,Email,DPA sent for legal review,ines.dubois@nimbus.example
+ACT-000267,ACC-0026,OPP-00031,CON-00105,2026-03-31,Email,Email,intro to procurement,ines.dubois@nimbus.example
+ACT-000268,ACC-0026,,CON-00103,2026-05-23,Email,Email,Quick ping on next steps,ines.dubois@nimbus.example
+ACT-000269,ACC-0026,,CON-00106,2026-04-04,Email,Email,Sent reference customer intros,ines.dubois@nimbus.example
+ACT-000270,ACC-0026,OPP-00031,CON-00103,2026-01-05,Email,Email,forwarded roi calculator,ines.dubois@nimbus.example
+ACT-000271,ACC-0026,OPP-00031,CON-00104,2025-12-17,Email,Email,Sent reference customer intros,ines.dubois@nimbus.example
+ACT-000272,ACC-0026,OPP-00031,CON-00104,2026-01-02,Call,Call,Champion enablement call,ines.dubois@nimbus.example
+ACT-000273,ACC-0026,,CON-00103,2026-04-05,Call,Call,Mutual action plan review,ines.dubois@nimbus.example
+ACT-000274,ACC-0026,,CON-00106,2026-03-16,Email,Email,Replied on contract redlines,ines.dubois@nimbus.example
+ACT-000275,ACC-0026,OPP-00031,CON-00105,2026-05-30,Email,Email,shared the Vantive comparison battlecard,ines.dubois@nimbus.example
+ACT-000276,ACC-0026,OPP-00031,CON-00104,2025-12-03,Email,Email,intro to procurement,ines.dubois@nimbus.example
+ACT-000277,ACC-0026,OPP-00031,CON-00103,2026-01-31,Call,Call,follow up call on objections,ines.dubois@nimbus.example
+ACT-000278,ACC-0026,OPP-00031,CON-00103,2026-04-14,Meeting,Meeting,qbr / ebr with leadership,ines.dubois@nimbus.example
+ACT-000279,ACC-0027,OPP-00032,CON-00107,2026-05-30,Call,Call,renewal check-in,sofia.alvarez@nimbus.example
+ACT-000280,ACC-0027,OPP-00032,CON-00110,2026-04-01,Email,Email,Forwarded ROI calculator,sofia.alvarez@nimbus.example
+ACT-000281,ACC-0027,OPP-00032,CON-00109,2025-12-07,Meeting,Meeting,Demo to extended team,sofia.alvarez@nimbus.example
+ACT-000282,ACC-0027,OPP-00032,CON-00108,2026-01-12,Call,Call,multithreading call — brought in head of finance,sofia.alvarez@nimbus.example
+ACT-000283,ACC-0027,OPP-00032,CON-00107,2026-01-31,Email,Email,intro to procurement,sofia.alvarez@nimbus.example
+ACT-000284,ACC-0027,,CON-00108,2026-01-01,Call,Call,Discovery call with Marta Janssen,sofia.alvarez@nimbus.example
+ACT-000285,ACC-0028,,CON-00112,2025-12-12,Email,Email,intro to procurement,ines.dubois@nimbus.example
+ACT-000286,ACC-0028,,CON-00112,2026-03-27,Note,Internal note,Looks stalled — champion ghosted last week,ines.dubois@nimbus.example
+ACT-000287,ACC-0028,,CON-00113,2026-03-02,Email,Email,intro to procurement,ines.dubois@nimbus.example
+ACT-000288,ACC-0028,,CON-00113,2026-03-01,Email,Email,Quick ping on next steps,ines.dubois@nimbus.example
+ACT-000289,ACC-0028,,CON-00113,2025-12-05,Email,Email,shared the Vantive comparison battlecard,ines.dubois@nimbus.example
+ACT-000290,ACC-0028,,CON-00112,2026-03-06,Call,Call,Pricing discussion w/ economic buyer,ines.dubois@nimbus.example
+ACT-000291,ACC-0028,,CON-00112,2026-01-18,Call,Call,Renewal check-in,ines.dubois@nimbus.example
+ACT-000292,ACC-0028,,CON-00113,2026-05-19,Call,Call,Discovery call with Nils Henriksen,ines.dubois@nimbus.example
+ACT-000293,ACC-0028,,CON-00112,2026-04-29,Email,Email,Sent reference customer intros,ines.dubois@nimbus.example
+ACT-000294,ACC-0028,,CON-00111,2025-12-13,Call,Call,pricing discussion w/ economic buyer,ines.dubois@nimbus.example
+ACT-000295,ACC-0028,,CON-00112,2026-04-16,Email,Email,Email re: pricing question from Mia Karlsson,ines.dubois@nimbus.example
+ACT-000296,ACC-0029,,CON-00115,2026-03-21,Email,Email,Sent reference customer intros,mara.lindqvist@nimbus.example
+ACT-000297,ACC-0029,,CON-00115,2026-05-22,Call,Call,Renewal check-in,mara.lindqvist@nimbus.example
+ACT-000298,ACC-0029,,CON-00114,2026-02-28,Call,Call,Renewal check-in,mara.lindqvist@nimbus.example
+ACT-000299,ACC-0029,,CON-00114,2025-12-13,Email,Email,Sent reference customer intros,mara.lindqvist@nimbus.example
+ACT-000300,ACC-0029,OPP-00033,CON-00114,2026-03-20,Email,Email,Replied on contract redlines,mara.lindqvist@nimbus.example
+ACT-000301,ACC-0029,OPP-00033,CON-00114,2026-02-08,Email,Email,shared the Vantive comparison battlecard,mara.lindqvist@nimbus.example
+ACT-000302,ACC-0029,,CON-00115,2025-12-14,Meeting,Meeting,Demo to extended team,mara.lindqvist@nimbus.example
+ACT-000303,ACC-0029,OPP-00033,CON-00115,2026-03-29,Email,Email,Replied on contract redlines,mara.lindqvist@nimbus.example
+ACT-000304,ACC-0029,OPP-00033,CON-00115,2026-05-06,Email,Email,replied on contract redlines,mara.lindqvist@nimbus.example
+ACT-000305,ACC-0029,OPP-00033,CON-00115,2025-12-06,Email,Email,DPA sent for legal review,mara.lindqvist@nimbus.example
+ACT-000306,ACC-0029,OPP-00033,CON-00114,2026-05-16,Email,Email,intro to rpocurement,mara.lindqvist@nimbus.example
+ACT-000307,ACC-0029,OPP-00033,CON-00115,2026-02-08,Email,Email,email re: pricing question from lars petersen,mara.lindqvist@nimbus.example
+ACT-000308,ACC-0029,,CON-00114,2026-05-26,Call,Call,Pricing discussion w/ economic buyer,mara.lindqvist@nimbus.example
+ACT-000309,ACC-0029,,CON-00115,2025-12-19,Email,Email,intro to procurement,mara.lindqvist@nimbus.example
+ACT-000310,ACC-0030,OPP-00035,CON-00122,2025-12-06,Meeting,Meeting,QBR / EBR with leadership,sofia.alvarez@nimbus.example
+ACT-000311,ACC-0030,OPP-00035,CON-00117,2026-01-28,Meeting,Meeting,Onsite at HQ — exec sponsor present,sofia.alvarez@nimbus.example
+ACT-000312,ACC-0030,,CON-00117,2025-12-30,Meeting,Meeting,workshop on ops process pain points,sofia.alvarez@nimbus.example
+ACT-000313,ACC-0030,OPP-00035,CON-00121,2026-02-22,Meeting,Meeting,Onsite at HQ — exec sponsor present,sofia.alvarez@nimbus.example
+ACT-000314,ACC-0030,,CON-00120,2026-03-14,Call,Call,Discovery call with Maxime Quintero,sofia.alvarez@nimbus.example
+ACT-000315,ACC-0031,OPP-00037,CON-00126,2025-12-23,Email,Email,Sent follow-up on demo recap,mara.lindqvist@nimbus.example
+ACT-000316,ACC-0031,,CON-00124,2026-04-07,Email,Email,Sent reference customer intros,mara.lindqvist@nimbus.example
+ACT-000317,ACC-0031,OPP-00038,CON-00123,2026-01-12,Note,Internal note,recommend doubling down on usage review,mara.lindqvist@nimbus.example
+ACT-000318,ACC-0031,,CON-00126,2025-12-16,Email,Email,Quick ping on next steps,mara.lindqvist@nimbus.example
+ACT-000319,ACC-0032,OPP-00039,CON-00129,2025-12-08,Call,Call,discovery call with thomas muller,sofia.alvarez@nimbus.example
+ACT-000320,ACC-0032,OPP-00039,CON-00128,2026-03-21,Email,Email,Replied on contarct redlines,sofia.alvarez@nimbus.example
+ACT-000321,ACC-0032,OPP-00039,CON-00129,2026-03-28,Email,Email,DPA sent for legal review,sofia.alvarez@nimbus.example
+ACT-000322,ACC-0032,OPP-00039,CON-00128,2026-03-26,Email,Email,Sent reference customer intros,sofia.alvarez@nimbus.example
+ACT-000323,ACC-0032,OPP-00039,CON-00128,2026-02-15,Email,Email,replied on contract reldines,sofia.alvarez@nimbus.example
+ACT-000324,ACC-0033,OPP-00040,CON-00131,2026-02-14,Call,Call,Renewal check-in,thomas.weber@nimbus.example
+ACT-000325,ACC-0033,OPP-00040,CON-00132,2026-03-07,Meeting,Meeting,Discovery deep-dive — workflow automation,thomas.weber@nimbus.example
+ACT-000326,ACC-0033,OPP-00040,CON-00131,2026-04-09,Call,Call,follow up call on objections,thomas.weber@nimbus.example
+ACT-000327,ACC-0033,OPP-00040,CON-00130,2026-02-09,Email,Email,shared the Vantive comparison battlecard,thomas.weber@nimbus.example
+ACT-000328,ACC-0033,OPP-00040,CON-00133,2026-04-27,Meeting,Meeting,Discovery deep-dive — workflow automation,thomas.weber@nimbus.example
+ACT-000329,ACC-0033,OPP-00040,CON-00133,2026-05-06,Call,Call,Champion enablement call,thomas.weber@nimbus.example
+ACT-000330,ACC-0033,OPP-00040,CON-00131,2026-03-13,Email,Email,Forwarded ROI calculator,thomas.weber@nimbus.example
+ACT-000331,ACC-0034,OPP-00041,CON-00136,2026-04-30,Call,Call,follow up call on objections,sofia.alvarez@nimbus.example
+ACT-000332,ACC-0034,OPP-00041,CON-00136,2025-12-21,Email,Email,shared the Vantive comparison battlecard,sofia.alvarez@nimbus.example
+ACT-000333,ACC-0034,OPP-00041,CON-00137,2026-03-09,Meeting,Meeting,Discovery deep-dive — workflow automation,sofia.alvarez@nimbus.example
+ACT-000334,ACC-0034,,CON-00134,2026-01-07,Email,Email,Email re: pricing question from Rosa Ferreira,sofia.alvarez@nimbus.example
+ACT-000335,ACC-0034,OPP-00041,CON-00134,2026-02-26,Call,Call,Discoveyr call with Rosa Ferreira,sofia.alvarez@nimbus.example
+ACT-000336,ACC-0034,,CON-00136,2026-05-22,Email,Email,shared the Vantive comparison battlecard,sofia.alvarez@nimbus.example
+ACT-000337,ACC-0034,OPP-00041,CON-00134,2026-03-16,Email,Email,replied on contract redlines,sofia.alvarez@nimbus.example
+ACT-000338,ACC-0035,OPP-00042,CON-00138,2025-12-12,Email,Email,shared the Vantive comparison battlecard,mara.lindqvist@nimbus.example
+ACT-000339,ACC-0035,,CON-00139,2026-01-14,Email,Email,Replied on contract redlines,mara.lindqvist@nimbus.example
+ACT-000340,ACC-0035,OPP-00042,CON-00138,2026-01-01,Meeting,Meeting,Discovery deep-dive — workflow automation,mara.lindqvist@nimbus.example
+ACT-000341,ACC-0035,OPP-00042,CON-00138,2025-12-10,Email,Email,intro to procurement,mara.lindqvist@nimbus.example
+ACT-000342,ACC-0035,,CON-00140,2026-02-09,Call,Call,Champion enablement call,mara.lindqvist@nimbus.example
+ACT-000343,ACC-0035,OPP-00042,CON-00140,2026-02-18,Email,Email,Replied on contract erdlines,mara.lindqvist@nimbus.example
+ACT-000344,ACC-0035,OPP-00042,CON-00138,2026-02-18,Call,Call,multithreading call — brought in head of finance,mara.lindqvist@nimbus.example
+ACT-000345,ACC-0035,OPP-00042,CON-00140,2025-12-26,Email,Email,Sent follow-up on demo recap,mara.lindqvist@nimbus.example
+ACT-000346,ACC-0035,OPP-00042,CON-00140,2026-03-11,Call,Call,Mutual action plan review,mara.lindqvist@nimbus.example
+ACT-000347,ACC-0035,,CON-00140,2025-12-27,Call,Call,Discovery call with Viktor Quintero,mara.lindqvist@nimbus.example
+ACT-000348,ACC-0035,,CON-00140,2026-01-03,Email,Email,Sent reference customer intros,mara.lindqvist@nimbus.example
+ACT-000349,ACC-0035,,CON-00138,2026-05-11,Email,Email,DPA sent for legal review,mara.lindqvist@nimbus.example
+ACT-000350,ACC-0035,OPP-00042,CON-00140,2026-03-04,Meeting,Meeting,Workshop on Ops process pain points,mara.lindqvist@nimbus.example
+ACT-000351,ACC-0036,OPP-00044,CON-00141,2025-12-05,Call,Call,follow up call on objections,mara.lindqvist@nimbus.example
+ACT-000352,ACC-0036,OPP-00043,CON-00141,2026-05-24,Meeting,Meeting,Renewal kick-off meeting,mara.lindqvist@nimbus.example
+ACT-000353,ACC-0036,OPP-00044,CON-00144,2026-05-19,Call,Call,Renewal check-in,mara.lindqvist@nimbus.example
+ACT-000354,ACC-0036,OPP-00043,CON-00145,2026-01-15,Email,Email,Email re: pricing question from Liesl Bauer,mara.lindqvist@nimbus.example
+ACT-000355,ACC-0036,,CON-00146,2025-12-18,Call,Call,follow up call on objections,mara.lindqvist@nimbus.example
+ACT-000356,ACC-0036,OPP-00043,CON-00147,2026-05-02,Email,Email,Sent reference customer intros,mara.lindqvist@nimbus.example
+ACT-000357,ACC-0036,OPP-00044,CON-00146,2025-12-23,Email,Email,shared the Vantive comparison battlecard,mara.lindqvist@nimbus.example
+ACT-000358,ACC-0036,OPP-00044,CON-00144,2025-12-09,Email,Email,sent follow-up on demo recap,mara.lindqvist@nimbus.example
+ACT-000359,ACC-0036,,CON-00141,2026-05-01,Email,Email,Sent reference customer intros,mara.lindqvist@nimbus.example
+ACT-000360,ACC-0036,OPP-00044,CON-00145,2026-02-19,Call,Call,Champion enablement call,mara.lindqvist@nimbus.example
+ACT-000361,ACC-0036,OPP-00044,CON-00144,2026-02-25,Email,Email,Forwarded ROI calculator,mara.lindqvist@nimbus.example
+ACT-000362,ACC-0036,OPP-00043,CON-00147,2025-12-22,Email,Email,DPA sent for legal review,mara.lindqvist@nimbus.example
+ACT-000363,ACC-0036,,CON-00147,2026-01-30,Email,Email,Sent follow-up on demo recap,mara.lindqvist@nimbus.example
+ACT-000364,ACC-0037,,CON-00152,2026-04-14,Call,Call,pricing discussion w/ economic buyer,mara.lindqvist@nimbus.example
+ACT-000365,ACC-0037,,CON-00152,2026-05-28,Email,Email,intro to procurement,mara.lindqvist@nimbus.example
+ACT-000366,ACC-0037,,CON-00150,2026-03-02,Email,Email,Quick ping on next steps,mara.lindqvist@nimbus.example
+ACT-000367,ACC-0037,,CON-00150,2026-02-05,Email,Email,Email re: pricing question from Thomas Karlsson,mara.lindqvist@nimbus.example
+ACT-000368,ACC-0037,,CON-00152,2026-03-01,Email,Email,DPA sent for legal review,mara.lindqvist@nimbus.example
+ACT-000369,ACC-0037,,CON-00152,2026-02-03,Email,Email,Sent follow-up on demo recap,mara.lindqvist@nimbus.example
+ACT-000370,ACC-0037,,CON-00149,2026-01-19,Email,Email,shared the Vantive comparison battlecard,mara.lindqvist@nimbus.example
+ACT-000371,ACC-0037,,CON-00152,2025-12-17,Meeting,Meeting,qbr / ebr with leadership,mara.lindqvist@nimbus.example
+ACT-000372,ACC-0037,,CON-00150,2026-03-09,Meeting,Meeting,Discovery deep-dive — workflow automation,mara.lindqvist@nimbus.example
+ACT-000373,ACC-0037,,CON-00149,2026-01-20,Meeting,Meeting,Onsite at HQ — exec sponsor present,mara.lindqvist@nimbus.example
+ACT-000374,ACC-0037,,CON-00152,2026-04-29,Email,Email,DPA sent for legal review,mara.lindqvist@nimbus.example
+ACT-000375,ACC-0037,,CON-00151,2026-04-20,Email,Email,DPA sent for legal review,mara.lindqvist@nimbus.example
+ACT-000376,ACC-0037,,CON-00151,2026-01-03,Meeting,Meeting,Discovery deep-dive — workflow automation,mara.lindqvist@nimbus.example
+ACT-000377,ACC-0038,OPP-00045,CON-00154,2025-12-07,Email,Email,Quick ping on next steps,mara.lindqvist@nimbus.example
+ACT-000378,ACC-0038,OPP-00045,CON-00155,2026-04-05,Email,Email,Forwarded ROI calculator,mara.lindqvist@nimbus.example
+ACT-000379,ACC-0038,,CON-00154,2026-04-10,Email,Email,intro to procurement,mara.lindqvist@nimbus.example
+ACT-000380,ACC-0038,OPP-00046,CON-00153,2026-03-19,Email,Email,intro to procurement,mara.lindqvist@nimbus.example
+ACT-000381,ACC-0038,,CON-00154,2026-05-18,Call,Call,discovery call with maxime lopez,mara.lindqvist@nimbus.example
+ACT-000382,ACC-0038,,CON-00155,2025-12-27,Email,Email,forwarded roi calculator,mara.lindqvist@nimbus.example
+ACT-000383,ACC-0038,OPP-00045,CON-00155,2026-01-01,Meeting,Meeting,Demo to extended team,mara.lindqvist@nimbus.example
+ACT-000384,ACC-0038,OPP-00046,CON-00154,2026-02-08,Call,Call,multithreading call — brought in head of finance,mara.lindqvist@nimbus.example
+ACT-000385,ACC-0039,,CON-00158,2026-03-27,Email,Email,forwarded roi calculator,thomas.weber@nimbus.example
+ACT-000386,ACC-0039,,CON-00157,2026-03-17,Call,Call,Discovery call with Mateo Ramos,thomas.weber@nimbus.example
+ACT-000387,ACC-0039,OPP-00047,CON-00158,2026-02-04,Email,Email,Forwarded ROI calculator,thomas.weber@nimbus.example
+ACT-000388,ACC-0039,OPP-00047,CON-00156,2026-03-07,Meeting,Meeting,qbr / ebr with leadership,thomas.weber@nimbus.example
+ACT-000389,ACC-0039,OPP-00047,CON-00157,2026-01-23,Email,Email,DPA sent for legal review,thomas.weber@nimbus.example
+ACT-000390,ACC-0039,,CON-00156,2025-12-17,Note,Internal note,competitor (Kestrel) cold-emailed champion,thomas.weber@nimbus.example
+ACT-000391,ACC-0039,OPP-00047,CON-00158,2026-02-11,Email,Email,DPA sent for legal review,thomas.weber@nimbus.example
+ACT-000392,ACC-0039,,CON-00158,2025-12-18,Email,Email,email re: pricing question from daan o'connor,thomas.weber@nimbus.example
+ACT-000393,ACC-0039,,CON-00157,2026-01-30,Email,Email,Sent reference customer intros,thomas.weber@nimbus.example
+ACT-000394,ACC-0039,,CON-00156,2026-04-26,Email,Email,Sent follow-u pon demo recap,thomas.weber@nimbus.example
+ACT-000395,ACC-0039,OPP-00047,CON-00157,2026-01-06,Call,Call,Pricing discussionw / economic buyer,thomas.weber@nimbus.example
+ACT-000396,ACC-0039,,CON-00157,2026-02-11,Note,Internal note,competitor (Kestrel) cold-emailed champion,thomas.weber@nimbus.example
+ACT-000397,ACC-0039,,CON-00158,2025-12-17,Note,Internal note,Recommend doubling down on usage review,thomas.weber@nimbus.example
+ACT-000398,ACC-0040,,CON-00162,2025-12-03,Email,Email,sent follow-up on demo recap,thomas.weber@nimbus.example
+ACT-000399,ACC-0040,,CON-00161,2026-01-07,Call,Call,Champion enablement call,thomas.weber@nimbus.example
+ACT-000400,ACC-0040,,CON-00162,2026-01-20,Email,Email,Email re: pricing question from Jonas Ferreira,thomas.weber@nimbus.example
+ACT-000401,ACC-0040,,CON-00159,2026-01-22,Call,Call,Discovery call with Ines Quintero,thomas.weber@nimbus.example
+ACT-000402,ACC-0040,,CON-00160,2025-12-18,Email,Email,Sent reference customer intros,thomas.weber@nimbus.example
+ACT-000403,ACC-0040,,CON-00160,2025-12-17,Email,Email,shared the Vantive comparison battlecard,thomas.weber@nimbus.example
+ACT-000404,ACC-0040,,CON-00159,2025-12-12,Email,Email,Forwarded ROI calculator,thomas.weber@nimbus.example
+ACT-000405,ACC-0040,,CON-00159,2026-05-18,Email,Email,DPA sent for legal review,thomas.weber@nimbus.example
+ACT-000406,ACC-0040,,CON-00162,2025-12-18,Email,Email,shared the Vantive comparison battlecard,thomas.weber@nimbus.example
+ACT-000407,ACC-0040,,CON-00162,2026-02-12,Email,Email,Email re: pricing question from Jonas Ferreira,thomas.weber@nimbus.example
+ACT-000408,ACC-0040,,CON-00159,2026-04-09,Note,Internal note,procurement is the bottleneck not the buyer,thomas.weber@nimbus.example
+ACT-000409,ACC-0040,,CON-00159,2026-02-19,Email,Email,Replied on contract redlines,thomas.weber@nimbus.example
+ACT-000410,ACC-0040,,CON-00160,2026-01-03,Call,Call,Champion enablemetn call,thomas.weber@nimbus.example
+ACT-000411,ACC-0041,OPP-00048,CON-00164,2026-05-30,Call,Call,Renewal check-in,mara.lindqvist@nimbus.example
+ACT-000412,ACC-0041,OPP-00048,CON-00168,2026-01-17,Call,Call,Multithreading call — brought in head of finance,mara.lindqvist@nimbus.example
+ACT-000413,ACC-0041,,CON-00164,2026-04-15,Email,Email,introt o procurement,mara.lindqvist@nimbus.example
+ACT-000414,ACC-0041,OPP-00048,CON-00163,2025-12-14,Email,Email,DPA sent for legal review,mara.lindqvist@nimbus.example
+ACT-000415,ACC-0041,,CON-00168,2026-03-17,Email,Email,DPA sent for legal review,mara.lindqvist@nimbus.example
+ACT-000416,ACC-0041,OPP-00048,CON-00163,2025-12-26,Meeting,Meeting,Renewal kick-off meeting,mara.lindqvist@nimbus.example
+ACT-000417,ACC-0042,,CON-00170,2026-01-11,Meeting,Meeting,QBR / EBR with leadership,thomas.weber@nimbus.example
+ACT-000418,ACC-0042,,CON-00170,2025-12-06,Email,Email,Sent reference customer intros,thomas.weber@nimbus.example
+ACT-000419,ACC-0042,,CON-00170,2026-05-03,Meeting,Meeting,QBR / EBR with leadership,thomas.weber@nimbus.example
+ACT-000420,ACC-0042,,CON-00172,2026-04-14,Email,Email,Replied on contract redlines,thomas.weber@nimbus.example
+ACT-000421,ACC-0042,,CON-00170,2026-03-31,Email,Email,Quick ping on next steps,thomas.weber@nimbus.example
+ACT-000422,ACC-0042,,CON-00169,2026-01-30,Meeting,Meeting,Onsite at HQ — exec sponsor present,thomas.weber@nimbus.example
+ACT-000423,ACC-0042,,CON-00170,2026-01-01,Email,Email,Replied on contract redlines,thomas.weber@nimbus.example
+ACT-000424,ACC-0042,,CON-00169,2025-12-30,Email,Email,shared the Vantive comparison battlecard,thomas.weber@nimbus.example
+ACT-000425,ACC-0042,,CON-00171,2026-03-13,Email,Email,Quick ping on next steps,thomas.weber@nimbus.example
+ACT-000426,ACC-0043,OPP-00049,CON-00173,2026-04-02,Call,Call,Champion enablement call,ines.dubois@nimbus.example
+ACT-000427,ACC-0043,,CON-00174,2026-01-31,Call,Call,follow up call on objections,ines.dubois@nimbus.example
+ACT-000428,ACC-0043,,CON-00176,2026-02-21,Note,Internal note,Looks stalled — champion ghosted last week,ines.dubois@nimbus.example
+ACT-000429,ACC-0043,OPP-00049,CON-00174,2025-12-11,Email,Email,Sent reference customer intros,ines.dubois@nimbus.example
+ACT-000430,ACC-0043,OPP-00049,CON-00174,2025-12-09,Email,Email,shared the Vantive comparison battlecard,ines.dubois@nimbus.example
+ACT-000431,ACC-0043,OPP-00049,CON-00173,2026-02-10,Call,Call,follow up call on objections,ines.dubois@nimbus.example
+ACT-000432,ACC-0044,OPP-00051,CON-00180,2026-01-14,Email,Email,Sent reference customer intros,marcus.byrne@nimbus.example
+ACT-000433,ACC-0044,OPP-00051,CON-00181,2025-12-23,Email,Email,DPA sent for legal review,marcus.byrne@nimbus.example
+ACT-000434,ACC-0044,,CON-00178,2026-01-11,Call,Call,follow up call on objections,marcus.byrne@nimbus.example
+ACT-000435,ACC-0044,OPP-00050,CON-00180,2026-02-21,Meeting,Meeting,Demo to extended team,marcus.byrne@nimbus.example
+ACT-000436,ACC-0044,OPP-00051,CON-00178,2026-01-20,Email,Email,Replied on contract redlines,marcus.byrne@nimbus.example
+ACT-000437,ACC-0044,OPP-00050,CON-00179,2026-04-16,Call,Call,Mutual action planr eview,marcus.byrne@nimbus.example
+ACT-000438,ACC-0044,OPP-00051,CON-00181,2026-05-27,Email,Email,DPA sent for legal review,marcus.byrne@nimbus.example
+ACT-000439,ACC-0044,,CON-00178,2026-01-28,Email,Email,Forwarded ROI calculator,marcus.byrne@nimbus.example
+ACT-000440,ACC-0044,OPP-00050,CON-00179,2026-02-23,Email,Email,intro to procurement,marcus.byrne@nimbus.example
+ACT-000441,ACC-0044,OPP-00050,CON-00180,2026-01-22,Note,Internal note,competitor (Kestrel) cold-emailed champion,marcus.byrne@nimbus.example
+ACT-000442,ACC-0044,OPP-00051,CON-00178,2026-04-11,Email,Email,Email re: pricing question from Saskia Henriksen,marcus.byrne@nimbus.example
+ACT-000443,ACC-0044,OPP-00051,CON-00180,2025-12-04,Meeting,Meeting,onsite at hq — exec sponsor present,marcus.byrne@nimbus.example
+ACT-000444,ACC-0045,,CON-00182,2025-12-25,Email,Email,email re: pricing questino from bastian janssen,ines.dubois@nimbus.example
+ACT-000445,ACC-0045,,CON-00182,2026-03-11,Note,Internal note,Procurement is the bottleneck not the buyer,ines.dubois@nimbus.example
+ACT-000446,ACC-0045,,CON-00185,2026-01-14,Call,Call,Multithreading call — brought in head of finance,ines.dubois@nimbus.example
+ACT-000447,ACC-0045,,CON-00183,2026-05-19,Email,Email,intro to procurement,ines.dubois@nimbus.example
+ACT-000448,ACC-0045,,CON-00182,2026-04-22,Email,Email,intro to procurement,ines.dubois@nimbus.example
+ACT-000449,ACC-0045,,CON-00183,2026-05-11,Email,Email,shared the Vantive comparison battlecard,ines.dubois@nimbus.example
+ACT-000450,ACC-0045,,CON-00183,2026-05-14,Email,Email,Email re: pricing questino from Camille Romano,ines.dubois@nimbus.example
+ACT-000451,ACC-0046,OPP-00052,CON-00188,2026-05-03,Meeting,Meeting,Onsite at HQ — exec sponsor present,thomas.weber@nimbus.example
+ACT-000452,ACC-0046,OPP-00052,CON-00187,2026-03-18,Email,Email,intro to procurement,thomas.weber@nimbus.example
+ACT-000453,ACC-0046,OPP-00052,CON-00188,2026-01-12,Meeting,Meeting,Onsite at HQ — exec sponsor present,thomas.weber@nimbus.example
+ACT-000454,ACC-0046,OPP-00052,CON-00187,2026-02-09,Meeting,Meeting,Demo toe xtended team,thomas.weber@nimbus.example
+ACT-000455,ACC-0046,OPP-00052,CON-00188,2026-03-31,Email,Email,shared the Vantive comparison battlecard,thomas.weber@nimbus.example
+ACT-000456,ACC-0046,OPP-00052,CON-00188,2026-01-12,Email,Email,Sent follow-up on demo recap,thomas.weber@nimbus.example
+ACT-000457,ACC-0046,OPP-00052,CON-00188,2026-05-25,Email,Email,Replied on contract redlines,thomas.weber@nimbus.example
+ACT-000458,ACC-0047,,CON-00190,2026-01-29,Email,Email,Replied on contract redlines,sofia.alvarez@nimbus.example
+ACT-000459,ACC-0047,OPP-00053,CON-00191,2026-04-29,Email,Email,shared the Vantive comparison battlecard,sofia.alvarez@nimbus.example
+ACT-000460,ACC-0047,,CON-00192,2026-05-14,Email,Email,sent reference customer intros,sofia.alvarez@nimbus.example
+ACT-000461,ACC-0047,OPP-00053,CON-00192,2026-03-15,Email,Email,Quick ping on next steps,sofia.alvarez@nimbus.example
+ACT-000462,ACC-0048,,CON-00194,2026-03-05,Email,Email,Email re: pricing question from Rosa Vogel,mara.lindqvist@nimbus.example
+ACT-000463,ACC-0048,OPP-00054,CON-00196,2025-12-10,Email,Email,quick ping on next steps,mara.lindqvist@nimbus.example
+ACT-000464,ACC-0048,OPP-00054,CON-00193,2026-03-19,Email,Email,Quick ping on next steps,mara.lindqvist@nimbus.example
+ACT-000465,ACC-0048,OPP-00054,CON-00197,2026-03-23,Meeting,Meeting,QBR / EBR with leadership,mara.lindqvist@nimbus.example
+ACT-000466,ACC-0049,OPP-00056,CON-00200,2026-04-30,Call,Call,follow up call on objections,mara.lindqvist@nimbus.example
+ACT-000467,ACC-0049,,CON-00198,2025-12-17,Note,Internal note,competitor (Kestrel) cold-emailed champion,mara.lindqvist@nimbus.example
+ACT-000468,ACC-0049,OPP-00056,CON-00198,2026-04-30,Call,Call,Pricing discussion w/ economic buyer,mara.lindqvist@nimbus.example
+ACT-000469,ACC-0049,OPP-00056,CON-00200,2025-12-14,Meeting,Meeting,QBR / EBR with leadership,mara.lindqvist@nimbus.example
+ACT-000470,ACC-0050,,CON-00203,2026-03-29,Email,Email,Forwarded ROI calculator,mara.lindqvist@nimbus.example
+ACT-000471,ACC-0050,,CON-00204,2025-12-20,Email,Email,Quick ping on next steps,mara.lindqvist@nimbus.example
+ACT-000472,ACC-0050,,CON-00203,2026-01-29,Email,Email,Replied on contract redlines,mara.lindqvist@nimbus.example
+ACT-000473,ACC-0050,,CON-00204,2026-05-20,Email,Email,intro to proucrement,mara.lindqvist@nimbus.example
+ACT-000474,ACC-0050,,CON-00205,2026-02-21,Note,Internal note,Recommend doubling down on usage review,mara.lindqvist@nimbus.example
+ACT-000475,ACC-0050,,CON-00204,2026-02-07,Note,Internal note,competitor (Kestrel) cold-emailed champion,mara.lindqvist@nimbus.example
+ACT-000476,ACC-0050,,CON-00202,2026-02-15,Email,Email,shared the Vantive comparison battlecard,mara.lindqvist@nimbus.example
+ACT-000477,ACC-0050,,CON-00203,2026-05-01,Email,Email,Email re: pricing question from Maxime Lindqvist,mara.lindqvist@nimbus.example
+ACT-000478,ACC-0050,,CON-00202,2026-05-24,Email,Email,Forwarded ROI calculator,mara.lindqvist@nimbus.example
+ACT-000479,ACC-0050,,CON-00206,2026-04-30,Email,Email,Replied on contract redlines,mara.lindqvist@nimbus.example
+ACT-000480,ACC-0050,,CON-00202,2025-12-24,Email,Email,Sent follow-up on demo recap,mara.lindqvist@nimbus.example
+ACT-000481,ACC-0050,,CON-00204,2026-05-20,Email,Email,Replied on contract redlines,mara.lindqvist@nimbus.example
+ACT-000482,ACC-0050,,CON-00202,2026-02-02,Email,Email,Sent follow-up on demo recap,mara.lindqvist@nimbus.example
+ACT-000483,ACC-0051,OPP-00057,CON-00208,2026-04-02,Email,Email,Quick ping on next steps,mara.lindqvist@nimbus.example
+ACT-000484,ACC-0051,,CON-00209,2026-03-04,Email,Email,Email re: pricing question from Gustav Hofer,mara.lindqvist@nimbus.example
+ACT-000485,ACC-0051,OPP-00057,CON-00208,2026-03-03,Call,Call,Pricing discussion w/ economic buyer,mara.lindqvist@nimbus.example
+ACT-000486,ACC-0051,,CON-00209,2026-05-12,Call,Call,Mutual action plan review,mara.lindqvist@nimbus.example
+ACT-000487,ACC-0051,OPP-00057,CON-00207,2026-03-03,Call,Call,Multithreading call — brought in head of finance,mara.lindqvist@nimbus.example
+ACT-000488,ACC-0051,OPP-00057,CON-00209,2026-02-23,Meeting,Meeting,QBR / EBR with leadership,mara.lindqvist@nimbus.example
+ACT-000489,ACC-0051,OPP-00057,CON-00209,2026-03-30,Meeting,Meeting,Discovery deep-dive — workflow automation,mara.lindqvist@nimbus.example
+ACT-000490,ACC-0051,OPP-00057,CON-00207,2026-03-21,Email,Email,Forwarded ROI calculator,mara.lindqvist@nimbus.example
+ACT-000491,ACC-0051,,CON-00207,2026-02-01,Call,Call,multithreading call — brought in head of finance,mara.lindqvist@nimbus.example
+ACT-000492,ACC-0051,OPP-00057,CON-00208,2025-12-11,Email,Email,Sent follow-up on demo recap,mara.lindqvist@nimbus.example
+ACT-000493,ACC-0052,,CON-00214,2026-05-14,Email,Email,intro to procurement,ines.dubois@nimbus.example
+ACT-000494,ACC-0052,,CON-00212,2026-05-25,Call,Call,Champion enablement call,ines.dubois@nimbus.example
+ACT-000495,ACC-0052,OPP-00060,CON-00214,2026-03-30,Email,Email,dpa sent for legal review,ines.dubois@nimbus.example
+ACT-000496,ACC-0052,OPP-00059,CON-00210,2026-01-03,Email,Email,sent follow-up on demo recap,ines.dubois@nimbus.example
+ACT-000497,ACC-0052,,CON-00210,2026-02-18,Meeting,Meeting,Renewal kick-off meeting,ines.dubois@nimbus.example
+ACT-000498,ACC-0052,,CON-00214,2026-02-05,Email,Email,Replied on contract redlines,ines.dubois@nimbus.example
+ACT-000499,ACC-0052,,CON-00214,2025-12-05,Email,Email,Forwarded ROI calculator,ines.dubois@nimbus.example
+ACT-000500,ACC-0052,OPP-00058,CON-00211,2026-04-12,Meeting,Meeting,Renewal kick-off meeting,ines.dubois@nimbus.example
+ACT-000501,ACC-0052,,CON-00210,2026-03-11,Meeting,Meeting,Discovery deep-dive — workflow automation,ines.dubois@nimbus.example
+ACT-000502,ACC-0052,OPP-00059,CON-00212,2026-02-27,Call,Call,Multithreading call — brought in head of finance,ines.dubois@nimbus.example
+ACT-000503,ACC-0053,,CON-00218,2026-02-14,Email,Email,Replied on contract redlines,marcus.byrne@nimbus.example
+ACT-000504,ACC-0053,,CON-00217,2026-05-22,Call,Call,Pricing discussion w/ economic buyer,marcus.byrne@nimbus.example
+ACT-000505,ACC-0053,,CON-00215,2026-02-10,Email,Email,DPA sent for legal review,marcus.byrne@nimbus.example
+ACT-000506,ACC-0053,,CON-00218,2026-04-09,Email,Email,Quick ping on netx steps,marcus.byrne@nimbus.example
+ACT-000507,ACC-0053,,CON-00218,2026-05-11,Email,Email,DPA sent for legal review,marcus.byrne@nimbus.example
+ACT-000508,ACC-0053,,CON-00215,2026-04-17,Call,Call,Multithreading call — brought in head of finance,marcus.byrne@nimbus.example
+ACT-000509,ACC-0053,,CON-00215,2026-03-31,Call,Call,discovery call with stefan romano,marcus.byrne@nimbus.example
+ACT-000510,ACC-0053,,CON-00218,2026-01-11,Email,Email,Replied on contract redlines,marcus.byrne@nimbus.example
+ACT-000511,ACC-0053,,CON-00215,2026-02-11,Call,Call,Pricing discussion w/ economic buyer,marcus.byrne@nimbus.example
+ACT-000512,ACC-0053,,CON-00217,2026-01-26,Email,Email,Email re: pricing question from Elena Schmidt,marcus.byrne@nimbus.example
+ACT-000513,ACC-0053,,CON-00217,2026-01-14,Call,Call,Multithreading call — brought in head of finance,marcus.byrne@nimbus.example
+ACT-000514,ACC-0053,,CON-00217,2026-01-11,Email,Email,quick ping on next steps,marcus.byrne@nimbus.example
+ACT-000515,ACC-0054,OPP-00061,CON-00220,2025-12-18,Email,Email,ForwardedR OI calculator,mara.lindqvist@nimbus.example
+ACT-000516,ACC-0054,OPP-00061,CON-00219,2026-04-25,Meeting,Meeting,Workshop on Ops process pain points,mara.lindqvist@nimbus.example
+ACT-000517,ACC-0054,,CON-00222,2026-05-23,Meeting,Meeting,workshop on ops process pain points,mara.lindqvist@nimbus.example
+ACT-000518,ACC-0054,,CON-00222,2025-12-18,Email,Email,intro to procurement,mara.lindqvist@nimbus.example
+ACT-000519,ACC-0054,,CON-00222,2026-03-22,Email,Email,Forwarded ROI calculator,mara.lindqvist@nimbus.example
+ACT-000520,ACC-0054,OPP-00061,CON-00220,2026-01-21,Meeting,Meeting,Demo to extended team,mara.lindqvist@nimbus.example
+ACT-000521,ACC-0054,OPP-00061,CON-00220,2026-04-21,Meeting,Meeting,QBR / EBR with leadership,mara.lindqvist@nimbus.example
+ACT-000522,ACC-0055,OPP-00062,CON-00224,2026-02-04,Email,Email,Quick ping on next steps,marcus.byrne@nimbus.example
+ACT-000523,ACC-0055,OPP-00063,CON-00223,2026-01-03,Meeting,Meeting,Workshop on Ops process pain points,marcus.byrne@nimbus.example
+ACT-000524,ACC-0055,OPP-00062,CON-00225,2026-01-06,Note,Internal note,Heard via partner that CFO change is imminent,marcus.byrne@nimbus.example
+ACT-000525,ACC-0055,,CON-00223,2026-01-17,Call,Call,Champion enablement call,marcus.byrne@nimbus.example
+ACT-000526,ACC-0055,OPP-00063,CON-00224,2025-12-08,Call,Call,Champion enablement call,marcus.byrne@nimbus.example
+ACT-000527,ACC-0055,,CON-00224,2026-05-31,Meeting,Meeting,Onsite at HQ — exec sponsor present,marcus.byrne@nimbus.example
+ACT-000528,ACC-0055,OPP-00062,CON-00224,2026-03-07,Meeting,Meeting,QBR / EBR with leadership,marcus.byrne@nimbus.example
+ACT-000529,ACC-0055,OPP-00063,CON-00224,2025-12-10,Email,Email,Sent follow-up on demo recap,marcus.byrne@nimbus.example
+ACT-000530,ACC-0055,OPP-00062,CON-00225,2025-12-22,Note,Internal note,competitor (Kestrel) cold-emailed champion,marcus.byrne@nimbus.example
+ACT-000531,ACC-0055,,CON-00224,2026-03-10,Email,Email,DPA sent for legal review,marcus.byrne@nimbus.example
+ACT-000532,ACC-0055,OPP-00062,CON-00225,2026-02-01,Email,Email,Forwarded ROI calculator,marcus.byrne@nimbus.example
+ACT-000533,ACC-0055,,CON-00224,2026-04-14,Email,Email,intro top rocurement,marcus.byrne@nimbus.example
+ACT-000534,ACC-0056,OPP-00064,CON-00226,2026-03-29,Call,Call,Pricing discussion w/ economic buyer,ines.dubois@nimbus.example
+ACT-000535,ACC-0056,,CON-00227,2025-12-11,Call,Call,Discovery call with Marta Mancini,ines.dubois@nimbus.example
+ACT-000536,ACC-0056,OPP-00064,CON-00227,2026-01-11,Call,Call,Mutual action plan review,ines.dubois@nimbus.example
+ACT-000537,ACC-0056,OPP-00064,CON-00229,2026-02-02,Meeting,Meeting,Demo to extended team,ines.dubois@nimbus.example
+ACT-000538,ACC-0056,OPP-00064,CON-00227,2026-04-09,Call,Call,Mutual action planr eview,ines.dubois@nimbus.example
+ACT-000539,ACC-0056,OPP-00064,CON-00228,2025-12-11,Meeting,Meeting,Renewal kick-off meeting,ines.dubois@nimbus.example
+ACT-000540,ACC-0057,,CON-00231,2026-05-26,Email,Email,Sent reference customer intros,marcus.byrne@nimbus.example
+ACT-000541,ACC-0057,OPP-00065,CON-00231,2026-03-12,Email,Email,Forwarded ROI calculator,marcus.byrne@nimbus.example
+ACT-000542,ACC-0057,OPP-00065,CON-00231,2026-02-03,Email,Email,Email re: pricing question from Jonas Costa,marcus.byrne@nimbus.example
+ACT-000543,ACC-0057,OPP-00065,CON-00231,2025-12-15,Meeting,Meeting,Workshop on Ops process pain points,marcus.byrne@nimbus.example
+ACT-000544,ACC-0057,OPP-00065,CON-00231,2025-12-17,Email,Email,email re: pricing question from pieter vogel,marcus.byrne@nimbus.example
+ACT-000545,ACC-0057,,CON-00231,2026-04-29,Email,Email,intro to procurement,marcus.byrne@nimbus.example
+ACT-000546,ACC-0057,,CON-00230,2026-02-25,Call,Call,Multithreading call — brought in head of finance,marcus.byrne@nimbus.example
+ACT-000547,ACC-0057,OPP-00065,CON-00232,2026-04-02,Meeting,Meeting,Workshop on Ops process pain points,marcus.byrne@nimbus.example
+ACT-000548,ACC-0057,OPP-00065,CON-00232,2026-05-03,Email,Email,Sent referecne customer intros,marcus.byrne@nimbus.example
+ACT-000549,ACC-0057,OPP-00065,CON-00230,2026-04-21,Call,Call,Renewal check-in,marcus.byrne@nimbus.example
+ACT-000550,ACC-0057,OPP-00065,CON-00232,2025-12-22,Meeting,Meeting,Onsite at HQ — exec sponsor present,marcus.byrne@nimbus.example
+ACT-000551,ACC-0057,,CON-00231,2026-04-19,Email,Email,Forwarded ROI calculator,marcus.byrne@nimbus.example
+ACT-000552,ACC-0058,,CON-00234,2026-01-28,Email,Email,shared the Vantive comparison battlecard,sofia.alvarez@nimbus.example
+ACT-000553,ACC-0058,,CON-00234,2026-04-27,Email,Email,Replied on contract redlines,sofia.alvarez@nimbus.example
+ACT-000554,ACC-0058,,CON-00234,2026-03-02,Email,Email,DPA sent for legal review,sofia.alvarez@nimbus.example
+ACT-000555,ACC-0058,,CON-00234,2026-02-01,Email,Email,Forwarded ROI calculator,sofia.alvarez@nimbus.example
+ACT-000556,ACC-0058,,CON-00233,2026-02-04,Email,Email,Replied on contract redlines,sofia.alvarez@nimbus.example
+ACT-000557,ACC-0058,,CON-00234,2026-05-30,Call,Call,Renewal check-in,sofia.alvarez@nimbus.example
+ACT-000558,ACC-0058,,CON-00234,2026-02-09,Meeting,Meeting,Demo to extended team,sofia.alvarez@nimbus.example
+ACT-000559,ACC-0058,,CON-00234,2026-05-07,Call,Call,Renewal check-in,sofia.alvarez@nimbus.example
+ACT-000560,ACC-0058,,CON-00234,2026-01-11,Meeting,Meeting,discovery deep-dive — workflow automation,sofia.alvarez@nimbus.example
+ACT-000561,ACC-0058,,CON-00234,2026-04-09,Meeting,Meeting,Workshop on Ops process pain points,sofia.alvarez@nimbus.example
+ACT-000562,ACC-0058,,CON-00234,2026-04-10,Email,Email,quick ping on next steps,sofia.alvarez@nimbus.example
+ACT-000563,ACC-0059,,CON-00236,2026-03-15,Call,Call,Pricing discussion w/ economic buyer,mara.lindqvist@nimbus.example
+ACT-000564,ACC-0059,,CON-00236,2025-12-24,Note,Internal note,looks stalled — champion ghosted last week,mara.lindqvist@nimbus.example
+ACT-000565,ACC-0059,,CON-00235,2025-12-13,Call,Call,renewal check-in,mara.lindqvist@nimbus.example
+ACT-000566,ACC-0059,,CON-00236,2026-03-02,Email,Email,shared the Vantive comparison battlecard,mara.lindqvist@nimbus.example
+ACT-000567,ACC-0059,,CON-00236,2026-03-04,Email,Email,Replied on contract redlines,mara.lindqvist@nimbus.example
+ACT-000568,ACC-0059,,CON-00236,2025-12-22,Email,Email,Forwarded ROI calculator,mara.lindqvist@nimbus.example
+ACT-000569,ACC-0059,,CON-00235,2026-02-14,Email,Email,shared the Vantive comparison battlecard,mara.lindqvist@nimbus.example
+ACT-000570,ACC-0060,OPP-00066,CON-00240,2026-01-15,Email,Email,shared the Vantive comparison battlecard,mara.lindqvist@nimbus.example
+ACT-000571,ACC-0060,OPP-00067,CON-00240,2026-04-29,Email,Email,Sent follow-up on demo recap,mara.lindqvist@nimbus.example
+ACT-000572,ACC-0060,OPP-00067,CON-00238,2026-02-08,Meeting,Meeting,demo to extended team,mara.lindqvist@nimbus.example
+ACT-000573,ACC-0060,,CON-00239,2026-02-02,Email,Email,Replied on contract redlines,mara.lindqvist@nimbus.example
+ACT-000574,ACC-0060,OPP-00067,CON-00239,2025-12-08,Email,Email,Quick ping on next steps,mara.lindqvist@nimbus.example
+ACT-000575,ACC-0060,,CON-00241,2026-05-27,Email,Email,Email re: pricing question from Viktor Dahl,mara.lindqvist@nimbus.example
+ACT-000576,ACC-0060,OPP-00066,CON-00240,2026-03-04,Meeting,Meeting,Demo to extended team,mara.lindqvist@nimbus.example
+ACT-000577,ACC-0060,OPP-00066,CON-00240,2025-12-29,Email,Email,DPA sent for legal review,mara.lindqvist@nimbus.example
+ACT-000578,ACC-0060,OPP-00066,CON-00241,2026-03-30,Email,Email,Replied on contract redlines,mara.lindqvist@nimbus.example
+ACT-000579,ACC-0061,,CON-00245,2026-04-11,Email,Email,Replied on contract redlines,ines.dubois@nimbus.example
+ACT-000580,ACC-0061,,CON-00245,2026-02-28,Call,Call,Mutual actio nplan review,ines.dubois@nimbus.example
+ACT-000581,ACC-0061,OPP-00068,CON-00245,2026-02-15,Call,Call,Champion enablement call,ines.dubois@nimbus.example
+ACT-000582,ACC-0061,OPP-00068,CON-00243,2026-02-09,Call,Call,Multithreading call — brought in head of finance,ines.dubois@nimbus.example
+ACT-000583,ACC-0061,OPP-00068,CON-00245,2026-05-02,Call,Call,Renewal chcek-in,ines.dubois@nimbus.example
+ACT-000584,ACC-0061,,CON-00245,2026-01-19,Email,Email,Sent refeernce customer intros,ines.dubois@nimbus.example
+ACT-000585,ACC-0061,OPP-00068,CON-00242,2026-01-12,Call,Call,Champion enablement call,ines.dubois@nimbus.example
+ACT-000586,ACC-0061,OPP-00068,CON-00244,2026-04-20,Email,Email,Replied on contract redlines,ines.dubois@nimbus.example
+ACT-000587,ACC-0061,,CON-00245,2026-03-18,Email,Email,Sent follow-up on demo recap,ines.dubois@nimbus.example
+ACT-000588,ACC-0061,OPP-00068,CON-00242,2026-04-07,Call,Call,multithreading call — brought in head of finance,ines.dubois@nimbus.example
+ACT-000589,ACC-0061,OPP-00068,CON-00244,2026-03-29,Email,Email,Sent reference customer intros,ines.dubois@nimbus.example
+ACT-000590,ACC-0061,OPP-00068,CON-00242,2026-03-20,Meeting,Meeting,Discovery deep-dive — workflow automation,ines.dubois@nimbus.example
+ACT-000591,ACC-0061,,CON-00242,2026-02-05,Meeting,Meeting,Demo to extended team,ines.dubois@nimbus.example
+ACT-000592,ACC-0062,OPP-00069,CON-00247,2026-05-21,Call,Call,Pricing discussion w/ economic buyer,mara.lindqvist@nimbus.example
+ACT-000593,ACC-0062,OPP-00069,CON-00246,2026-02-27,Email,Email,dpa sent for legal review,mara.lindqvist@nimbus.example
+ACT-000594,ACC-0062,,CON-00246,2026-05-22,Email,Email,shared the Vantive comparison battlecard,mara.lindqvist@nimbus.example
+ACT-000595,ACC-0062,OPP-00069,CON-00246,2025-12-19,Email,Email,dpa sent for legal review,mara.lindqvist@nimbus.example
+ACT-000596,ACC-0062,OPP-00069,CON-00246,2026-05-28,Email,Email,Replied on contract redlines,mara.lindqvist@nimbus.example
+ACT-000597,ACC-0062,OPP-00069,CON-00247,2025-12-14,Meeting,Meeting,Workshop on Ops process pain points,mara.lindqvist@nimbus.example
+ACT-000598,ACC-0062,OPP-00069,CON-00246,2026-02-08,Email,Email,Sent follow-up on demo recap,mara.lindqvist@nimbus.example
+ACT-000599,ACC-0062,OPP-00069,CON-00247,2026-03-30,Email,Email,shared the Vantive comparison battlecard,mara.lindqvist@nimbus.example
+ACT-000600,ACC-0062,OPP-00069,CON-00246,2026-01-31,Email,Email,shared the Vantive comparison battlecard,mara.lindqvist@nimbus.example
+ACT-000601,ACC-0062,,CON-00247,2025-12-05,Meeting,Meeting,Demo to extended team,mara.lindqvist@nimbus.example
+ACT-000602,ACC-0062,OPP-00069,CON-00246,2026-01-25,Email,Email,Email re: pricing question from Rosa Janssen,mara.lindqvist@nimbus.example
+ACT-000603,ACC-0063,OPP-00070,CON-00248,2026-03-05,Call,Call,follow up call on objections,mara.lindqvist@nimbus.example
+ACT-000604,ACC-0063,,CON-00249,2026-04-24,Call,Call,Champion enablement call,mara.lindqvist@nimbus.example
+ACT-000605,ACC-0063,OPP-00071,CON-00249,2026-05-31,Email,Email,Replied on contract redlines,mara.lindqvist@nimbus.example
+ACT-000606,ACC-0063,OPP-00070,CON-00248,2026-03-25,Email,Email,Sent follow-up on demo recap,mara.lindqvist@nimbus.example
+ACT-000607,ACC-0063,OPP-00071,CON-00251,2026-01-02,Email,Email,shared the Vantive comparison battlecard,mara.lindqvist@nimbus.example
+ACT-000608,ACC-0063,OPP-00071,CON-00250,2025-12-20,Email,Email,Sent reference customer intros,mara.lindqvist@nimbus.example
+ACT-000609,ACC-0063,OPP-00071,CON-00248,2026-02-20,Email,Email,Replied on contract redlines,mara.lindqvist@nimbus.example
+ACT-000610,ACC-0063,,CON-00249,2025-12-11,Call,Call,Pricing discussion w/ economic buyer,mara.lindqvist@nimbus.example
+ACT-000611,ACC-0063,OPP-00070,CON-00251,2025-12-30,Call,Call,follow up call on obejctions,mara.lindqvist@nimbus.example
+ACT-000612,ACC-0063,OPP-00070,CON-00248,2025-12-04,Meeting,Meeting,QBR / EBR with leadership,mara.lindqvist@nimbus.example
+ACT-000613,ACC-0063,,CON-00248,2026-02-23,Call,Call,Champion enablement call,mara.lindqvist@nimbus.example
+ACT-000614,ACC-0063,OPP-00071,CON-00251,2026-01-21,Email,Email,Quick ping on next steps,mara.lindqvist@nimbus.example
+ACT-000615,ACC-0064,,CON-00253,2025-12-27,Email,Email,shared the Vantive comparison battlecard,mara.lindqvist@nimbus.example
+ACT-000616,ACC-0064,,CON-00254,2026-01-14,Email,Email,dpa sent for legal review,mara.lindqvist@nimbus.example
+ACT-000617,ACC-0064,,CON-00253,2026-04-27,Call,Call,Mutual action plan review,mara.lindqvist@nimbus.example
+ACT-000618,ACC-0064,,CON-00253,2026-02-27,Meeting,Meeting,Workshop on Ops process pain points,mara.lindqvist@nimbus.example
+ACT-000619,ACC-0064,,CON-00252,2026-04-02,Meeting,Meeting,Onsite at HQ — exec sponsor present,mara.lindqvist@nimbus.example
+ACT-000620,ACC-0064,,CON-00252,2026-02-22,Call,Call,Renewal check-in,mara.lindqvist@nimbus.example
+ACT-000621,ACC-0064,,CON-00254,2026-02-17,Call,Call,Pricing discussion w/ ceonomic buyer,mara.lindqvist@nimbus.example
+ACT-000622,ACC-0064,,CON-00253,2026-05-04,Note,Internal note,Recommend doubling down on usage review,mara.lindqvist@nimbus.example
+ACT-000623,ACC-0064,,CON-00252,2026-02-16,Email,Email,Sent reference customer intros,mara.lindqvist@nimbus.example
+ACT-000624,ACC-0064,,CON-00253,2025-12-16,Call,Call,Renewal check-in,mara.lindqvist@nimbus.example
+ACT-000625,ACC-0064,,CON-00254,2025-12-20,Email,Email,Forwarded ROI calculator,mara.lindqvist@nimbus.example
+ACT-000626,ACC-0065,OPP-00072,CON-00255,2026-05-11,Call,Call,Champion enablement call,mara.lindqvist@nimbus.example
+ACT-000627,ACC-0065,,CON-00255,2026-01-19,Call,Call,Champion enablemetn call,mara.lindqvist@nimbus.example
+ACT-000628,ACC-0065,OPP-00072,CON-00255,2026-01-30,Email,Email,Replied on contract redlines,mara.lindqvist@nimbus.example
+ACT-000629,ACC-0065,OPP-00072,CON-00256,2026-05-04,Call,Call,follow up call on objections,mara.lindqvist@nimbus.example
+ACT-000630,ACC-0065,OPP-00072,CON-00255,2026-04-19,Call,Call,Multithreading call — brought in head of finance,mara.lindqvist@nimbus.example
+ACT-000631,ACC-0065,OPP-00072,CON-00257,2026-03-08,Call,Call,discovery call with ines andersen,mara.lindqvist@nimbus.example
+ACT-000632,ACC-0065,OPP-00072,CON-00257,2026-05-25,Email,Email,Forwarded ROI calculator,mara.lindqvist@nimbus.example
+ACT-000633,ACC-0065,,CON-00257,2026-03-31,Email,Email,intro to procurement,mara.lindqvist@nimbus.example
+ACT-000634,ACC-0065,OPP-00072,CON-00257,2026-04-07,Email,Email,Sent follow-up on demo recap,mara.lindqvist@nimbus.example
+ACT-000635,ACC-0065,,CON-00256,2026-04-16,Email,Email,DPA sent for legal review,mara.lindqvist@nimbus.example
+ACT-000636,ACC-0065,,CON-00257,2025-12-20,Note,Internal note,Procurement is the bottleneck not the buyer,mara.lindqvist@nimbus.example
+ACT-000637,ACC-0065,,CON-00255,2026-03-02,Email,Email,Replied on contract redlines,mara.lindqvist@nimbus.example
+ACT-000638,ACC-0066,,CON-00258,2026-05-16,Email,Email,Replied on contract redlines,mara.lindqvist@nimbus.example
+ACT-000639,ACC-0066,OPP-00074,CON-00261,2026-01-17,Meeting,Meeting,renewal kick-off meeting,mara.lindqvist@nimbus.example
+ACT-000640,ACC-0066,OPP-00073,CON-00260,2026-05-30,Email,Email,Sent follow-up on demo recap,mara.lindqvist@nimbus.example
+ACT-000641,ACC-0066,OPP-00073,CON-00264,2026-02-21,Email,Email,Sent follow-up on demo recap,mara.lindqvist@nimbus.example
+ACT-000642,ACC-0066,OPP-00074,CON-00264,2026-01-28,Email,Email,Forwarded ROI calculator,mara.lindqvist@nimbus.example
+ACT-000643,ACC-0066,OPP-00073,CON-00262,2026-02-18,Meeting,Meeting,discovery deep-dive — workflow automation,mara.lindqvist@nimbus.example
+ACT-000644,ACC-0067,,CON-00266,2026-02-26,Email,Email,Forwarded ROI calculator,sofia.alvarez@nimbus.example
+ACT-000645,ACC-0067,OPP-00076,CON-00266,2026-04-07,Call,Call,Renewal check-in,sofia.alvarez@nimbus.example
+ACT-000646,ACC-0067,OPP-00077,CON-00267,2026-05-03,Email,Email,shared the Vantive comparison battlecard,sofia.alvarez@nimbus.example
+ACT-000647,ACC-0067,OPP-00077,CON-00267,2026-02-03,Meeting,Meeting,Discovery deep-dive — workflow automation,sofia.alvarez@nimbus.example
+ACT-000648,ACC-0067,,CON-00265,2026-01-14,Meeting,Meeting,Renewal kick-off meeting,sofia.alvarez@nimbus.example
+ACT-000649,ACC-0067,OPP-00077,CON-00267,2026-03-05,Email,Email,DPA sent for legal review,sofia.alvarez@nimbus.example
+ACT-000650,ACC-0068,OPP-00078,CON-00270,2026-04-01,Call,Call,Mutual action plan review,mara.lindqvist@nimbus.example
+ACT-000651,ACC-0068,OPP-00078,CON-00270,2025-12-16,Email,Email,Forwarded ROI calculator,mara.lindqvist@nimbus.example
+ACT-000652,ACC-0068,OPP-00078,CON-00269,2026-02-18,Call,Call,Champion enablement call,mara.lindqvist@nimbus.example
+ACT-000653,ACC-0068,,CON-00270,2026-02-02,Call,Call,pricing discussion w/ economic buyer,mara.lindqvist@nimbus.example
+ACT-000654,ACC-0068,,CON-00269,2026-03-29,Email,Email,intro to procurement,mara.lindqvist@nimbus.example
+ACT-000655,ACC-0068,OPP-00078,CON-00269,2026-03-19,Meeting,Meeting,Workshop on Ops process pain points,mara.lindqvist@nimbus.example
+ACT-000656,ACC-0068,OPP-00078,CON-00270,2026-05-25,Note,Internal note,Heard via partner that CFO change is imminent,mara.lindqvist@nimbus.example
+ACT-000657,ACC-0068,,CON-00270,2026-05-20,Email,Email,Forwarded ROI aclculator,mara.lindqvist@nimbus.example
+ACT-000658,ACC-0068,OPP-00078,CON-00270,2026-03-10,Email,Email,Forwarded ROI calculator,mara.lindqvist@nimbus.example
+ACT-000659,ACC-0068,OPP-00078,CON-00269,2025-12-11,Email,Email,Sent follow-up on demo recap,mara.lindqvist@nimbus.example
+ACT-000660,ACC-0068,,CON-00268,2026-03-20,Call,Call,Discovery call with Ida Mancini,mara.lindqvist@nimbus.example
+ACT-000661,ACC-0068,OPP-00078,CON-00268,2025-12-19,Email,Email,Forwarded ROI calculator,mara.lindqvist@nimbus.example
+ACT-000662,ACC-0068,OPP-00078,CON-00269,2026-05-24,Call,Call,Discovery call with Emil Costa,mara.lindqvist@nimbus.example
+ACT-000663,ACC-0068,,CON-00269,2026-03-25,Email,Email,DPA sent for legal review,mara.lindqvist@nimbus.example
+ACT-000664,ACC-0069,,CON-00274,2026-02-09,Email,Email,email re: pricing question from mia ferreira,mara.lindqvist@nimbus.example
+ACT-000665,ACC-0069,OPP-00079,CON-00273,2026-04-07,Meeting,Meeting,Discovery deep-dive —p ayroll workflow,mara.lindqvist@nimbus.example
+ACT-000666,ACC-0069,,CON-00272,2026-02-12,Email,Email,Quick ping on next steps,mara.lindqvist@nimbus.example
+ACT-000667,ACC-0069,OPP-00079,CON-00273,2026-05-13,Meeting,Meeting,Renewal kick-off emeting,mara.lindqvist@nimbus.example
+ACT-000668,ACC-0069,OPP-00079,CON-00272,2026-04-07,Email,Email,Sent follow-up on demo recap,mara.lindqvist@nimbus.example
+ACT-000669,ACC-0069,,CON-00274,2026-03-19,Email,Email,Sent follow-up on demo recap,mara.lindqvist@nimbus.example
+ACT-000670,ACC-0069,,CON-00271,2026-04-18,Email,Email,DPA sent for legal review,mara.lindqvist@nimbus.example
+ACT-000671,ACC-0069,OPP-00079,CON-00272,2026-02-27,Meeting,Meeting,workshop on ops process pain points,mara.lindqvist@nimbus.example
+ACT-000672,ACC-0070,,CON-00281,2025-12-25,Email,Email,Email re: pricing question from Bastian Lambert,sofia.alvarez@nimbus.example
+ACT-000673,ACC-0070,,CON-00281,2026-04-20,Email,Email,DPA sent for legal review,sofia.alvarez@nimbus.example
+ACT-000674,ACC-0070,,CON-00281,2026-01-22,Call,Call,Champion enablement call,sofia.alvarez@nimbus.example
+ACT-000675,ACC-0070,,CON-00278,2026-02-16,Meeting,Meeting,Discovery deep-dive — workflow automation,sofia.alvarez@nimbus.example
+ACT-000676,ACC-0070,,CON-00280,2026-03-02,Call,Call,follow up call on objections,sofia.alvarez@nimbus.example
+ACT-000677,ACC-0071,OPP-00080,CON-00282,2026-04-19,Meeting,Meeting,QBR / EBR with leadership,mara.lindqvist@nimbus.example
+ACT-000678,ACC-0071,,CON-00285,2025-12-28,Call,Call,Champion enablement call,mara.lindqvist@nimbus.example
+ACT-000679,ACC-0071,OPP-00081,CON-00284,2026-05-26,Email,Email,shared the Vantive comparison battlecard,mara.lindqvist@nimbus.example
+ACT-000680,ACC-0071,OPP-00081,CON-00282,2026-03-25,Call,Call,Multithreading call — brought in head of finance,mara.lindqvist@nimbus.example
+ACT-000681,ACC-0071,OPP-00081,CON-00285,2026-02-16,Note,Internal note,Looks stalled — champion ghosted last week,mara.lindqvist@nimbus.example
+ACT-000682,ACC-0071,,CON-00282,2026-03-31,Email,Email,Quick ping on next steps,mara.lindqvist@nimbus.example
+ACT-000683,ACC-0071,OPP-00081,CON-00282,2026-01-25,Call,Call,Discovery call with Pieter Dvorak,mara.lindqvist@nimbus.example
+ACT-000684,ACC-0071,OPP-00080,CON-00284,2026-01-01,Call,Call,Renewal check-in,mara.lindqvist@nimbus.example
+ACT-000685,ACC-0071,OPP-00080,CON-00282,2026-04-06,Email,Email,Quick ping on next steps,mara.lindqvist@nimbus.example
+ACT-000686,ACC-0071,,CON-00284,2025-12-30,Call,Call,follow up call on objections,mara.lindqvist@nimbus.example
+ACT-000687,ACC-0071,OPP-00081,CON-00284,2026-04-15,Call,Call,pricing discussion w/ economic buyer,mara.lindqvist@nimbus.example
+ACT-000688,ACC-0071,OPP-00080,CON-00284,2026-03-18,Email,Email,DPA sent for legal review,mara.lindqvist@nimbus.example
+ACT-000689,ACC-0071,OPP-00080,CON-00284,2026-01-28,Call,Call,Renewal check-in,mara.lindqvist@nimbus.example
+ACT-000690,ACC-0072,,CON-00289,2026-03-30,Meeting,Meeting,Onsite at HQ — exec sponsor present,mara.lindqvist@nimbus.example
+ACT-000691,ACC-0072,,CON-00289,2025-12-14,Email,Email,shared the Vantive comparison battlecard,mara.lindqvist@nimbus.example
+ACT-000692,ACC-0072,,CON-00287,2026-03-09,Email,Email,forwarded roi calculator,mara.lindqvist@nimbus.example
+ACT-000693,ACC-0072,,CON-00286,2026-01-10,Meeting,Meeting,Renewal kick-off meeting,mara.lindqvist@nimbus.example
+ACT-000694,ACC-0072,OPP-00082,CON-00286,2026-04-07,Call,Call,Mutual action plan review,mara.lindqvist@nimbus.example
+ACT-000695,ACC-0072,OPP-00082,CON-00288,2026-05-12,Email,Email,intro to procurement,mara.lindqvist@nimbus.example
+ACT-000696,ACC-0072,,CON-00286,2026-04-08,Call,Call,Renewal check-in,mara.lindqvist@nimbus.example
+ACT-000697,ACC-0072,OPP-00082,CON-00287,2026-02-22,Email,Email,shared the Vantive comparison battlecard,mara.lindqvist@nimbus.example
+ACT-000698,ACC-0072,OPP-00082,CON-00289,2026-04-07,Note,Internal note,Recommend doubling down on usage review,mara.lindqvist@nimbus.example
+ACT-000699,ACC-0072,,CON-00286,2025-12-11,Email,Email,Quick ping on next steps,mara.lindqvist@nimbus.example
+ACT-000700,ACC-0072,OPP-00082,CON-00289,2025-12-05,Email,Email,Sent follow-up on demo recap,mara.lindqvist@nimbus.example
+ACT-000701,ACC-0072,OPP-00082,CON-00289,2026-01-15,Email,Email,DPA sent for legal review,mara.lindqvist@nimbus.example
+ACT-000702,ACC-0073,OPP-00083,CON-00293,2026-03-11,Email,Email,DPA sent for legal review,thomas.weber@nimbus.example
+ACT-000703,ACC-0073,OPP-00083,CON-00291,2025-12-25,Call,Call,Champion enablement call,thomas.weber@nimbus.example
+ACT-000704,ACC-0073,OPP-00083,CON-00292,2026-04-27,Call,Call,Pricing discussion w/ economic buyer,thomas.weber@nimbus.example
+ACT-000705,ACC-0073,OPP-00083,CON-00290,2026-01-05,Meeting,Meeting,QBR / EBR with leadership,thomas.weber@nimbus.example
+ACT-000706,ACC-0073,OPP-00083,CON-00291,2026-03-07,Email,Email,Email re: pricing question from Thomas Janssen,thomas.weber@nimbus.example
+ACT-000707,ACC-0073,OPP-00083,CON-00291,2026-01-25,Call,Call,Mutual action plan review,thomas.weber@nimbus.example
+ACT-000708,ACC-0073,OPP-00083,CON-00293,2026-01-24,Email,Email,DPA sent for legal review,thomas.weber@nimbus.example
+ACT-000709,ACC-0073,OPP-00083,CON-00291,2026-03-20,Email,Email,DPA sent for legal review,thomas.weber@nimbus.example
+ACT-000710,ACC-0073,OPP-00083,CON-00293,2026-05-04,Email,Email,Forwarded ROI calculator,thomas.weber@nimbus.example
+ACT-000711,ACC-0073,,CON-00290,2026-05-08,Email,Email,DPA sent for legal review,thomas.weber@nimbus.example
+ACT-000712,ACC-0073,OPP-00083,CON-00290,2025-12-22,Email,Email,Sent reference customer intros,thomas.weber@nimbus.example
+ACT-000713,ACC-0073,,CON-00290,2026-02-04,Call,Call,Discovery call with Lars Mancini,thomas.weber@nimbus.example
+ACT-000714,ACC-0073,OPP-00083,CON-00292,2025-12-07,Email,Email,DPA sent for legal review,thomas.weber@nimbus.example
+ACT-000715,ACC-0073,,CON-00292,2025-12-26,Call,Call,pricing discussion w/ economic buyer,thomas.weber@nimbus.example
+ACT-000716,ACC-0074,OPP-00084,CON-00294,2026-05-21,Email,Email,Sent follow-up on demo recap,thomas.weber@nimbus.example
+ACT-000717,ACC-0074,OPP-00084,CON-00294,2026-04-07,Email,Email,Sent reference customer intros,thomas.weber@nimbus.example
+ACT-000718,ACC-0074,,CON-00294,2026-01-09,Email,Email,shared the Vantive comparison battlecard,thomas.weber@nimbus.example
+ACT-000719,ACC-0074,OPP-00084,CON-00295,2026-03-02,Meeting,Meeting,Workshop on Ops process pain points,thomas.weber@nimbus.example
+ACT-000720,ACC-0074,OPP-00084,CON-00294,2026-02-25,Email,Email,Email re: pricing question from Soren Tanaka,thomas.weber@nimbus.example
+ACT-000721,ACC-0074,OPP-00084,CON-00296,2026-04-15,Email,Email,Forwarded ROI calculator,thomas.weber@nimbus.example
+ACT-000722,ACC-0075,,CON-00299,2026-03-20,Email,Email,Email re: pricing question from Hannah Andersen,mara.lindqvist@nimbus.example
+ACT-000723,ACC-0075,OPP-00085,CON-00297,2026-03-19,Email,Email,Sent follow-up on demo recap,mara.lindqvist@nimbus.example
+ACT-000724,ACC-0075,OPP-00085,CON-00299,2026-05-01,Email,Email,Replied on contract redlines,mara.lindqvist@nimbus.example
+ACT-000725,ACC-0075,,CON-00297,2026-04-18,Note,Internal note,Heard via partner that CFO change is imminent,mara.lindqvist@nimbus.example
+ACT-000726,ACC-0075,OPP-00085,CON-00299,2026-05-01,Call,Call,mutual action plan review,mara.lindqvist@nimbus.example
+ACT-000727,ACC-0075,,CON-00299,2026-02-14,Meeting,Meeting,onsite at hq — exec sponsor present,mara.lindqvist@nimbus.example
+ACT-000728,ACC-0075,,CON-00299,2026-02-05,Call,Call,follow up call on objections,mara.lindqvist@nimbus.example
+ACT-000729,ACC-0075,OPP-00085,CON-00297,2026-04-23,Email,Email,DPA sent for legal review,mara.lindqvist@nimbus.example
+ACT-000730,ACC-0075,OPP-00085,CON-00297,2026-01-06,Email,Email,replied on contract redlines,mara.lindqvist@nimbus.example
+ACT-000731,ACC-0001,,,2026-05-29,Meeting,Meeting,exec sponsor confirmed Automation module is a priority for H2,mara.lindqvist@nimbus.example
+ACT-000732,ACC-0001,,,2026-05-24,Call,Call,Head of People wants to scope Analytics — 25 new hires planned,mara.lindqvist@nimbus.example
+ACT-000733,ACC-0001,,,2026-05-17,Email,Email,Sent expansion proposal — Automation + Analytics bundle,mara.lindqvist@nimbus.example
+ACT-000734,ACC-0001,,,2026-05-07,Note,Internal note,"Fjord doubled headcount in 12 months, multiple new departments setup",mara.lindqvist@nimbus.example
+ACT-000735,ACC-0002,,,2026-05-27,Email,Email,champion replied saying they are reviewing alternatives this quarter — concerning,mara.lindqvist@nimbus.example
+ACT-000736,ACC-0002,,,2026-05-20,Call,Call,"exec sponsor on call — frustrated by workflow error in March, asked about credits",mara.lindqvist@nimbus.example
+ACT-000737,ACC-0002,,,2026-05-12,Note,Internal note,"Onyx: customer sentiment slipping, multiple unresolved tickets. Need exec alignment before renewal.",mara.lindqvist@nimbus.example
+ACT-000738,ACC-0002,,,2026-04-22,Meeting,Meeting,"QBR — adoption flat, no expansion appetite, champion mentioned Kestrel in passing",mara.lindqvist@nimbus.example
+ACT-000739,ACC-0003,,,2026-05-30,Meeting,Meeting,"Demo to 8 stakeholders incl CFO. CFO asked targeted ROI questions, very engaged.",mara.lindqvist@nimbus.example
+ACT-000740,ACC-0003,,,2026-05-26,Call,Call,Technical deep-dive with Head of IT — SSO + Meridian integration questions answered,mara.lindqvist@nimbus.example
+ACT-000741,ACC-0003,,,2026-05-18,Email,Email,Champion shared internal evaluation matrix — we're tied with Vantive on score,mara.lindqvist@nimbus.example
+ACT-000742,ACC-0003,,,2026-05-12,Note,Internal note,"Procurement-led RFP, decision target end of Q3, Vantive is incumbent in finance",mara.lindqvist@nimbus.example
+ACT-000743,ACC-0003,,,2026-05-04,Meeting,Meeting,"Discovery deep-dive — pain is workflow volume across 4 countries, manual workflows",mara.lindqvist@nimbus.example
+ACT-000744,ACC-0004,,,2026-05-28,Email,Email,champion replied: 'still waiting on CFO availability' — same message as 6 weeks ago,mara.lindqvist@nimbus.example
+ACT-000745,ACC-0004,,,2026-04-27,Call,Call,Mutual action plan slipped again — CFO never made the security review meeting,mara.lindqvist@nimbus.example
+ACT-000746,ACC-0004,,,2026-03-13,Meeting,Meeting,Last time we met the full eval team — radio silence from exec sponsor since,mara.lindqvist@nimbus.example
+ACT-000747,ACC-0004,,,2026-02-27,Note,Internal note,"Meadowlark: only one champion, no exec sponsor surfaced. Risk of indefinite stall.",mara.lindqvist@nimbus.example

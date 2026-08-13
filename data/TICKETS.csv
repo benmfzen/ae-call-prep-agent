@@ -1,0 +1,48 @@
+TICKET_ID,ACCOUNT_ID,STATUS,PRIORITY,SUBJECT,SUMMARY,CREATED_DATE,RESOLVED_DATE
+TKT-00001,ACC-0001,Resolved,P2,Cannot import user records CSV,Cannot import user records CSV. Reported by customer admin.,2026-04-28,2026-05-08
+TKT-00002,ACC-0002,In Progress,P3,Org hierarchy update failing in bulk,Org hierarchy update failing in bulk. Reported by customer admin.,2026-03-03,
+TKT-00003,ACC-0002,Resolved,P2,Permission error on workflow module,Permission error on workflow module. Reported by customer admin.,2025-12-11,2025-12-17
+TKT-00004,ACC-0002,Resolved,P2,Workflow trigger not firing in automation engine,Workflow trigger not firing in automation engine. Reported by customer admin.,2026-04-29,2026-05-05
+TKT-00005,ACC-0002,Resolved,P3,Approval cycle template missing field,Approval cycle template missing field. Reported by customer admin.,2026-03-17,2026-03-26
+TKT-00006,ACC-0002,Resolved,P3,Custom report not exporting,Custom report not exporting. Reported by customer admin.,2026-03-19,2026-03-25
+TKT-00007,ACC-0010,Resolved,P1,SSO login failing for 30+ users,SSO login failing for 30+ users. Reported by customer admin.,2026-04-20,2026-04-23
+TKT-00008,ACC-0010,Resolved,P2,Cannot import user records CSV,Cannot import user records CSV. Reported by customer admin.,2026-01-20,2026-01-28
+TKT-00009,ACC-0012,Resolved,P1,SSO login failing for 30+ users,SSO login failing for 30+ users. Reported by customer admin.,2026-01-13,2026-01-16
+TKT-00010,ACC-0014,Resolved,P3,Workflow calculation question — processing time,Workflow calculation question — processing time. Reported by customer admin.,2026-02-10,2026-03-05
+TKT-00011,ACC-0014,Resolved,P3,Custom report not exporting,Custom report not exporting. Reported by customer admin.,2026-02-16,2026-03-13
+TKT-00012,ACC-0016,Resolved,P2,API rate limit hit during sync,API rate limit hit during sync. Reported by customer admin.,2026-03-19,2026-03-24
+TKT-00013,ACC-0016,Resolved,P3,Org hierarchy update failing in bulk,Org hierarchy update failing in bulk. Reported by customer admin.,2026-02-10,2026-03-07
+TKT-00014,ACC-0017,Resolved,P2,Permission error on workflow module,Permission error on workflow module. Reported by customer admin.,2026-04-20,2026-04-30
+TKT-00015,ACC-0017,Resolved,P3,Custom report not exporting,Custom report not exporting. Reported by customer admin.,2026-01-21,2026-02-03
+TKT-00016,ACC-0018,Resolved,P3,Workflow calculation question — processing time,Workflow calculation question — processing time. Reported by customer admin.,2025-12-09,2026-01-03
+TKT-00017,ACC-0022,Resolved,P1,SSO login failing for 30+ users,SSO login failing for 30+ users. Reported by customer admin.,2026-01-26,2026-01-28
+TKT-00018,ACC-0022,Resolved,P4,Setup checklist not visible to managers,Setup checklist not visible to managers. Reported by customer admin.,2026-03-09,2026-04-01
+TKT-00019,ACC-0022,Resolved,P2,API rate limit hit during sync,API rate limit hit during sync. Reported by customer admin.,2026-03-21,2026-03-24
+TKT-00020,ACC-0025,Resolved,P2,Workflow trigger not firing in automation engine,Workflow trigger not firing in automation engine. Reported by customer admin.,2026-01-26,2026-01-31
+TKT-00021,ACC-0028,Resolved,P2,API rate limit hit during sync,API rate limit hit during sync. Reported by customer admin.,2026-02-23,2026-02-27
+TKT-00022,ACC-0028,Resolved,P3,Org hierarchy update failing in bulk,Org hierarchy update failing in bulk. Reported by customer admin.,2025-12-20,2026-01-05
+TKT-00023,ACC-0028,Resolved,P2,API rate limit hit during sync,API rate limit hit during sync. Reported by customer admin.,2026-02-05,2026-02-13
+TKT-00024,ACC-0029,Resolved,P1,SSO login failing for 30+ users,SSO login failing for 30+ users. Reported by customer admin.,2026-05-08,2026-05-10
+TKT-00025,ACC-0029,Resolved,P2,Permission error on workflow module,Permission error on workflow module. Reported by customer admin.,2026-01-01,2026-01-06
+TKT-00026,ACC-0030,Resolved,P2,Permission error on workflow module,Permission error on workflow module. Reported by customer admin.,2026-03-18,2026-03-27
+TKT-00027,ACC-0030,Resolved,P2,Workflow trigger not firing in automation engine,Workflow trigger not firing in automation engine. Reported by customer admin.,2026-03-30,2026-04-04
+TKT-00028,ACC-0033,Resolved,P2,Cannot import user records CSV,Cannot import user records CSV. Reported by customer admin.,2026-02-06,2026-02-12
+TKT-00029,ACC-0035,Resolved,P1,SSO login failing for 30+ users,SSO login failing for 30+ users. Reported by customer admin.,2026-05-07,2026-05-09
+TKT-00030,ACC-0036,Resolved,P1,SSO login failing for 30+ users,SSO login failing for 30+ users. Reported by customer admin.,2026-04-26,2026-04-28
+TKT-00031,ACC-0036,Resolved,P1,SSO login failing for 30+ users,SSO login failing for 30+ users. Reported by customer admin.,2026-01-03,2026-01-06
+TKT-00032,ACC-0036,Resolved,P3,Approval cycle template missing field,Approval cycle template missing field. Reported by customer admin.,2025-12-13,2025-12-31
+TKT-00033,ACC-0038,Resolved,P2,Workflow trigger not firing in automation engine,Workflow trigger not firing in automation engine. Reported by customer admin.,2026-03-15,2026-03-27
+TKT-00034,ACC-0038,Resolved,P3,Org hierarchy update failing in bulk,Org hierarchy update failing in bulk. Reported by customer admin.,2026-04-23,2026-05-04
+TKT-00035,ACC-0043,Resolved,P4,Setup checklist not visible to managers,Setup checklist not visible to managers. Reported by customer admin.,2026-01-04,2026-01-15
+TKT-00036,ACC-0043,Resolved,P2,Cannot import user records CSV,Cannot import user records CSV. Reported by customer admin.,2026-05-25,2026-05-29
+TKT-00037,ACC-0044,Resolved,P4,Setup checklist not visible to managers,Setup checklist not visible to managers. Reported by customer admin.,2026-05-07,2026-05-17
+TKT-00038,ACC-0044,Resolved,P2,Permission error on workflow module,Permission error on workflow module. Reported by customer admin.,2026-03-23,2026-04-01
+TKT-00039,ACC-0044,Resolved,P2,Workflow trigger not firing in automation engine,Workflow trigger not firing in automation engine. Reported by customer admin.,2026-01-29,2026-02-02
+TKT-00040,ACC-0051,Resolved,P2,Permission error on workflow module,Permission error on workflow module. Reported by customer admin.,2026-04-07,2026-04-11
+TKT-00041,ACC-0051,Resolved,P4,Setup checklist not visible to managers,Setup checklist not visible to managers. Reported by customer admin.,2026-05-04,2026-05-11
+TKT-00042,ACC-0052,Resolved,P3,Approval cycle template missing field,Approval cycle template missing field. Reported by customer admin.,2026-01-16,2026-01-24
+TKT-00043,ACC-0052,Resolved,P2,Permission error on workflow module,Permission error on workflow module. Reported by customer admin.,2026-03-19,2026-03-29
+TKT-00044,ACC-0052,Resolved,P1,SSO login failing for 30+ users,SSO login failing for 30+ users. Reported by customer admin.,2026-05-17,2026-05-21
+TKT-00045,ACC-0060,Resolved,P3,Approval cycle template missing field,Approval cycle template missing field. Reported by customer admin.,2026-02-10,2026-03-02
+TKT-00046,ACC-0065,Resolved,P3,Approval cycle template missing field,Approval cycle template missing field. Reported by customer admin.,2026-02-06,2026-02-20
+TKT-00047,ACC-0002,Resolved,P1,Workflow error: 14 records miscalculated in March cycle,"Critical: 14 records processed with incorrect values in the March 2026 cycle due to a calculation rule misapplied during setup. Customer escalated to CSM same day. Credits issued. Root cause: misconfigured automation rule, not platform bug — but customer trust impacted.",2026-03-23,2026-03-30

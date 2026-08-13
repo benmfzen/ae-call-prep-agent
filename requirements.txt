@@ -1,0 +1,4 @@
+# Runtime: the agent needs only the OpenAI SDK (sqlite3 is in the stdlib).
+openai>=2.0
+# Tests:
+pytest>=8.0

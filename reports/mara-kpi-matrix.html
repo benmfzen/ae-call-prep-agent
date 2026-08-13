@@ -1,0 +1,98 @@
+<!doctype html><html><head><meta charset="utf-8">
+<title>Mara — Retention KPI Matrix</title>
+<style>
+  :root { color-scheme: light dark; }
+  body { font: 14px/1.4 -apple-system, Segoe UI, Roboto, sans-serif; margin: 32px; background:#0f1115; color:#e6e6e6; }
+  h1 { font-size: 20px; margin: 0 0 4px; }
+  .sub { color:#9aa0aa; margin:0 0 18px; }
+  .stats { display:flex; gap:24px; margin:0 0 18px; }
+  .stat b { font-size:22px; display:block; }
+  table { border-collapse: collapse; width:100%; font-variant-numeric: tabular-nums; }
+  th, td { padding:6px 9px; text-align:center; border:1px solid #23262e; white-space:nowrap; }
+  th { background:#1a1d24; position:sticky; top:0; font-weight:600; }
+  td.name { text-align:left; font-weight:600; }
+  td.num { text-align:right; }
+  td.none { color:#3d434f; }
+  td.st { font-size:11px; text-transform:uppercase; letter-spacing:.4px; }
+  .customer { color:#8fd6a0; } .prospect { color:#8fb3ff; } .churned { color:#8a8f99; }
+  /* timing: renewal is the hero dimension */
+  th:nth-child(5), td.ren { background:#141821; }
+  td.ren { color:#e6c07a; font-weight:600; }
+  td.ren.slip { background:#3a1b18; color:#ff9b8a; font-weight:800; }   /* approaching renewal + converging risk = slipping */
+  td.ren.watch { background:#2a2413; color:#e6c07a; }
+  td.exp { background:#122b1f; color:#6fce9b; font-weight:600; }   /* open expansion = positive */
+  /* signal colours */
+  td.strong  { background:#c0392b; color:#fff; font-weight:700; }
+  td.moderate{ background:#d4a017; color:#111; font-weight:700; }
+  td.positive{ background:#1f7a4d; color:#fff; }
+  td.ok      { background:#161922; color:#3d434f; }
+  td.na      { background:#000; color:#4a4f5a; font-size:11px; }
+  .conv { display:inline-block; min-width:20px; padding:1px 6px; border-radius:10px; font-weight:700; }
+  .conv.c0 { background:#161922; color:#3d434f; } .conv.c1 { background:#d4a017; color:#111; }
+  .conv.c2, .conv.c3 { background:#c0392b; color:#fff; } .conv.na2 { background:#000; color:#4a4f5a; }
+  .legend { margin-top:16px; color:#9aa0aa; font-size:12px; }
+  .legend span { display:inline-block; padding:2px 8px; border-radius:4px; margin-right:6px; }
+</style></head><body>
+<h1>Retention KPI Matrix — Mara Lindqvist's book</h1>
+<p class="sub">All 41 accounts · engine: <code>signals.compute_signals</code> · as-of 2026-06-01 · colour = per-KPI signal (aggregate verdict intentionally not shown). Renewal / Expansion = days until that open deal type closes.</p>
+<div class="stats">
+  <div class="stat"><b>24</b>customers (scored)</div>
+  <div class="stat"><b style="color:#e0685a">1</b>≥2 risk signals (converging)</div>
+  <div class="stat"><b style="color:#e6b800">3</b>1 risk signal (watch)</div>
+  <div class="stat"><b style="color:#ff9b8a">3</b>renewals slipping (approaching + risk)</div>
+</div>
+<table>
+<thead><tr><th style="text-align:left">Account</th><th>Seg</th><th>Status</th><th>ARR</th><th>Renewal</th><th>Expansion</th><th>MAU trend</th><th>Ticket</th><th>Competitor</th><th>Stakeholder</th><th>#risk</th></tr></thead>
+<tbody>
+<tr><td class="name">Onyx Partners B.V.</td><td>MM</td><td class="st customer">customer</td><td class="num">€76k</td><td class="num ren slip">18d</td><td class="num none">—</td><td class="strong" title="Active users down -50% (187→93) — steep. Logins also falling (822→632) — corroborates.">-50%</td><td class="strong" title="P1 “Workflow error: 14 records miscalculated in March cycle” (2026-03-23, resolved, but trust lingers).">P1</td><td class="strong" title="Competitor named: Kestrel — “QBR — adoption flat, no expansion appetite, champion mentioned Kestrel in passing” (2026-04-22).">Kestrel</td><td class="moderate" title="Open renewal with no warm senior stakeholder (Champion/EB/Influencer) — warm coverage: Technical only.">Technical only</td><td class="num"><span class="conv c3">4</span></td></tr>
+<tr><td class="name">Copperfield Labs ApS</td><td>MM</td><td class="st customer">customer</td><td class="num">€53k</td><td class="num ren watch">60d</td><td class="num" title="Open expansion in flight: “Copperfield Labs ApS – Expansion” (€89806, Discovery).">46d</td><td class="ok">·</td><td class="ok">·</td><td class="ok">·</td><td class="moderate" title="Open renewal with no warm senior stakeholder (Champion/EB/Influencer) — warm coverage: no one.">no one</td><td class="num"><span class="conv c1">1</span></td></tr>
+<tr><td class="name">Solace Logistics</td><td>SMB</td><td class="st customer">customer</td><td class="num">€29k</td><td class="num ren watch">26d</td><td class="num" title="Open expansion in flight: “Solace Logistics – Expansion” (€32256, Proposal).">42d</td><td class="ok">·</td><td class="ok">·</td><td class="ok">·</td><td class="moderate" title="Open renewal with no warm senior stakeholder (Champion/EB/Influencer) — warm coverage: no one.">no one</td><td class="num"><span class="conv c1">1</span></td></tr>
+<tr><td class="name">Umbra Holding AS</td><td>SMB</td><td class="st customer">customer</td><td class="num">€31k</td><td class="num ren none">—</td><td class="num" title="Open expansion in flight: “Umbra Holding AS – Expansion” (€38676, Discovery).">74d</td><td class="strong" title="Active users down -55% (29→13) — steep. Logins also falling (232→117) — corroborates.">-55%</td><td class="ok">·</td><td class="ok">·</td><td class="ok">·</td><td class="num"><span class="conv c1">1</span></td></tr>
+<tr><td class="name">Amber Software ApS</td><td>MM</td><td class="st customer">customer</td><td class="num">€85k</td><td class="num ren none">—</td><td class="num exp" title="Open expansion in flight: “Amber Software ApS – Expansion” (€70487, Discovery).">13d</td><td class="ok">·</td><td class="ok">·</td><td class="ok">·</td><td class="ok">·</td><td class="num"><span class="conv c0">0</span></td></tr>
+<tr><td class="name">Bastion Construction B.V.</td><td>ENT</td><td class="st customer">customer</td><td class="num">€312k</td><td class="num ren">19d</td><td class="num none">—</td><td class="ok">·</td><td class="ok">·</td><td class="ok">·</td><td class="ok">·</td><td class="num"><span class="conv c0">0</span></td></tr>
+<tr><td class="name">Bastion Studios Ltd</td><td>SMB</td><td class="st customer">customer</td><td class="num">€30k</td><td class="num ren">73d</td><td class="num none">—</td><td class="ok">·</td><td class="ok">·</td><td class="ok">·</td><td class="ok">·</td><td class="num"><span class="conv c0">0</span></td></tr>
+<tr><td class="name">Brightline Software AS</td><td>MM</td><td class="st customer">customer</td><td class="num">€62k</td><td class="num ren">35d</td><td class="num none">—</td><td class="ok">·</td><td class="ok">·</td><td class="ok">·</td><td class="ok">·</td><td class="num"><span class="conv c0">0</span></td></tr>
+<tr><td class="name">Cedarline Logistics AS</td><td>MM</td><td class="st customer">customer</td><td class="num">€95k</td><td class="num ren">50d</td><td class="num none">—</td><td class="ok">·</td><td class="ok">·</td><td class="ok">·</td><td class="ok">·</td><td class="num"><span class="conv c0">0</span></td></tr>
+<tr><td class="name">Compass Foods Ltd</td><td>SMB</td><td class="st customer">customer</td><td class="num">€24k</td><td class="num ren none">—</td><td class="num exp" title="Open expansion in flight: “Compass Foods Ltd – Expansion” (€15337, Discovery).">9d</td><td class="ok">·</td><td class="ok">·</td><td class="ok">·</td><td class="ok">·</td><td class="num"><span class="conv c0">0</span></td></tr>
+<tr><td class="name">Everline Group Ltd</td><td>SMB</td><td class="st customer">customer</td><td class="num">€14k</td><td class="num ren none">—</td><td class="num none">—</td><td class="ok">·</td><td class="ok">·</td><td class="ok">·</td><td class="ok">·</td><td class="num"><span class="conv c0">0</span></td></tr>
+<tr><td class="name">Fjord Construction SL</td><td>MM</td><td class="st customer">customer</td><td class="num">€92k</td><td class="num ren">14d</td><td class="num exp" title="Open expansion in flight: “Fjord Construction SL – Expansion (Automation + Analytics)” (€48000, Proposal).">22d</td><td class="ok">·</td><td class="ok">·</td><td class="ok">·</td><td class="ok">·</td><td class="num"><span class="conv c0">0</span></td></tr>
+<tr><td class="name">Halcyon Healthcare AG</td><td>SMB</td><td class="st customer">customer</td><td class="num">€32k</td><td class="num ren none">—</td><td class="num exp" title="Open expansion in flight: “Halcyon Healthcare AG – Expansion” (€33960, Negotiation).">31d</td><td class="ok">·</td><td class="ok">·</td><td class="ok">·</td><td class="ok">·</td><td class="num"><span class="conv c0">0</span></td></tr>
+<tr><td class="name">Lark Healthcare B.V.</td><td>MM</td><td class="st customer">customer</td><td class="num">€63k</td><td class="num ren none">—</td><td class="num none">—</td><td class="ok">·</td><td class="ok">·</td><td class="ok">·</td><td class="ok">·</td><td class="num"><span class="conv c0">0</span></td></tr>
+<tr><td class="name">Larkspur Retail</td><td>SMB</td><td class="st customer">customer</td><td class="num">€19k</td><td class="num ren">58d</td><td class="num none">—</td><td class="ok">·</td><td class="ok">·</td><td class="ok">·</td><td class="ok">·</td><td class="num"><span class="conv c0">0</span></td></tr>
+<tr><td class="name">Mosaic Labs AB</td><td>SMB</td><td class="st customer">customer</td><td class="num">€17k</td><td class="num ren">46d</td><td class="num exp" title="Open expansion in flight: “Mosaic Labs AB – Expansion” (€29460, Qualification).">50d</td><td class="ok">·</td><td class="ok">·</td><td class="ok">·</td><td class="ok">·</td><td class="num"><span class="conv c0">0</span></td></tr>
+<tr><td class="name">Quill Education Oy</td><td>MM</td><td class="st customer">customer</td><td class="num">€80k</td><td class="num ren none">—</td><td class="num exp" title="Open expansion in flight: “Quill Education Oy – Expansion” (€42555, Proposal).">5d</td><td class="ok">·</td><td class="ok">·</td><td class="ok">·</td><td class="ok">·</td><td class="num"><span class="conv c0">0</span></td></tr>
+<tr><td class="name">Rune Retail Ltd</td><td>MM</td><td class="st customer">customer</td><td class="num">€59k</td><td class="num ren">55d</td><td class="num none">—</td><td class="ok">·</td><td class="ok">·</td><td class="ok">·</td><td class="ok">·</td><td class="num"><span class="conv c0">0</span></td></tr>
+<tr><td class="name">Sable Healthcare SL</td><td>SMB</td><td class="st customer">customer</td><td class="num">€22k</td><td class="num ren none">—</td><td class="num exp" title="Open expansion in flight: “Sable Healthcare SL – Expansion” (€21686, Negotiation).">75d</td><td class="ok">·</td><td class="ok">·</td><td class="ok">·</td><td class="ok">·</td><td class="num"><span class="conv c0">0</span></td></tr>
+<tr><td class="name">Timberline Services GmbH</td><td>ENT</td><td class="st customer">customer</td><td class="num">€211k</td><td class="num ren">71d</td><td class="num exp" title="Open expansion in flight: “Timberline Services GmbH – Expansion” (€252627, Negotiation).">47d</td><td class="ok">·</td><td class="ok">·</td><td class="ok">·</td><td class="ok">·</td><td class="num"><span class="conv c0">0</span></td></tr>
+<tr><td class="name">Vault Systems AB</td><td>SMB</td><td class="st customer">customer</td><td class="num">€17k</td><td class="num ren none">—</td><td class="num exp" title="Open expansion in flight: “Vault Systems AB – Expansion” (€12830, Proposal).">17d</td><td class="ok">·</td><td class="ok">·</td><td class="ok">·</td><td class="ok">·</td><td class="num"><span class="conv c0">0</span></td></tr>
+<tr><td class="name">Yonder Capital SAS</td><td>MM</td><td class="st customer">customer</td><td class="num">€37k</td><td class="num ren none">—</td><td class="num exp" title="Open expansion in flight: “Yonder Capital SAS – Expansion” (€84537, Demo).">73d</td><td class="ok">·</td><td class="ok">·</td><td class="ok">·</td><td class="ok">·</td><td class="num"><span class="conv c0">0</span></td></tr>
+<tr><td class="name">Zenith Capital GmbH</td><td>MM</td><td class="st customer">customer</td><td class="num">€47k</td><td class="num ren none">—</td><td class="num none">—</td><td class="ok">·</td><td class="ok">·</td><td class="ok">·</td><td class="ok">·</td><td class="num"><span class="conv c0">0</span></td></tr>
+<tr><td class="name">Zenith Construction</td><td>MM</td><td class="st customer">customer</td><td class="num">€83k</td><td class="num ren none">—</td><td class="num exp" title="Open expansion in flight: “Zenith Construction – Expansion” (€58995, Qualification).">17d</td><td class="ok">·</td><td class="ok">·</td><td class="ok">·</td><td class="ok">·</td><td class="num"><span class="conv c0">0</span></td></tr>
+<tr><td class="name">Amber Systems ApS</td><td>SMB</td><td class="st prospect">prospect</td><td class="num">—</td><td class="num ren none">—</td><td class="num none">—</td><td class="na">n/a</td><td class="na">n/a</td><td class="na">n/a</td><td class="na">n/a</td><td class="num"><span class="conv na2">–</span></td></tr>
+<tr><td class="name">Bastion Healthcare</td><td>SMB</td><td class="st prospect">prospect</td><td class="num">—</td><td class="num ren none">—</td><td class="num none">—</td><td class="na">n/a</td><td class="na">n/a</td><td class="na">n/a</td><td class="na">n/a</td><td class="num"><span class="conv na2">–</span></td></tr>
+<tr><td class="name">Dovetail Logistics AS</td><td>SMB</td><td class="st prospect">prospect</td><td class="num">—</td><td class="num ren none">—</td><td class="num none">—</td><td class="na">n/a</td><td class="na">n/a</td><td class="na">n/a</td><td class="na">n/a</td><td class="num"><span class="conv na2">–</span></td></tr>
+<tr><td class="name">Everline Capital Oy</td><td>MM</td><td class="st prospect">prospect</td><td class="num">—</td><td class="num ren none">—</td><td class="num none">—</td><td class="na">n/a</td><td class="na">n/a</td><td class="na">n/a</td><td class="na">n/a</td><td class="num"><span class="conv na2">–</span></td></tr>
+<tr><td class="name">Fjord Software</td><td>SMB</td><td class="st prospect">prospect</td><td class="num">—</td><td class="num ren none">—</td><td class="num none">—</td><td class="na">n/a</td><td class="na">n/a</td><td class="na">n/a</td><td class="na">n/a</td><td class="num"><span class="conv na2">–</span></td></tr>
+<tr><td class="name">Glenview Healthcare AB</td><td>MM</td><td class="st prospect">prospect</td><td class="num">—</td><td class="num ren none">—</td><td class="num none">—</td><td class="na">n/a</td><td class="na">n/a</td><td class="na">n/a</td><td class="na">n/a</td><td class="num"><span class="conv na2">–</span></td></tr>
+<tr><td class="name">Hearthstone Holding</td><td>ENT</td><td class="st prospect">prospect</td><td class="num">—</td><td class="num ren none">—</td><td class="num none">—</td><td class="na">n/a</td><td class="na">n/a</td><td class="na">n/a</td><td class="na">n/a</td><td class="num"><span class="conv na2">–</span></td></tr>
+<tr><td class="name">Juniper Group AG</td><td>SMB</td><td class="st prospect">prospect</td><td class="num">—</td><td class="num ren none">—</td><td class="num none">—</td><td class="na">n/a</td><td class="na">n/a</td><td class="na">n/a</td><td class="na">n/a</td><td class="num"><span class="conv na2">–</span></td></tr>
+<tr><td class="name">Larkspur Logistics AS</td><td>ENT</td><td class="st prospect">prospect</td><td class="num">—</td><td class="num ren none">—</td><td class="num none">—</td><td class="na">n/a</td><td class="na">n/a</td><td class="na">n/a</td><td class="na">n/a</td><td class="num"><span class="conv na2">–</span></td></tr>
+<tr><td class="name">Lodestar Holding</td><td>SMB</td><td class="st prospect">prospect</td><td class="num">—</td><td class="num ren none">—</td><td class="num none">—</td><td class="na">n/a</td><td class="na">n/a</td><td class="na">n/a</td><td class="na">n/a</td><td class="num"><span class="conv na2">–</span></td></tr>
+<tr><td class="name">Meadowlark Hospitality S.A.</td><td>ENT</td><td class="st prospect">prospect</td><td class="num">—</td><td class="num ren none">—</td><td class="num none">—</td><td class="na">n/a</td><td class="na">n/a</td><td class="na">n/a</td><td class="na">n/a</td><td class="num"><span class="conv na2">–</span></td></tr>
+<tr><td class="name">Redstone Construction SL</td><td>MM</td><td class="st prospect">prospect</td><td class="num">—</td><td class="num ren none">—</td><td class="num none">—</td><td class="na">n/a</td><td class="na">n/a</td><td class="na">n/a</td><td class="na">n/a</td><td class="num"><span class="conv na2">–</span></td></tr>
+<tr><td class="name">Tide Professional Services</td><td>MM</td><td class="st prospect">prospect</td><td class="num">—</td><td class="num ren none">—</td><td class="num none">—</td><td class="na">n/a</td><td class="na">n/a</td><td class="na">n/a</td><td class="na">n/a</td><td class="num"><span class="conv na2">–</span></td></tr>
+<tr><td class="name">Timberline Partners B.V.</td><td>ENT</td><td class="st prospect">prospect</td><td class="num">—</td><td class="num ren none">—</td><td class="num none">—</td><td class="na">n/a</td><td class="na">n/a</td><td class="na">n/a</td><td class="na">n/a</td><td class="num"><span class="conv na2">–</span></td></tr>
+<tr><td class="name">Vault Studios Ltd</td><td>SMB</td><td class="st prospect">prospect</td><td class="num">—</td><td class="num ren none">—</td><td class="num none">—</td><td class="na">n/a</td><td class="na">n/a</td><td class="na">n/a</td><td class="na">n/a</td><td class="num"><span class="conv na2">–</span></td></tr>
+<tr><td class="name">Copperfield Systems AS</td><td>ENT</td><td class="st churned">churned</td><td class="num">—</td><td class="num ren none">—</td><td class="num none">—</td><td class="na">n/a</td><td class="na">n/a</td><td class="na">n/a</td><td class="na">n/a</td><td class="num"><span class="conv na2">–</span></td></tr>
+<tr><td class="name">Westgate Professional Services GmbH</td><td>ENT</td><td class="st churned">churned</td><td class="num">—</td><td class="num ren none">—</td><td class="num none">—</td><td class="na">n/a</td><td class="na">n/a</td><td class="na">n/a</td><td class="na">n/a</td><td class="num"><span class="conv na2">–</span></td></tr>
+</tbody></table>
+<div class="legend">
+  <span class="strong" style="background:#c0392b;color:#fff">strong risk</span>
+  <span class="moderate" style="background:#d4a017;color:#111">moderate risk</span>
+  <span style="background:#122b1f;color:#6fce9b">Expansion open (positive)</span>
+  <span style="background:#161922;color:#3d434f">· no signal</span>
+  <span style="background:#3a1b18;color:#ff9b8a">renewal slipping (approaching + risk)</span>
+  <span style="background:#000;color:#6a6f7a">n/a (prospect / churned)</span>
+  <br>Renewal / Expansion = days until that open deal closes ("—" = none open). Hover a coloured KPI cell for the evidence. #risk = strong+moderate signals (convergence, not an official verdict).
+</div>
+</body></html>

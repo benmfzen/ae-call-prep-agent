@@ -1,0 +1,300 @@
+CONTACT_ID,ACCOUNT_ID,FULL_NAME,ROLE_TITLE,PERSONA_TYPE,EMAIL,LAST_INTERACTION,CREATED_AT
+CON-00001,ACC-0001,Bastian Oconnor,Operations Manager,Influencer,bastian.oconnor@fjord-construction-sl.example,2026-05-11,2025-08-28
+CON-00002,ACC-0001,Eva Oconnor,Operations Manager,Influencer,eva.oconnor@fjord-construction-sl.example,2026-05-26,2025-11-05
+CON-00003,ACC-0001,Camille Ferreira,Head of IT,Technical,camille.ferreira@fjord-construction-sl.example,2025-12-15,2025-10-24
+CON-00004,ACC-0001,Marco Karlsson,Finance Manager,Influencer,marco.karlsson@fjord-construction-sl.example,2026-03-05,2025-05-27
+CON-00005,ACC-0002,Oskar Quintero,IT Manager,Technical,oskar.quintero@onyx-partners-b-v.example,2025-12-03,2025-05-22
+CON-00006,ACC-0002,Thomas Berger,Head of IT,Technical,thomas.berger@onyx-partners-b-v.example,2025-12-17,2025-01-26
+CON-00007,ACC-0002,Liesl Ramos,Head of IT,Technical,liesl.ramos@onyx-partners-b-v.example,2026-04-16,2025-08-02
+CON-00008,ACC-0002,Andreas Tanaka,Workflow Specialist,User,andreas.tanaka@onyx-partners-b-v.example,2026-02-25,2026-01-09
+CON-00009,ACC-0003,Lars Henriksen,IT Manager,Technical,lars.henriksen@hearthstone-holding.example,2026-02-04,2025-12-29
+CON-00010,ACC-0003,Bastian Zimmer,Finance Manager,Influencer,bastian.zimmer@hearthstone-holding.example,2026-03-07,2025-02-13
+CON-00011,ACC-0003,Ida Esposito,VP of Operations,Champion,ida.esposito@hearthstone-holding.example,2026-03-04,2025-03-04
+CON-00012,ACC-0003,Jonas Oconnor,Head of IT,Technical,jonas.oconnor@hearthstone-holding.example,2026-02-06,2025-02-14
+CON-00013,ACC-0003,Nora Petersen,IT Manager,Technical,nora.petersen@hearthstone-holding.example,2026-02-16,2025-04-30
+CON-00014,ACC-0003,Camille Janssen,Workflow Specialist,User,camille.janssen@hearthstone-holding.example,2026-01-26,2025-10-26
+CON-00015,ACC-0003,Marco Lambert,IT Manager,Technical,marco.lambert@hearthstone-holding.example,2025-12-29,2025-10-12
+CON-00016,ACC-0004,Lars Ramos,Workflow Specialist,User,lars.ramos@meadowlark-hospitality-s-a.example,2026-02-17,2025-05-14
+CON-00017,ACC-0004,Yara Krause,Head of IT,Technical,yara.krause@meadowlark-hospitality-s-a.example,2026-04-29,2025-05-29
+CON-00018,ACC-0004,Mia Andersen,COO,Economic Buyer,mia.andersen@meadowlark-hospitality-s-a.example,2026-01-27,2025-06-04
+CON-00019,ACC-0004,Liesl Lopez,VP of Business Operations,Champion,liesl.lopez@meadowlark-hospitality-s-a.example,2025-12-14,2025-04-20
+CON-00020,ACC-0004,Emil Dvorak,Head of IT,Technical,emil.dvorak@meadowlark-hospitality-s-a.example,2026-05-06,2025-11-09
+CON-00021,ACC-0004,Mia Lindqvist,Finance Manager,Influencer,mia.lindqvist@meadowlark-hospitality-s-a.example,2026-04-29,2025-11-25
+CON-00022,ACC-0004,Ida Lefevre,Managing Director,Economic Buyer,ida.lefevre@meadowlark-hospitality-s-a.example,2026-03-12,2025-02-24
+CON-00023,ACC-0005,Stefan Hofer,CFO,Economic Buyer,stefan.hofer@driftwood-professional-services-ag.example,2026-02-27,2025-02-25
+CON-00024,ACC-0005,Klara Andersen,COO,Economic Buyer,klara.andersen@driftwood-professional-services-ag.example,2026-01-02,2025-09-12
+CON-00025,ACC-0005,Sven Karlsson,IT Manager,Technical,sven.karlsson@driftwood-professional-services-ag.example,2026-01-17,2025-01-25
+CON-00026,ACC-0005,Saskia Oconnor,Managing Director,Economic Buyer,saskia.oconnor@driftwood-professional-services-ag.example,2026-03-31,2025-10-20
+CON-00027,ACC-0005,Saskia Krause,VP of Operations,Champion,saskia.krause@driftwood-professional-services-ag.example,2026-02-05,2025-04-08
+CON-00028,ACC-0006,Ines Zimmer,IT Manager,Technical,ines.zimmer@westgate-professional-services-gmbh.example,2026-04-01,2026-02-19
+CON-00029,ACC-0006,Petra Mancini,Ops Business Partner,User,petra.mancini@westgate-professional-services-gmbh.example,2026-03-30,2025-08-30
+CON-00030,ACC-0006,Hannah Dvorak,Operations Manager,Influencer,hannah.dvorak@westgate-professional-services-gmbh.example,2026-03-08,2026-01-01
+CON-00031,ACC-0006,Hannah Ferreira,Finance Manager,Influencer,hannah.ferreira@westgate-professional-services-gmbh.example,2026-01-15,2025-04-16
+CON-00032,ACC-0006,Yara Jung,Business Operations Lead,Champion,yara.jung@westgate-professional-services-gmbh.example,2026-03-14,2026-02-05
+CON-00033,ACC-0006,Yara Dahl,Operations Manager,Influencer,yara.dahl@westgate-professional-services-gmbh.example,2025-12-29,2025-11-08
+CON-00034,ACC-0007,Eva Costa,CFO,Economic Buyer,eva.costa@copperfield-labs-aps.example,2026-03-05,2025-11-17
+CON-00035,ACC-0007,Camille Iversen,VP of Operations,Champion,camille.iversen@copperfield-labs-aps.example,2026-03-18,2025-03-10
+CON-00036,ACC-0007,Camille Janssen,CEO,Economic Buyer,camille.janssen@copperfield-labs-aps.example,2025-12-31,2025-11-24
+CON-00037,ACC-0007,Sofia Werner,Head of Business Operations,Champion,sofia.werner@copperfield-labs-aps.example,2026-01-29,2025-12-10
+CON-00038,ACC-0007,Saskia Muller,Head of IT,Technical,saskia.muller@copperfield-labs-aps.example,2026-03-26,2025-12-18
+CON-00039,ACC-0008,Henrik Sorensen,CFO,Economic Buyer,henrik.sorensen@juniper-group-ag.example,2025-12-04,2025-04-02
+CON-00040,ACC-0008,Elena Janssen,CFO,Economic Buyer,elena.janssen@juniper-group-ag.example,2026-05-05,2025-09-05
+CON-00041,ACC-0009,Saskia Romano,Managing Director,Economic Buyer,saskia.romano@lark-studios.example,2026-03-28,2026-02-10
+CON-00042,ACC-0009,Marta Jung,Workflow Specialist,User,marta.jung@lark-studios.example,2026-01-17,2025-04-29
+CON-00043,ACC-0009,Andreas Tanaka,Operations Manager,Influencer,andreas.tanaka@lark-studios.example,2026-01-12,2025-02-02
+CON-00044,ACC-0010,Thomas Karlsson,Workflow Specialist,User,thomas.karlsson@solace-logistics.example,2026-02-26,2025-09-01
+CON-00045,ACC-0010,Bastian Lindqvist,Operations Partner,User,bastian.lindqvist@solace-logistics.example,2026-02-15,2025-08-30
+CON-00046,ACC-0010,Stefan Werner,Ops Business Partner,User,stefan.werner@solace-logistics.example,2026-01-18,2025-04-05
+CON-00047,ACC-0011,Oskar Andersen,Head of Business Operations,Champion,oskar.andersen@noble-group-s-a.example,2026-03-07,2025-07-12
+CON-00048,ACC-0011,Rosa Krause,Systems Administrator,Technical,rosa.krause@noble-group-s-a.example,2026-03-14,2025-06-23
+CON-00049,ACC-0011,Ida Costa,CFO,Economic Buyer,ida.costa@noble-group-s-a.example,2026-01-26,2025-01-24
+CON-00050,ACC-0011,Niko Karlsson,VP of Business Operations,Champion,niko.karlsson@noble-group-s-a.example,2026-05-10,2025-09-20
+CON-00051,ACC-0012,Petra Petersen,Ops Business Partner,User,petra.petersen@zenith-capital-gmbh.example,2025-12-19,2025-07-19
+CON-00052,ACC-0012,Petra Zimmer,Business Operations Lead,Champion,petra.zimmer@zenith-capital-gmbh.example,2026-01-04,2025-10-28
+CON-00053,ACC-0012,Viktor Lefevre,Operations Manager,Influencer,viktor.lefevre@zenith-capital-gmbh.example,2026-01-23,2025-05-03
+CON-00054,ACC-0012,Sofia Grimaldi,Head of Business Operations,Champion,sofia.grimaldi@zenith-capital-gmbh.example,2026-04-14,2026-02-24
+CON-00055,ACC-0012,Elena Dahl,IT Manager,Technical,elena.dahl@zenith-capital-gmbh.example,2026-04-08,2025-06-12
+CON-00056,ACC-0013,Sofia Costa,Operations Manager,Influencer,sofia.costa@everline-capital-oy.example,2026-04-26,2025-11-25
+CON-00057,ACC-0013,Camille Dahl,CFO,Economic Buyer,camille.dahl@everline-capital-oy.example,2025-12-12,2025-07-03
+CON-00058,ACC-0013,Camille Krause,VP of Business Operations,Champion,camille.krause@everline-capital-oy.example,2026-02-21,2025-05-27
+CON-00059,ACC-0013,Klara Oconnor,Operations Lead,User,klara.oconnor@everline-capital-oy.example,2026-01-31,2025-06-13
+CON-00060,ACC-0014,Nora Grimaldi,COO,Economic Buyer,nora.grimaldi@ironclad-capital-b-v.example,2026-05-28,2025-12-07
+CON-00061,ACC-0014,Charlotte Tanaka,VP of Operations,Champion,charlotte.tanaka@ironclad-capital-b-v.example,2026-02-28,2025-12-22
+CON-00062,ACC-0014,Liesl Janssen,CEO,Economic Buyer,liesl.janssen@ironclad-capital-b-v.example,2026-02-04,2025-08-09
+CON-00063,ACC-0014,Saskia Mancini,Operations Manager,Influencer,saskia.mancini@ironclad-capital-b-v.example,2026-05-13,2025-05-19
+CON-00064,ACC-0015,Camille Zimmer,Head of Business Operations,Champion,camille.zimmer@lark-education-sas.example,2025-12-22,2025-04-18
+CON-00065,ACC-0015,Lars Karlsson,Operations Partner,User,lars.karlsson@lark-education-sas.example,2026-05-22,2025-06-02
+CON-00066,ACC-0016,Mia Hofer,Business Operations Lead,Champion,mia.hofer@brightline-software-as.example,2026-05-27,2026-03-25
+CON-00067,ACC-0016,Eva Schmidt,Finance Manager,Influencer,eva.schmidt@brightline-software-as.example,2026-04-06,2025-06-01
+CON-00068,ACC-0016,Stefan Karlsson,Systems Administrator,Technical,stefan.karlsson@brightline-software-as.example,2026-03-30,2025-03-11
+CON-00069,ACC-0017,Wanda Sorensen,Finance Manager,Influencer,wanda.sorensen@sable-healthcare-sl.example,2026-05-12,2025-08-31
+CON-00070,ACC-0017,Eva Tanaka,VP of Business Operations,Champion,eva.tanaka@sable-healthcare-sl.example,2026-02-17,2025-05-28
+CON-00071,ACC-0018,Viktor Lefevre,Managing Director,Economic Buyer,viktor.lefevre@bastion-studios-ltd.example,2026-03-29,2025-03-17
+CON-00072,ACC-0018,Yara Grimaldi,Finance Manager,Influencer,yara.grimaldi@bastion-studios-ltd.example,2025-12-30,2025-02-12
+CON-00073,ACC-0018,Karim Hofer,COO,Economic Buyer,karim.hofer@bastion-studios-ltd.example,2026-04-25,2025-11-16
+CON-00074,ACC-0019,Petra Mancini,CEO,Economic Buyer,petra.mancini@tide-professional-services.example,2026-04-29,2026-01-24
+CON-00075,ACC-0019,Oskar Berger,Head of Business Operations,Champion,oskar.berger@tide-professional-services.example,2026-01-11,2025-02-20
+CON-00076,ACC-0019,Lukas Tanaka,Operations Lead,User,lukas.tanaka@tide-professional-services.example,2026-05-10,2025-07-08
+CON-00077,ACC-0019,Sven Romano,Head of IT,Technical,sven.romano@tide-professional-services.example,2025-12-14,2025-09-12
+CON-00078,ACC-0020,Marco Andersen,Managing Director,Economic Buyer,marco.andersen@bastion-healthcare.example,2025-12-16,2025-05-04
+CON-00079,ACC-0020,Rosa Tanaka,Systems Administrator,Technical,rosa.tanaka@bastion-healthcare.example,2026-03-02,2025-05-10
+CON-00080,ACC-0020,Stefan Sorensen,Business Operations Lead,Champion,stefan.sorensen@bastion-healthcare.example,2026-01-01,2025-08-17
+CON-00081,ACC-0020,Oskar Muller,Finance Manager,Influencer,oskar.muller@bastion-healthcare.example,2026-04-27,2025-08-15
+CON-00082,ACC-0021,Ida Andersen,Operations Partner,User,ida.andersen@lodestar-holding.example,2026-01-28,2025-09-14
+CON-00083,ACC-0021,Karim Berger,Systems Administrator,Technical,karim.berger@lodestar-holding.example,2026-01-22,2025-10-29
+CON-00084,ACC-0021,Lars Dvorak,Ops Business Partner,User,lars.dvorak@lodestar-holding.example,2026-05-05,2026-02-18
+CON-00085,ACC-0021,Camille Dvorak,VP of Operations,Champion,camille.dvorak@lodestar-holding.example,2026-02-28,2025-06-06
+CON-00086,ACC-0022,Freya Lopez,Systems Administrator,Technical,freya.lopez@fairmont-labs-gmbh.example,2026-01-09,2025-01-01
+CON-00087,ACC-0022,Bastian Dahl,Finance Manager,Influencer,bastian.dahl@fairmont-labs-gmbh.example,2026-05-08,2025-07-11
+CON-00088,ACC-0022,Greta Ferreira,VP of Business Operations,Champion,greta.ferreira@fairmont-labs-gmbh.example,2026-01-09,2025-05-13
+CON-00089,ACC-0022,Marco Werner,Finance Manager,Influencer,marco.werner@fairmont-labs-gmbh.example,2026-05-30,2026-04-17
+CON-00090,ACC-0023,Oskar Lefevre,IT Manager,Technical,oskar.lefevre@quill-education-oy.example,2026-02-08,2025-07-24
+CON-00091,ACC-0023,Sven Oconnor,Systems Administrator,Technical,sven.oconnor@quill-education-oy.example,2026-01-03,2025-08-06
+CON-00092,ACC-0023,Nora Esposito,Systems Administrator,Technical,nora.esposito@quill-education-oy.example,2026-04-24,2025-11-13
+CON-00093,ACC-0024,Elena Bauer,Operations Lead,User,elena.bauer@noble-healthcare-ab.example,2026-01-07,2025-08-14
+CON-00094,ACC-0024,Oskar Janssen,VP of Operations,Champion,oskar.janssen@noble-healthcare-ab.example,2026-05-05,2026-01-11
+CON-00095,ACC-0024,Mia Lindqvist,COO,Economic Buyer,mia.lindqvist@noble-healthcare-ab.example,2025-12-21,2024-12-29
+CON-00096,ACC-0024,Karim Quintero,Business Operations Lead,Champion,karim.quintero@noble-healthcare-ab.example,2025-12-28,2025-08-17
+CON-00097,ACC-0024,Freya Sorensen,Business Operations Lead,Champion,freya.sorensen@noble-healthcare-ab.example,2026-02-15,2025-08-23
+CON-00098,ACC-0025,Beatriz Schmidt,Head of Business Operations,Champion,beatriz.schmidt@crescent-professional-services-aps.example,2026-02-24,2025-08-31
+CON-00099,ACC-0025,Mateo Lopez,Operations Manager,Influencer,mateo.lopez@crescent-professional-services-aps.example,2026-03-08,2025-06-04
+CON-00100,ACC-0025,Soren Costa,Operations Lead,User,soren.costa@crescent-professional-services-aps.example,2026-05-05,2025-07-22
+CON-00101,ACC-0025,Oskar Bauer,COO,Economic Buyer,oskar.bauer@crescent-professional-services-aps.example,2026-05-21,2025-12-07
+CON-00102,ACC-0025,Wanda Werner,Systems Administrator,Technical,wanda.werner@crescent-professional-services-aps.example,2026-05-13,2026-01-31
+CON-00103,ACC-0026,Soren Lopez,Operations Lead,User,soren.lopez@granite-retail-ag.example,2026-01-26,2025-05-14
+CON-00104,ACC-0026,Andreas Lefevre,Finance Manager,Influencer,andreas.lefevre@granite-retail-ag.example,2026-03-12,2025-11-29
+CON-00105,ACC-0026,Tobias Quintero,CEO,Economic Buyer,tobias.quintero@granite-retail-ag.example,2026-01-15,2025-04-24
+CON-00106,ACC-0026,Andreas Quintero,VP of Operations,Champion,andreas.quintero@granite-retail-ag.example,2026-04-23,2026-03-04
+CON-00107,ACC-0027,Charlotte Esposito,Operations Manager,Influencer,charlotte.esposito@northwind-capital.example,2026-04-05,2026-02-09
+CON-00108,ACC-0027,Marta Janssen,Finance Manager,Influencer,marta.janssen@northwind-capital.example,2025-12-19,2024-11-15
+CON-00109,ACC-0027,Hannah Henriksen,Business Operations Lead,Champion,hannah.henriksen@northwind-capital.example,2026-04-19,2025-03-27
+CON-00110,ACC-0027,Maxime Mancini,Managing Director,Economic Buyer,maxime.mancini@northwind-capital.example,2026-04-15,2025-04-27
+CON-00111,ACC-0028,Andreas Vogel,Systems Administrator,Technical,andreas.vogel@alder-services-ltd.example,2026-05-12,2026-03-19
+CON-00112,ACC-0028,Mia Karlsson,Operations Lead,User,mia.karlsson@alder-services-ltd.example,2026-05-27,2025-04-24
+CON-00113,ACC-0028,Nils Henriksen,Operations Manager,Influencer,nils.henriksen@alder-services-ltd.example,2026-02-10,2025-09-30
+CON-00114,ACC-0029,Eva Muller,CEO,Economic Buyer,eva.muller@umbra-holding-as.example,2025-12-25,2025-01-14
+CON-00115,ACC-0029,Marco Bauer,CEO,Economic Buyer,marco.bauer@umbra-holding-as.example,2025-12-29,2025-02-09
+CON-00116,ACC-0030,Oskar Quintero,Head of IT,Technical,oskar.quintero@mosaic-retail.example,2026-01-08,2024-12-10
+CON-00117,ACC-0030,Emil Lambert,Finance Manager,Influencer,emil.lambert@mosaic-retail.example,2025-12-09,2025-05-12
+CON-00118,ACC-0030,Maxime Andersen,COO,Economic Buyer,maxime.andersen@mosaic-retail.example,2025-12-25,2025-05-14
+CON-00119,ACC-0030,Gustav Henriksen,IT Manager,Technical,gustav.henriksen@mosaic-retail.example,2026-05-21,2026-04-21
+CON-00120,ACC-0030,Maxime Quintero,IT Manager,Technical,maxime.quintero@mosaic-retail.example,2026-02-23,2025-02-03
+CON-00121,ACC-0030,Klara Andersen,Systems Administrator,Technical,klara.andersen@mosaic-retail.example,2026-05-13,2026-02-11
+CON-00122,ACC-0030,Mia Dvorak,Managing Director,Economic Buyer,mia.dvorak@mosaic-retail.example,2026-05-11,2026-03-06
+CON-00123,ACC-0031,Andreas Dahl,Finance Manager,Influencer,andreas.dahl@cedarline-logistics-as.example,2026-03-27,2026-01-25
+CON-00124,ACC-0031,Nils Oconnor,VP of Operations,Champion,nils.oconnor@cedarline-logistics-as.example,2026-03-24,2025-11-19
+CON-00125,ACC-0031,Viktor Quintero,IT Manager,Technical,viktor.quintero@cedarline-logistics-as.example,2026-02-22,2025-05-15
+CON-00126,ACC-0031,Karim Lefevre,COO,Economic Buyer,karim.lefevre@cedarline-logistics-as.example,2026-04-05,2026-02-10
+CON-00127,ACC-0032,Nils Ramos,Managing Director,Economic Buyer,nils.ramos@clearwater-software.example,2025-12-29,2025-03-08
+CON-00128,ACC-0032,Camille Dvorak,Operations Manager,Influencer,camille.dvorak@clearwater-software.example,2026-03-02,2025-11-25
+CON-00129,ACC-0032,Mia Lopez,Systems Administrator,Technical,mia.lopez@clearwater-software.example,2026-02-23,2025-02-07
+CON-00130,ACC-0033,Freya Grimaldi,Business Operations Lead,Champion,freya.grimaldi@iris-retail.example,2026-03-24,2025-04-11
+CON-00131,ACC-0033,Nils Fischer,Finance Manager,Influencer,nils.fischer@iris-retail.example,2025-12-18,2025-05-04
+CON-00132,ACC-0033,Nils Lefevre,Workflow Specialist,User,nils.lefevre@iris-retail.example,2026-03-29,2025-09-21
+CON-00133,ACC-0033,Greta Costa,COO,Economic Buyer,greta.costa@iris-retail.example,2026-04-30,2025-11-19
+CON-00134,ACC-0034,Rosa Ferreira,Ops Business Partner,User,rosa.ferreira@pivot-capital-s-a.example,2025-12-15,2025-08-22
+CON-00135,ACC-0034,Anna Andersen,Operations Manager,Influencer,anna.andersen@pivot-capital-s-a.example,2026-02-02,2025-05-04
+CON-00136,ACC-0034,Mia Andersen,Workflow Specialist,User,mia.andersen@pivot-capital-s-a.example,2026-01-31,2025-05-20
+CON-00137,ACC-0034,Viktor Ramos,Managing Director,Economic Buyer,viktor.ramos@pivot-capital-s-a.example,2026-01-02,2025-04-07
+CON-00138,ACC-0035,Rosa Muller,Operations Lead,User,rosa.muller@vault-systems-ab.example,2026-03-19,2025-12-14
+CON-00139,ACC-0035,Niko Henriksen,VP of Operations,Champion,niko.henriksen@vault-systems-ab.example,2026-04-30,2026-01-13
+CON-00140,ACC-0035,Viktor Quintero,CEO,Economic Buyer,viktor.quintero@vault-systems-ab.example,2026-03-02,2025-08-09
+CON-00141,ACC-0036,Freya Schmidt,CFO,Economic Buyer,freya.schmidt@timberline-services-gmbh.example,2026-04-16,2025-09-30
+CON-00142,ACC-0036,Henrik Janssen,VP of Business Operations,Champion,henrik.janssen@timberline-services-gmbh.example,2026-03-29,2025-04-10
+CON-00143,ACC-0036,Rosa Oconnor,Head of IT,Technical,rosa.oconnor@timberline-services-gmbh.example,2026-01-12,2025-07-29
+CON-00144,ACC-0036,Marco Hofer,CFO,Economic Buyer,marco.hofer@timberline-services-gmbh.example,2026-02-14,2025-10-26
+CON-00145,ACC-0036,Liesl Bauer,Operations Partner,User,liesl.bauer@timberline-services-gmbh.example,2026-02-25,2025-05-31
+CON-00146,ACC-0036,Yara Werner,COO,Economic Buyer,yara.werner@timberline-services-gmbh.example,2026-04-27,2025-10-18
+CON-00147,ACC-0036,Wanda Vogel,VP of Operations,Champion,wanda.vogel@timberline-services-gmbh.example,2026-03-31,2026-02-16
+CON-00148,ACC-0037,Emil Grimaldi,VP of Operations,Champion,emil.grimaldi@glenview-healthcare-ab.example,2026-05-17,2025-11-03
+CON-00149,ACC-0037,Wanda Muller,Finance Manager,Influencer,wanda.muller@glenview-healthcare-ab.example,2026-01-21,2025-08-02
+CON-00150,ACC-0037,Thomas Karlsson,Head of Business Operations,Champion,thomas.karlsson@glenview-healthcare-ab.example,2026-03-23,2025-11-13
+CON-00151,ACC-0037,Henrik Tanaka,Managing Director,Economic Buyer,henrik.tanaka@glenview-healthcare-ab.example,2026-03-05,2025-05-12
+CON-00152,ACC-0037,Nora Janssen,Workflow Specialist,User,nora.janssen@glenview-healthcare-ab.example,2026-01-19,2025-07-20
+CON-00153,ACC-0038,Yara Berger,Business Operations Lead,Champion,yara.berger@mosaic-labs-ab.example,2026-04-10,2026-02-22
+CON-00154,ACC-0038,Tobias Hofer,CEO,Economic Buyer,tobias.hofer@mosaic-labs-ab.example,2026-03-15,2025-05-16
+CON-00155,ACC-0038,Pieter Iversen,Head of IT,Technical,pieter.iversen@mosaic-labs-ab.example,2026-01-19,2025-12-01
+CON-00156,ACC-0039,Emil Dahl,Finance Manager,Influencer,emil.dahl@lark-retail.example,2026-04-18,2025-11-15
+CON-00157,ACC-0039,Mateo Ramos,CFO,Economic Buyer,mateo.ramos@lark-retail.example,2026-04-22,2025-11-15
+CON-00158,ACC-0039,Elena Berger,VP of Business Operations,Champion,elena.berger@lark-retail.example,2026-05-22,2026-01-17
+CON-00159,ACC-0040,Ines Quintero,Ops Business Partner,User,ines.quintero@umbra-retail-sl.example,2025-12-10,2025-03-29
+CON-00160,ACC-0040,Elena Fischer,Systems Administrator,Technical,elena.fischer@umbra-retail-sl.example,2026-05-15,2026-04-01
+CON-00161,ACC-0040,Lukas Dahl,Finance Manager,Influencer,lukas.dahl@umbra-retail-sl.example,2026-01-30,2025-10-27
+CON-00162,ACC-0040,Jonas Ferreira,Head of IT,Technical,jonas.ferreira@umbra-retail-sl.example,2026-03-10,2025-11-15
+CON-00163,ACC-0041,Niko Henriksen,Operations Partner,User,niko.henriksen@copperfield-systems-as.example,2025-12-18,2025-02-14
+CON-00164,ACC-0041,Petra Lopez,VP of Business Operations,Champion,petra.lopez@copperfield-systems-as.example,2025-12-25,2025-07-07
+CON-00165,ACC-0041,Jonas Quintero,CFO,Economic Buyer,jonas.quintero@copperfield-systems-as.example,2025-12-27,2025-04-26
+CON-00166,ACC-0041,Klara Lambert,IT Manager,Technical,klara.lambert@copperfield-systems-as.example,2026-05-11,2025-04-10
+CON-00167,ACC-0041,Jonas Petersen,Operations Partner,User,jonas.petersen@copperfield-systems-as.example,2026-01-30,2024-12-27
+CON-00168,ACC-0041,Stefan Lambert,CFO,Economic Buyer,stefan.lambert@copperfield-systems-as.example,2026-02-12,2025-11-22
+CON-00169,ACC-0042,Hannah Berger,Finance Manager,Influencer,hannah.berger@cobalt-financial-services-ab.example,2026-05-06,2025-05-02
+CON-00170,ACC-0042,Henrik Krause,Operations Manager,Influencer,henrik.krause@cobalt-financial-services-ab.example,2026-03-16,2025-09-10
+CON-00171,ACC-0042,Yara Werner,Workflow Specialist,User,yara.werner@cobalt-financial-services-ab.example,2025-12-28,2025-10-07
+CON-00172,ACC-0042,Sven Dahl,Head of IT,Technical,sven.dahl@cobalt-financial-services-ab.example,2026-02-15,2025-08-18
+CON-00173,ACC-0043,Ida Sorensen,IT Manager,Technical,ida.sorensen@forge-education-sl.example,2025-12-14,2025-06-17
+CON-00174,ACC-0043,Henrik Karlsson,CFO,Economic Buyer,henrik.karlsson@forge-education-sl.example,2025-12-04,2025-02-23
+CON-00175,ACC-0043,Thomas Bauer,Head of IT,Technical,thomas.bauer@forge-education-sl.example,2026-02-17,2026-01-13
+CON-00176,ACC-0043,Nora Fischer,Operations Manager,Influencer,nora.fischer@forge-education-sl.example,2026-05-25,2025-05-02
+CON-00177,ACC-0043,Marco Henriksen,Operations Manager,Influencer,marco.henriksen@forge-education-sl.example,2026-04-12,2025-11-16
+CON-00178,ACC-0044,Saskia Henriksen,Business Operations Lead,Champion,saskia.henriksen@sable-studios-s-a.example,2026-01-11,2024-12-18
+CON-00179,ACC-0044,Niko Werner,Ops Business Partner,User,niko.werner@sable-studios-s-a.example,2026-01-15,2025-01-29
+CON-00180,ACC-0044,Beatriz Tanaka,Head of IT,Technical,beatriz.tanaka@sable-studios-s-a.example,2026-05-17,2025-09-01
+CON-00181,ACC-0044,Rosa Lefevre,Finance Manager,Influencer,rosa.lefevre@sable-studios-s-a.example,2025-12-10,2025-07-29
+CON-00182,ACC-0045,Viktor Grimaldi,CFO,Economic Buyer,viktor.grimaldi@ivory-partners-sas.example,2026-03-03,2025-09-29
+CON-00183,ACC-0045,Camille Romano,IT Manager,Technical,camille.romano@ivory-partners-sas.example,2025-12-20,2025-10-09
+CON-00184,ACC-0045,Freya Sorensen,Head of IT,Technical,freya.sorensen@ivory-partners-sas.example,2026-02-22,2025-04-01
+CON-00185,ACC-0045,Saskia Schmidt,Ops Business Partner,User,saskia.schmidt@ivory-partners-sas.example,2026-01-23,2025-07-05
+CON-00186,ACC-0045,Ines Oconnor,CEO,Economic Buyer,ines.oconnor@ivory-partners-sas.example,2025-12-05,2025-06-19
+CON-00187,ACC-0046,Thomas Krause,Systems Administrator,Technical,thomas.krause@lark-capital-gmbh.example,2026-05-17,2025-11-15
+CON-00188,ACC-0046,Jonas Fischer,COO,Economic Buyer,jonas.fischer@lark-capital-gmbh.example,2026-01-06,2025-05-08
+CON-00189,ACC-0047,Anna Petersen,Workflow Specialist,User,anna.petersen@crescent-manufacturing-ab.example,2026-02-11,2025-10-08
+CON-00190,ACC-0047,Klara Ramos,Operations Manager,Influencer,klara.ramos@crescent-manufacturing-ab.example,2025-12-23,2025-10-03
+CON-00191,ACC-0047,Eva Quintero,VP of Operations,Champion,eva.quintero@crescent-manufacturing-ab.example,2026-01-05,2025-02-25
+CON-00192,ACC-0047,Pieter Vogel,Head of IT,Technical,pieter.vogel@crescent-manufacturing-ab.example,2026-02-25,2025-12-08
+CON-00193,ACC-0048,Oskar Zimmer,Ops Business Partner,User,oskar.zimmer@redstone-construction-sl.example,2025-12-07,2024-11-11
+CON-00194,ACC-0048,Rosa Vogel,CFO,Economic Buyer,rosa.vogel@redstone-construction-sl.example,2026-01-21,2025-12-06
+CON-00195,ACC-0048,Soren Ferreira,VP of Business Operations,Champion,soren.ferreira@redstone-construction-sl.example,2026-04-26,2025-08-17
+CON-00196,ACC-0048,Wanda Hofer,VP of Operations,Champion,wanda.hofer@redstone-construction-sl.example,2025-12-27,2024-12-26
+CON-00197,ACC-0048,Freya Petersen,Head of IT,Technical,freya.petersen@redstone-construction-sl.example,2026-05-01,2025-09-17
+CON-00198,ACC-0049,Pieter Berger,Operations Partner,User,pieter.berger@rune-retail-ltd.example,2025-12-21,2024-11-25
+CON-00199,ACC-0049,Beatriz Hofer,VP of Business Operations,Champion,beatriz.hofer@rune-retail-ltd.example,2026-05-30,2025-11-20
+CON-00200,ACC-0049,Soren Dahl,Managing Director,Economic Buyer,soren.dahl@rune-retail-ltd.example,2025-12-24,2024-11-19
+CON-00201,ACC-0049,Klara Berger,CFO,Economic Buyer,klara.berger@rune-retail-ltd.example,2026-03-23,2025-11-04
+CON-00202,ACC-0050,Sofia Sorensen,IT Manager,Technical,sofia.sorensen@timberline-partners-b-v.example,2026-03-12,2025-04-18
+CON-00203,ACC-0050,Maxime Lindqvist,COO,Economic Buyer,maxime.lindqvist@timberline-partners-b-v.example,2026-04-05,2025-09-04
+CON-00204,ACC-0050,Lars Henriksen,Head of Business Operations,Champion,lars.henriksen@timberline-partners-b-v.example,2026-03-18,2026-01-21
+CON-00205,ACC-0050,Wanda Bauer,Operations Lead,User,wanda.bauer@timberline-partners-b-v.example,2026-01-15,2025-06-30
+CON-00206,ACC-0050,Lars Karlsson,CFO,Economic Buyer,lars.karlsson@timberline-partners-b-v.example,2026-01-29,2025-02-04
+CON-00207,ACC-0051,Andreas Tanaka,CFO,Economic Buyer,andreas.tanaka@zenith-construction.example,2026-05-21,2026-03-01
+CON-00208,ACC-0051,Karim Fischer,Operations Partner,User,karim.fischer@zenith-construction.example,2026-03-20,2025-09-27
+CON-00209,ACC-0051,Gustav Hofer,Operations Partner,User,gustav.hofer@zenith-construction.example,2026-01-26,2025-05-08
+CON-00210,ACC-0052,Stefan Henriksen,Ops Business Partner,User,stefan.henriksen@solace-studios-oy.example,2026-03-06,2025-07-30
+CON-00211,ACC-0052,Tobias Muller,Operations Manager,Influencer,tobias.muller@solace-studios-oy.example,2026-03-31,2025-09-23
+CON-00212,ACC-0052,Tobias Bauer,CFO,Economic Buyer,tobias.bauer@solace-studios-oy.example,2026-03-30,2025-09-08
+CON-00213,ACC-0052,Emil Quintero,CEO,Economic Buyer,emil.quintero@solace-studios-oy.example,2026-03-30,2025-11-28
+CON-00214,ACC-0052,Niko Lefevre,IT Manager,Technical,niko.lefevre@solace-studios-oy.example,2026-03-27,2025-05-02
+CON-00215,ACC-0053,Yara Sorensen,Systems Administrator,Technical,yara.sorensen@delta-software-sas.example,2026-03-18,2025-08-18
+CON-00216,ACC-0053,Greta Sorensen,IT Manager,Technical,greta.sorensen@delta-software-sas.example,2026-02-16,2025-08-04
+CON-00217,ACC-0053,Elena Schmidt,Managing Director,Economic Buyer,elena.schmidt@delta-software-sas.example,2026-02-17,2025-01-21
+CON-00218,ACC-0053,Viktor Muller,Managing Director,Economic Buyer,viktor.muller@delta-software-sas.example,2026-01-28,2025-05-26
+CON-00219,ACC-0054,Mia Ramos,CEO,Economic Buyer,mia.ramos@larkspur-retail.example,2026-01-25,2025-12-18
+CON-00220,ACC-0054,Yara Mancini,Ops Business Partner,User,yara.mancini@larkspur-retail.example,2026-04-19,2025-11-03
+CON-00221,ACC-0054,Ida Bauer,Managing Director,Economic Buyer,ida.bauer@larkspur-retail.example,2026-05-29,2026-03-11
+CON-00222,ACC-0054,Viktor Bauer,Ops Business Partner,User,viktor.bauer@larkspur-retail.example,2026-04-26,2025-06-19
+CON-00223,ACC-0055,Gustav Schmidt,VP of Operations,Champion,gustav.schmidt@wren-hospitality-b-v.example,2026-01-30,2025-01-05
+CON-00224,ACC-0055,Henrik Fischer,Business Operations Lead,Champion,henrik.fischer@wren-hospitality-b-v.example,2026-01-14,2025-07-22
+CON-00225,ACC-0055,Daan Dahl,CFO,Economic Buyer,daan.dahl@wren-hospitality-b-v.example,2026-02-03,2025-02-01
+CON-00226,ACC-0056,Rosa Bauer,VP of Business Operations,Champion,rosa.bauer@oakridge-healthcare-aps.example,2026-02-20,2026-01-21
+CON-00227,ACC-0056,Marta Mancini,Finance Manager,Influencer,marta.mancini@oakridge-healthcare-aps.example,2026-04-23,2025-07-06
+CON-00228,ACC-0056,Sven Krause,Head of IT,Technical,sven.krause@oakridge-healthcare-aps.example,2026-05-03,2025-10-01
+CON-00229,ACC-0056,Liesl Ferreira,VP of Business Operations,Champion,liesl.ferreira@oakridge-healthcare-aps.example,2026-03-20,2026-01-31
+CON-00230,ACC-0057,Andreas Lefevre,Finance Manager,Influencer,andreas.lefevre@alder-financial-services-sas.example,2026-02-03,2025-08-04
+CON-00231,ACC-0057,Jonas Costa,Operations Lead,User,jonas.costa@alder-financial-services-sas.example,2026-05-12,2025-08-06
+CON-00232,ACC-0057,Charlotte Sorensen,VP of Business Operations,Champion,charlotte.sorensen@alder-financial-services-sas.example,2025-12-20,2024-12-24
+CON-00233,ACC-0058,Mateo Esposito,CEO,Economic Buyer,mateo.esposito@willow-retail.example,2026-01-02,2025-05-29
+CON-00234,ACC-0058,Yara Quintero,Head of Business Operations,Champion,yara.quintero@willow-retail.example,2026-03-06,2025-05-21
+CON-00235,ACC-0059,Soren Jung,Finance Manager,Influencer,soren.jung@everline-group-ltd.example,2026-02-21,2025-05-25
+CON-00236,ACC-0059,Maxime Tanaka,CFO,Economic Buyer,maxime.tanaka@everline-group-ltd.example,2026-02-20,2025-10-14
+CON-00237,ACC-0060,Eva Janssen,Operations Partner,User,eva.janssen@yonder-capital-sas.example,2026-04-14,2025-06-06
+CON-00238,ACC-0060,Maxime Dahl,IT Manager,Technical,maxime.dahl@yonder-capital-sas.example,2026-01-19,2025-11-09
+CON-00239,ACC-0060,Viktor Hofer,Business Operations Lead,Champion,viktor.hofer@yonder-capital-sas.example,2026-04-17,2026-02-11
+CON-00240,ACC-0060,Niko Costa,Business Operations Lead,Champion,niko.costa@yonder-capital-sas.example,2026-05-15,2025-11-06
+CON-00241,ACC-0060,Viktor Dahl,Managing Director,Economic Buyer,viktor.dahl@yonder-capital-sas.example,2026-02-04,2025-09-30
+CON-00242,ACC-0061,Klara Henriksen,COO,Economic Buyer,klara.henriksen@timberline-software-gmbh.example,2026-01-21,2025-11-18
+CON-00243,ACC-0061,Mateo Mancini,VP of Operations,Champion,mateo.mancini@timberline-software-gmbh.example,2025-12-27,2025-09-03
+CON-00244,ACC-0061,Karim Lopez,Ops Business Partner,User,karim.lopez@timberline-software-gmbh.example,2026-02-14,2025-12-16
+CON-00245,ACC-0061,Hannah Tanaka,Head of Business Operations,Champion,hannah.tanaka@timberline-software-gmbh.example,2026-05-26,2026-02-25
+CON-00246,ACC-0062,Rosa Janssen,IT Manager,Technical,rosa.janssen@compass-foods-ltd.example,2026-02-09,2025-05-07
+CON-00247,ACC-0062,Yara Berger,VP of Business Operations,Champion,yara.berger@compass-foods-ltd.example,2026-01-10,2025-03-10
+CON-00248,ACC-0063,Klara Werner,Workflow Specialist,User,klara.werner@vault-studios-ltd.example,2026-03-31,2025-11-05
+CON-00249,ACC-0063,Stefan Bauer,Operations Partner,User,stefan.bauer@vault-studios-ltd.example,2026-03-16,2025-06-01
+CON-00250,ACC-0063,Eva Vogel,Head of IT,Technical,eva.vogel@vault-studios-ltd.example,2026-01-16,2025-10-10
+CON-00251,ACC-0063,Ida Lindqvist,VP of Operations,Champion,ida.lindqvist@vault-studios-ltd.example,2026-04-18,2025-04-15
+CON-00252,ACC-0064,Marta Krause,Head of Business Operations,Champion,marta.krause@lark-healthcare-b-v.example,2026-05-21,2025-11-05
+CON-00253,ACC-0064,Karim Jung,Operations Manager,Influencer,karim.jung@lark-healthcare-b-v.example,2026-02-07,2025-02-01
+CON-00254,ACC-0064,Pieter Mancini,IT Manager,Technical,pieter.mancini@lark-healthcare-b-v.example,2026-05-12,2025-11-17
+CON-00255,ACC-0065,Hannah Bauer,VP of Business Operations,Champion,hannah.bauer@amber-software-aps.example,2025-12-23,2025-05-08
+CON-00256,ACC-0065,Ida Berger,CEO,Economic Buyer,ida.berger@amber-software-aps.example,2026-05-02,2025-06-24
+CON-00257,ACC-0065,Lukas Andersen,COO,Economic Buyer,lukas.andersen@amber-software-aps.example,2026-02-11,2025-06-28
+CON-00258,ACC-0066,Rosa Grimaldi,Managing Director,Economic Buyer,rosa.grimaldi@larkspur-logistics-as.example,2026-02-12,2025-10-31
+CON-00259,ACC-0066,Stefan Hofer,IT Manager,Technical,stefan.hofer@larkspur-logistics-as.example,2026-03-12,2026-01-22
+CON-00260,ACC-0066,Freya Ferreira,Head of Business Operations,Champion,freya.ferreira@larkspur-logistics-as.example,2026-01-03,2025-01-03
+CON-00261,ACC-0066,Yara Iversen,VP of Operations,Champion,yara.iversen@larkspur-logistics-as.example,2025-12-10,2025-07-09
+CON-00262,ACC-0066,Mia Ramos,VP of Operations,Champion,mia.ramos@larkspur-logistics-as.example,2026-04-02,2025-03-14
+CON-00263,ACC-0066,Ida Lopez,Operations Lead,User,ida.lopez@larkspur-logistics-as.example,2026-05-20,2025-11-06
+CON-00264,ACC-0066,Camille Mancini,Head of IT,Technical,camille.mancini@larkspur-logistics-as.example,2026-03-26,2025-12-12
+CON-00265,ACC-0067,Bastian Dahl,Business Operations Lead,Champion,bastian.dahl@newforge-retail-ag.example,2026-03-22,2025-07-31
+CON-00266,ACC-0067,Greta Werner,Head of IT,Technical,greta.werner@newforge-retail-ag.example,2026-01-31,2025-07-14
+CON-00267,ACC-0067,Stefan Zimmer,Ops Business Partner,User,stefan.zimmer@newforge-retail-ag.example,2025-12-20,2025-01-21
+CON-00268,ACC-0068,Ida Mancini,Operations Lead,User,ida.mancini@halcyon-healthcare-ag.example,2026-01-10,2025-08-23
+CON-00269,ACC-0068,Emil Costa,Systems Administrator,Technical,emil.costa@halcyon-healthcare-ag.example,2025-12-16,2025-08-09
+CON-00270,ACC-0068,Yara Fischer,Head of Business Operations,Champion,yara.fischer@halcyon-healthcare-ag.example,2026-04-13,2025-11-22
+CON-00271,ACC-0069,Eva Mancini,Operations Lead,User,eva.mancini@bastion-construction-b-v.example,2026-02-06,2025-08-24
+CON-00272,ACC-0069,Eva Schmidt,Systems Administrator,Technical,eva.schmidt@bastion-construction-b-v.example,2026-01-26,2025-11-21
+CON-00273,ACC-0069,Petra Quintero,CFO,Economic Buyer,petra.quintero@bastion-construction-b-v.example,2026-02-03,2025-09-30
+CON-00274,ACC-0069,Mia Vogel,Managing Director,Economic Buyer,mia.vogel@bastion-construction-b-v.example,2026-03-21,2025-11-27
+CON-00275,ACC-0069,Maxime Hofer,COO,Economic Buyer,maxime.hofer@bastion-construction-b-v.example,2026-03-25,2025-06-08
+CON-00276,ACC-0069,Thomas Jung,Finance Manager,Influencer,thomas.jung@bastion-construction-b-v.example,2026-05-26,2025-05-23
+CON-00277,ACC-0069,Freya Hofer,Operations Manager,Influencer,freya.hofer@bastion-construction-b-v.example,2026-01-20,2025-06-22
+CON-00278,ACC-0070,Petra Costa,Head of Business Operations,Champion,petra.costa@gale-capital-sl.example,2025-12-23,2025-06-17
+CON-00279,ACC-0070,Sofia Lefevre,COO,Economic Buyer,sofia.lefevre@gale-capital-sl.example,2026-03-12,2025-03-26
+CON-00280,ACC-0070,Oskar Quintero,CEO,Economic Buyer,oskar.quintero@gale-capital-sl.example,2025-12-03,2024-11-07
+CON-00281,ACC-0070,Bastian Lambert,Managing Director,Economic Buyer,bastian.lambert@gale-capital-sl.example,2026-03-19,2025-09-12
+CON-00282,ACC-0071,Pieter Dvorak,CEO,Economic Buyer,pieter.dvorak@fjord-software.example,2026-01-09,2025-06-23
+CON-00283,ACC-0071,Lars Vogel,Business Operations Lead,Champion,lars.vogel@fjord-software.example,2025-12-29,2024-12-19
+CON-00284,ACC-0071,Yara Muller,IT Manager,Technical,yara.muller@fjord-software.example,2026-05-25,2025-11-24
+CON-00285,ACC-0071,Henrik Iversen,Finance Manager,Influencer,henrik.iversen@fjord-software.example,2025-12-20,2025-04-10
+CON-00286,ACC-0072,Nora Lambert,Operations Manager,Influencer,nora.lambert@amber-systems-aps.example,2026-01-30,2025-11-01
+CON-00287,ACC-0072,Ines Dahl,Head of IT,Technical,ines.dahl@amber-systems-aps.example,2026-02-20,2025-12-14
+CON-00288,ACC-0072,Sven Andersen,Operations Manager,Influencer,sven.andersen@amber-systems-aps.example,2026-04-15,2025-04-14
+CON-00289,ACC-0072,Bastian Lindqvist,Workflow Specialist,User,bastian.lindqvist@amber-systems-aps.example,2026-05-29,2026-03-02
+CON-00290,ACC-0073,Lars Mancini,Operations Manager,Influencer,lars.mancini@willow-systems-oy.example,2026-03-10,2025-04-07
+CON-00291,ACC-0073,Thomas Janssen,Workflow Specialist,User,thomas.janssen@willow-systems-oy.example,2026-02-13,2025-05-29
+CON-00292,ACC-0073,Lukas Iversen,Workflow Specialist,User,lukas.iversen@willow-systems-oy.example,2026-04-02,2025-04-24
+CON-00293,ACC-0073,Andreas Zimmer,IT Manager,Technical,andreas.zimmer@willow-systems-oy.example,2026-05-03,2026-01-15
+CON-00294,ACC-0074,Soren Tanaka,Operations Manager,Influencer,soren.tanaka@oakridge-services-sas.example,2026-04-16,2025-09-10
+CON-00295,ACC-0074,Karim Iversen,Workflow Specialist,User,karim.iversen@oakridge-services-sas.example,2026-01-27,2025-04-24
+CON-00296,ACC-0074,Anna Quintero,COO,Economic Buyer,anna.quintero@oakridge-services-sas.example,2026-01-23,2025-08-26
+CON-00297,ACC-0075,Klara Janssen,COO,Economic Buyer,klara.janssen@dovetail-logistics-as.example,2026-04-28,2025-05-20
+CON-00298,ACC-0075,Nils Lambert,CEO,Economic Buyer,nils.lambert@dovetail-logistics-as.example,2026-05-20,2025-09-19
+CON-00299,ACC-0075,Hannah Andersen,Ops Business Partner,User,hannah.andersen@dovetail-logistics-as.example,2026-04-23,2025-03-21

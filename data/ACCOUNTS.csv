@@ -1,0 +1,76 @@
+ACCOUNT_ID,COMPANY_NAME,INDUSTRY,SEGMENT,REGION,EMPLOYEE_COUNT,ARR_EUR,STATUS,CUSTOMER_SINCE,OWNER_AE,CREATED_AT
+ACC-0001,Fjord Construction SL,Retail,MM,DACH,580,92000.0,customer,2023-09-01,mara.lindqvist@nimbus.example,2023-09-01
+ACC-0002,Onyx Partners B.V.,Hospitality,MM,Iberia,430,76000.0,customer,2022-04-01,mara.lindqvist@nimbus.example,2022-04-01
+ACC-0003,Hearthstone Holding,Logistics,ENT,Nordics,2100,,prospect,,mara.lindqvist@nimbus.example,2025-12-14
+ACC-0004,Meadowlark Hospitality S.A.,Manufacturing,ENT,Nordics,1450,,prospect,,mara.lindqvist@nimbus.example,2026-02-14
+ACC-0005,Driftwood Professional Services AG,Healthcare,MM,France,370,61813.0,customer,2024-03-10,marcus.byrne@nimbus.example,2024-03-10
+ACC-0006,Westgate Professional Services GmbH,Financial Services,ENT,Iberia,4336,,churned,2023-06-28,mara.lindqvist@nimbus.example,2023-06-28
+ACC-0007,Copperfield Labs ApS,Logistics,MM,Benelux,650,53345.0,customer,2023-11-09,mara.lindqvist@nimbus.example,2023-11-09
+ACC-0008,Juniper Group AG,Professional Services,SMB,Benelux,134,,prospect,,mara.lindqvist@nimbus.example,2026-03-04
+ACC-0009,Lark Studios,Hospitality,MM,France,944,,prospect,,sofia.alvarez@nimbus.example,2025-06-23
+ACC-0010,Solace Logistics,Construction,SMB,Iberia,26,29151.0,customer,2024-01-12,mara.lindqvist@nimbus.example,2024-01-12
+ACC-0011,Noble Group S.A.,Education,SMB,Benelux,80,,prospect,,ines.dubois@nimbus.example,2025-10-30
+ACC-0012,Zenith Capital GmbH,Professional Services,MM,Benelux,208,46952.0,customer,2024-09-18,mara.lindqvist@nimbus.example,2024-09-18
+ACC-0013,Everline Capital Oy,Logistics,MM,DACH,357,,prospect,,mara.lindqvist@nimbus.example,2026-03-18
+ACC-0014,Ironclad Capital B.V.,Hospitality,ENT,UKI,3575,115843.0,customer,2025-08-08,ines.dubois@nimbus.example,2025-08-08
+ACC-0015,Lark Education SAS,Logistics,SMB,Benelux,62,,churned,2024-07-25,ines.dubois@nimbus.example,2024-07-25
+ACC-0016,Brightline Software AS,Software,MM,DACH,810,61520.0,customer,2024-11-29,mara.lindqvist@nimbus.example,2024-11-29
+ACC-0017,Sable Healthcare SL,Logistics,SMB,Nordics,170,22182.0,customer,2025-01-12,mara.lindqvist@nimbus.example,2025-01-12
+ACC-0018,Bastion Studios Ltd,Hospitality,SMB,DACH,92,29654.0,customer,2022-10-16,mara.lindqvist@nimbus.example,2022-10-16
+ACC-0019,Tide Professional Services,Financial Services,MM,Iberia,381,,prospect,,mara.lindqvist@nimbus.example,2026-03-26
+ACC-0020,Bastion Healthcare,Financial Services,SMB,Benelux,46,,prospect,,mara.lindqvist@nimbus.example,2025-07-05
+ACC-0021,Lodestar Holding,Education,SMB,Iberia,144,,prospect,,mara.lindqvist@nimbus.example,2025-10-06
+ACC-0022,Fairmont Labs GmbH,Construction,MM,DACH,592,61581.0,customer,2024-11-20,marcus.byrne@nimbus.example,2024-11-20
+ACC-0023,Quill Education Oy,Healthcare,MM,Nordics,948,80437.0,customer,2025-06-11,mara.lindqvist@nimbus.example,2025-06-11
+ACC-0024,Noble Healthcare AB,Healthcare,MM,UKI,568,,churned,2025-04-15,marcus.byrne@nimbus.example,2025-04-15
+ACC-0025,Crescent Professional Services ApS,Manufacturing,MM,Nordics,844,97406.0,customer,2024-11-08,sofia.alvarez@nimbus.example,2024-11-08
+ACC-0026,Granite Retail AG,Professional Services,SMB,Iberia,48,26469.0,customer,2023-02-07,ines.dubois@nimbus.example,2023-02-07
+ACC-0027,Northwind Capital,Professional Services,MM,DACH,510,34751.0,customer,2024-10-11,sofia.alvarez@nimbus.example,2024-10-11
+ACC-0028,Alder Services Ltd,Hospitality,SMB,Nordics,31,19142.0,customer,2024-02-14,ines.dubois@nimbus.example,2024-02-14
+ACC-0029,Umbra Holding AS,Professional Services,SMB,DACH,30,31129.0,customer,2023-03-08,mara.lindqvist@nimbus.example,2023-03-08
+ACC-0030,Mosaic Retail,Retail,ENT,France,2960,223244.0,customer,2023-06-24,sofia.alvarez@nimbus.example,2023-06-24
+ACC-0031,Cedarline Logistics AS,Healthcare,MM,France,385,94777.0,customer,2025-04-19,mara.lindqvist@nimbus.example,2025-04-19
+ACC-0032,Clearwater Software,Construction,SMB,UKI,180,,prospect,,sofia.alvarez@nimbus.example,2025-06-19
+ACC-0033,Iris Retail,Professional Services,MM,France,770,66738.0,customer,2023-03-08,thomas.weber@nimbus.example,2023-03-08
+ACC-0034,Pivot Capital S.A.,Logistics,SMB,UKI,197,,prospect,,sofia.alvarez@nimbus.example,2025-08-12
+ACC-0035,Vault Systems AB,Financial Services,SMB,Nordics,92,17491.0,customer,2026-01-25,mara.lindqvist@nimbus.example,2026-01-25
+ACC-0036,Timberline Services GmbH,Education,ENT,Benelux,3702,210523.0,customer,2023-06-01,mara.lindqvist@nimbus.example,2023-06-01
+ACC-0037,Glenview Healthcare AB,Retail,MM,Iberia,612,,prospect,,mara.lindqvist@nimbus.example,2025-11-27
+ACC-0038,Mosaic Labs AB,Retail,SMB,DACH,194,16843.0,customer,2024-06-13,mara.lindqvist@nimbus.example,2024-06-13
+ACC-0039,Lark Retail,Financial Services,SMB,Benelux,127,,prospect,,thomas.weber@nimbus.example,2025-06-22
+ACC-0040,Umbra Retail SL,Professional Services,MM,Nordics,887,,prospect,,thomas.weber@nimbus.example,2026-02-17
+ACC-0041,Copperfield Systems AS,Education,ENT,DACH,3158,,churned,2025-05-09,mara.lindqvist@nimbus.example,2025-05-09
+ACC-0042,Cobalt Financial Services AB,Construction,SMB,Benelux,127,,prospect,,thomas.weber@nimbus.example,2025-05-11
+ACC-0043,Forge Education SL,Financial Services,MM,Nordics,641,61440.0,customer,2024-05-17,ines.dubois@nimbus.example,2024-05-17
+ACC-0044,Sable Studios S.A.,Healthcare,SMB,Nordics,105,15207.0,customer,2025-06-15,marcus.byrne@nimbus.example,2025-06-15
+ACC-0045,Ivory Partners SAS,Software,ENT,UKI,4870,302121.0,customer,2023-06-06,ines.dubois@nimbus.example,2023-06-06
+ACC-0046,Lark Capital GmbH,Hospitality,SMB,France,154,,churned,2024-03-22,thomas.weber@nimbus.example,2024-03-22
+ACC-0047,Crescent Manufacturing AB,Software,MM,Benelux,291,64775.0,customer,2025-10-24,sofia.alvarez@nimbus.example,2025-10-24
+ACC-0048,Redstone Construction SL,Professional Services,MM,Nordics,669,,prospect,,mara.lindqvist@nimbus.example,2025-06-17
+ACC-0049,Rune Retail Ltd,Financial Services,MM,UKI,980,58503.0,customer,2023-11-13,mara.lindqvist@nimbus.example,2023-11-13
+ACC-0050,Timberline Partners B.V.,Software,ENT,France,2616,,prospect,,mara.lindqvist@nimbus.example,2026-04-05
+ACC-0051,Zenith Construction,Healthcare,MM,UKI,921,83370.0,customer,2024-12-04,mara.lindqvist@nimbus.example,2024-12-04
+ACC-0052,Solace Studios Oy,Retail,MM,Iberia,948,82312.0,customer,2026-01-21,ines.dubois@nimbus.example,2026-01-21
+ACC-0053,Delta Software SAS,Hospitality,SMB,UKI,141,30127.0,customer,2024-12-07,marcus.byrne@nimbus.example,2024-12-07
+ACC-0054,Larkspur Retail,Software,SMB,Benelux,180,19125.0,customer,2024-04-27,mara.lindqvist@nimbus.example,2024-04-27
+ACC-0055,Wren Hospitality B.V.,Healthcare,SMB,UKI,84,,prospect,,marcus.byrne@nimbus.example,2025-08-02
+ACC-0056,Oakridge Healthcare ApS,Education,SMB,DACH,70,,prospect,,ines.dubois@nimbus.example,2026-03-04
+ACC-0057,Alder Financial Services SAS,Education,SMB,Iberia,123,,churned,2023-02-05,marcus.byrne@nimbus.example,2023-02-05
+ACC-0058,Willow Retail,Logistics,SMB,Benelux,137,13386.0,customer,2024-08-26,sofia.alvarez@nimbus.example,2024-08-26
+ACC-0059,Everline Group Ltd,Professional Services,SMB,Nordics,79,14117.0,customer,2025-05-16,mara.lindqvist@nimbus.example,2025-05-16
+ACC-0060,Yonder Capital SAS,Hospitality,MM,DACH,880,36934.0,customer,2023-08-12,mara.lindqvist@nimbus.example,2023-08-12
+ACC-0061,Timberline Software GmbH,Construction,MM,UKI,382,,churned,2025-01-24,ines.dubois@nimbus.example,2025-01-24
+ACC-0062,Compass Foods Ltd,Professional Services,SMB,Nordics,49,23745.0,customer,2025-04-25,mara.lindqvist@nimbus.example,2025-04-25
+ACC-0063,Vault Studios Ltd,Education,SMB,France,63,,prospect,,mara.lindqvist@nimbus.example,2025-12-09
+ACC-0064,Lark Healthcare B.V.,Professional Services,MM,UKI,908,63492.0,customer,2025-03-18,mara.lindqvist@nimbus.example,2025-03-18
+ACC-0065,Amber Software ApS,Healthcare,MM,Nordics,914,85111.0,customer,2023-10-31,mara.lindqvist@nimbus.example,2023-10-31
+ACC-0066,Larkspur Logistics AS,Education,ENT,UKI,2627,,prospect,,mara.lindqvist@nimbus.example,2025-04-27
+ACC-0067,Newforge Retail AG,Financial Services,SMB,DACH,78,,prospect,,sofia.alvarez@nimbus.example,2025-12-17
+ACC-0068,Halcyon Healthcare AG,Healthcare,SMB,Nordics,152,31565.0,customer,2025-10-31,mara.lindqvist@nimbus.example,2025-10-31
+ACC-0069,Bastion Construction B.V.,Hospitality,ENT,DACH,3479,311909.0,customer,2025-11-29,mara.lindqvist@nimbus.example,2025-11-29
+ACC-0070,Gale Capital SL,Healthcare,SMB,Nordics,41,,prospect,,sofia.alvarez@nimbus.example,2025-05-25
+ACC-0071,Fjord Software,Financial Services,SMB,Nordics,119,,prospect,,mara.lindqvist@nimbus.example,2025-11-06
+ACC-0072,Amber Systems ApS,Manufacturing,SMB,Nordics,186,,prospect,,mara.lindqvist@nimbus.example,2026-04-08
+ACC-0073,Willow Systems Oy,Construction,SMB,UKI,20,14041.0,customer,2023-08-17,thomas.weber@nimbus.example,2023-08-17
+ACC-0074,Oakridge Services SAS,Education,MM,Nordics,409,,prospect,,thomas.weber@nimbus.example,2026-03-20
+ACC-0075,Dovetail Logistics AS,Professional Services,SMB,DACH,110,,prospect,,mara.lindqvist@nimbus.example,2025-07-08
