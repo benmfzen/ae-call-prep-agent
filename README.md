@@ -1,25 +1,10 @@
 # AE Pre-Call Prep Agent
 
-## What this demonstrates
+[![CI](https://github.com/benmfzen/ae-call-prep-agent/actions/workflows/ci.yml/badge.svg)](https://github.com/benmfzen/ae-call-prep-agent/actions/workflows/ci.yml)
 
-The decisions that matter live in plain, tested Python, not in the model. `signals.band()` is what decides whether a renewal is RED, AMBER or GREEN. The LLM only picks which tool to call and turns the result into a sentence. Every number or quote it states is read from code and printed verbatim underneath the answer, so if the prose ever drifts from the data, you see the drift sitting right next to its source instead of having to trust it.
-
-- **The verdict is deterministic and tested on its own.** `signals.band()` computes RED/AMBER/GREEN in Python, and `tests/test_engine.py` pins it down with no model in the loop.
-- **The false positives are named and guarded.** A systemic outage shared across accounts, a competitor name that matches inside an unrelated word, an account that is already recovering: each one has a specific guard and a test that fails if the guard ever regresses.
-- **The eval needs no LLM and runs in under a second.** All 47 tests run with no API key and no network call (`python -m pytest tests/ -q`).
+A pre-call prep assistant for a mid-market Account Executive, built as an explainable decision engine with an LLM on top. The RED/AMBER/GREEN renewal-risk verdict is computed in deterministic, tested Python. The model only picks which tool to call and turns the result into a sentence, and every number or quote it states is read from code and printed verbatim underneath, so if the prose ever drifts from the data you see the drift next to its source instead of trusting it.
 
 > A self-directed portfolio project. The company ("Nimbus"), domain, competitors and data are fictional, and all data is synthetic.
-
-It is a chat assistant that gets a mid-market Account Executive ready for a customer call. The AE asks about an account, the agent hands back a short grounded brief and answers the follow-ups, drawing on structured CRM and product data alongside unstructured sales-enablement docs.
-
-The shape in one line: deterministic code makes the risk call, the model only orchestrates the tools and phrases the result, and the load-bearing numbers and quotes are frozen and cited. So the verdict is never the model's opinion, and any drift in its wording shows up next to the real source rather than hiding inside it.
-
-## What I'd own in production
-
-- **Threshold governance.** The signal thresholds in `signals.py` are anchored to benchmarks, not fitted to labels. In production they need an owner, a review cadence and a documented change process so they do not quietly go stale.
-- **Backtesting against real outcomes.** Validate the signals against actual renewal win/loss history and report precision and recall, instead of the "does it separate the two seed accounts" bar this eval currently holds.
-- **Escalation on RED.** A RED verdict should open a CSM or manager escalation path (Playbook §9 already lists the triggers), not just surface in a chat reply.
-- **Room to grow the briefings.** Today the router scopes tools to one of three briefings per turn. The same pattern extends to more account states and more data sources, say support sentiment or contract terms, behind one scoped-tool surface.
 
 ```
 you › Onyx Partners renewal — what should I know?
@@ -37,6 +22,21 @@ there's no warm senior stakeholder — only IT. Renewal closes in 18 days.
   • SUPPORT.TICKETS: P1 — Workflow error: 14 records miscalculated in March cycle …
   ↳ Kestrel battlecard — When we win / Our counter: "Customer has real workflow complexity …"
 ```
+
+The AE asks about an account, the agent hands back a short grounded brief and answers the follow-ups, drawing on structured CRM and product data alongside unstructured sales-enablement docs.
+
+## What this demonstrates
+
+- **The verdict is deterministic and tested on its own.** `signals.band()` computes RED/AMBER/GREEN in Python, and `tests/test_engine.py` pins it down with no model in the loop.
+- **The false positives are named and guarded.** A systemic outage shared across accounts, a competitor name that matches inside an unrelated word, an account that is already recovering: each one has a specific guard and a test that fails if the guard ever regresses.
+- **The eval needs no LLM and runs in under a second.** All 47 tests run with no API key and no network call (`python -m pytest tests/ -q`).
+
+## What I'd own in production
+
+- **Threshold governance.** The signal thresholds in `signals.py` are anchored to benchmarks, not fitted to labels. In production they need an owner, a review cadence and a documented change process so they do not quietly go stale.
+- **Backtesting against real outcomes.** Validate the signals against actual renewal win/loss history and report precision and recall, instead of the "does it separate the two seed accounts" bar this eval currently holds.
+- **Escalation on RED.** A RED verdict should open a CSM or manager escalation path (Playbook §9 already lists the triggers), not just surface in a chat reply.
+- **Room to grow the briefings.** Today the router scopes tools to one of three briefings per turn. The same pattern extends to more account states and more data sources, say support sentiment or contract terms, behind one scoped-tool surface.
 
 ## Quickstart
 
